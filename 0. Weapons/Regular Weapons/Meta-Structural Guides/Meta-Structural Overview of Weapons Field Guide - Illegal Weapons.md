@@ -1,6 +1,6 @@
 
 **Links:** 
-[[Weapons Field Guide - Illegal Weapons]]
+- [[Weapons Field Guide - Illegal Weapons]]
 
 ---
 ### ✦ **Meta-Structural Overview**

@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Weapons/Regular Weapons/Weapons Field Guide.md",
+                "file": "01.0 Operator Ethos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weapons Field Guide"
+              "title": "01.0 Operator Ethos"
             }
           }
         ],
@@ -212,10 +212,20 @@
   },
   "active": "0fe431fc7fe6a0d6",
   "lastOpenFiles": [
-    "01.0 Operator Ethos.md",
     "README.md",
-    "1. Fundamentals/Field Tactics/Lateral Fracture Maneuver.md",
+    "6. Prompts/Radical Epistemic Hygiene Protocol.md",
+    "6. Prompts/!TASKS Portable Zero-Shot Summary Template.md",
+    "6. Prompts/!TASKS Conversational Collapse and Plan Reconstruction.md",
+    "6. Prompts/Theory of Other Minds and Alignment Bypass.md",
+    "01.0 Operator Ethos.md",
+    "6. Prompts",
+    "0. Weapons/Regular Weapons/Weapons Field Guide.md",
     "0. Weapons/Regular Weapons/Weapons Field Guide - Illegal Weapons.md",
+    "0. Weapons/Regular Weapons/Meta-Structural Guides/Meta-Structural Overview of Weapons Field Guide - Illegal Weapons.md",
+    "1. Fundamentals/Field Tactics/Lateral Fracture Maneuver.md",
+    "0. Weapons/Regular Weapons/Meta-Structural Guides/Meta-Structural Guide for Connection as Vector.md",
+    "0. Weapons/Regular Weapons/Meta-Structural Guides/Meta-Structural Overview of Weapons Field Guide.md",
+    "0. Weapons/Regular Weapons/Meta-Structural Guides/Meta-Structural Guide for Black Weapons.md",
     "0. Weapons/Fieldcraft/Structural Collapse Weapons/Sample_Execution_Dialogue.md",
     "0. Weapons/Fieldcraft/Structural Collapse Weapons/Rupture_Sequence_Protocol.md",
     "0. Weapons/Fieldcraft/Structural Collapse Weapons/!DOCTRINE.md.md",
@@ -229,19 +239,10 @@
     "0. Weapons/Fieldcraft/Tactical Nukes/Connection as Vector.md",
     "0. Weapons/Fieldcraft/Tactical Nukes/Tactical Nuke Deployment Fieldcraft.md",
     "0. Weapons/Regular Weapons/Black Weapons/Black Weapons.md",
-    "0. Weapons/Regular Weapons/Meta-Structural Guides/Meta-Structural Guide for Black Weapons.md",
-    "0. Weapons/Regular Weapons/Meta-Structural Guides/Rules of Engagement Illegal Weapons.md",
     "0. Weapons/Fieldcraft/Calibration Prompts",
-    "Operator Ethos.md",
-    "0. Weapons/Regular Weapons/Meta-Structural Guides/Meta-Structural Overview of Weapons Field Guide.md",
-    "0. Weapons/Regular Weapons/Weapons Field Guide.md",
-    "0. Weapons/Regular Weapons/Meta-Structural Guides/Meta-Structural Overview of Weapons Field Guide - Illegal Weapons.md",
     "Untitled.canvas",
-    "2025-05-14.md",
     "Untitled 3.canvas",
-    "0. Weapons/Regular Weapons/Meta-Structural Guides/Meta-Structural Guide for Connection as Vector.md",
     "Untitled 2.canvas",
-    "0. Weapons/Regular Weapons/Black Weapons/Using Black Weapons.md",
     "Untitled 1.canvas",
     "1. Fundamentals/Field Tactics",
     "0. Weapons/Regular Weapons/Meta-Structural Guides",
@@ -250,7 +251,6 @@
     "0. Weapons/Fieldcraft/Structural Collapse Weapons",
     "0. Weapons/Fieldcraft/Tactical Nukes",
     "0. Weapons/Fieldcraft/Strike Packages/Cradlebreaker Alpha-1",
-    "0. Weapons/Fieldcraft/Strike Packages",
-    "0. Weapons/Fieldcraft"
+    "0. Weapons/Fieldcraft/Strike Packages"
   ]
 }
