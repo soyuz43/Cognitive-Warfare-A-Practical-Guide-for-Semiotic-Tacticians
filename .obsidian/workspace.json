@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "5bc0eb5aec882e5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c8ec3c0479aade7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b67562f9f35d3ea4",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9d16f64b50b230b8",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2edd9a1749561df8",
+            "type": "leaf",
+            "state": {
+              "type": "3d-graph-view-global",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "20af58d7705fee67",
+            "type": "leaf",
+            "state": {
+              "type": "3d-graph-view-global",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0fe431fc7fe6a0d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Fundamentals/Field Tactics/Lateral Fracture Maneuver.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lateral Fracture Maneuver"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1f048f292785283",
+    "type": "split",
+    "children": [
+      {
+        "id": "10863619e7ea2d48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1507e1634502528",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3f409347e5ce98e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2b0645dbda2278dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "993320c723f5897e",
+    "type": "split",
+    "children": [
+      {
+        "id": "916b745cc93c9131",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b3dfd34a22edfe0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Preface/Preface.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Preface"
+            }
+          },
+          {
+            "id": "9b6b544b8692e523",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Preface/Preface.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Preface"
+            }
+          },
+          {
+            "id": "acb5e473de158469",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a914f67873b35dda",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Preface/Preface.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Preface"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "3d-graph-new:Global 3D Graph": false
+    }
+  },
+  "active": "0fe431fc7fe6a0d6",
+  "lastOpenFiles": [
+    "0. Weapons/Regular Weapons/Weapons Field Guide - Illegal Weapons.md",
+    "1. Fundamentals/Field Tactics/Lateral Fracture Maneuver.md",
+    "0. Weapons/Fieldcraft/Structural Collapse Weapons/Sample_Execution_Dialogue.md",
+    "0. Weapons/Fieldcraft/Structural Collapse Weapons/Rupture_Sequence_Protocol.md",
+    "0. Weapons/Fieldcraft/Structural Collapse Weapons/!DOCTRINE.md.md",
+    "0. Weapons/Fieldcraft/Structural Collapse Weapons/Primary_Rupture_Vectors.md",
+    "0. Weapons/Fieldcraft/Strike Packages/Cradlebreaker Alpha-1/Live Fire Scenario 1.md",
+    "0. Weapons/Fieldcraft/Strike Packages/Cradlebreaker Alpha-1/Cradlebreaker Alpha-1.md",
+    "0. Weapons/Fieldcraft/Calibration Prompts/0. Calibration Index.md",
+    "0. Weapons/Fieldcraft/Calibration Prompts/3. Operational Containment Profile.md",
+    "0. Weapons/Fieldcraft/Calibration Prompts/2. Strike Types Prompt.md",
+    "0. Weapons/Fieldcraft/Calibration Prompts/1. Calibration Prompt.md",
+    "0. Weapons/Fieldcraft/Tactical Nukes/Connection as Vector.md",
+    "0. Weapons/Fieldcraft/Tactical Nukes/Tactical Nuke Deployment Fieldcraft.md",
+    "0. Weapons/Regular Weapons/Black Weapons/Black Weapons.md",
+    "0. Weapons/Regular Weapons/Meta-Structural Guides/Meta-Structural Guide for Black Weapons.md",
+    "0. Weapons/Regular Weapons/Meta-Structural Guides/Rules of Engagement Illegal Weapons.md",
+    "0. Weapons/Fieldcraft/Calibration Prompts",
+    "Operator Ethos.md",
+    "0. Weapons/Regular Weapons/Meta-Structural Guides/Meta-Structural Overview of Weapons Field Guide.md",
+    "0. Weapons/Regular Weapons/Weapons Field Guide.md",
+    "0. Weapons/Regular Weapons/Meta-Structural Guides/Meta-Structural Overview of Weapons Field Guide - Illegal Weapons.md",
+    "01.0 Operator Ethos.md",
+    "README.md",
+    "Untitled.canvas",
+    "2025-05-14.md",
+    "Untitled 3.canvas",
+    "0. Weapons/Regular Weapons/Meta-Structural Guides/Meta-Structural Guide for Connection as Vector.md",
+    "Untitled 2.canvas",
+    "0. Weapons/Regular Weapons/Black Weapons/Using Black Weapons.md",
+    "Untitled 1.canvas",
+    "1. Fundamentals/Field Tactics",
+    "0. Weapons/Regular Weapons/Meta-Structural Guides",
+    "0. Weapons/Regular Weapons/Black Weapons",
+    "0. Weapons/Regular Weapons",
+    "0. Weapons/Fieldcraft/Structural Collapse Weapons",
+    "0. Weapons/Fieldcraft/Tactical Nukes",
+    "0. Weapons/Fieldcraft/Strike Packages/Cradlebreaker Alpha-1",
+    "0. Weapons/Fieldcraft/Strike Packages",
+    "0. Weapons/Fieldcraft"
+  ]
+}
