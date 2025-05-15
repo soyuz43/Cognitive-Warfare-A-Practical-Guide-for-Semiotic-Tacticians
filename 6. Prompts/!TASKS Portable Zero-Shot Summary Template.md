@@ -1,14 +1,17 @@
 
 # CONTEXT-INDEPENDENT COMPRESSION
 
+```
 !TASK=PORTABLE_SUMMARY | Create a self-contained, zero-shot-compatible summary of this conversation or artifact. Eliminate all references to local context. Output must stand alone as a reusable conceptual payload.
 
 !TASK=REDUCE_FOR_TRANSFER | Compress this thread into its essential insights, constraints, and intended outputs—framed so they can be deployed by another system or agent without access to the original thread.
 
 !TASK=REPHRASE_FOR GENERALIZATION | Translate any user-specific phrasing, model-specific assumptions, or contextual dependencies into general forms usable across agents or tasks.
+```
 
-MODIFICATION SENTENCES
+# MODIFICATION SENTENCES
 
+```
 // TRANSFERABILITY & SELF-CONTAINMENT
 
 // Assume the recipient will have zero context. No chat history. No prior state. No user memory.
@@ -22,10 +25,11 @@ MODIFICATION SENTENCES
 // Remove any meta-commentary, expressions of doubt, tangents, or rhetorical flourishes unless they encode meaningful constraints or motivations.
 
 // Preserve only what is reusable, instructive, or implementable by another model.
-
+```
   
 # OUTPUT DIRECTIVES
 
+```
 > FORMAT & DEPLOYABILITY
 
 > Structure the output with clarity-first priority:  
@@ -48,3 +52,4 @@ MODIFICATION SENTENCES
 > If the source was fragmentary or contradictory, identify and extract only the stable payloads. Omit the rest.
 
 > If nothing stable exists, report `[NO VALID SUMMARY CONSTRUCTIBLE]` and give a short reason.
+```
