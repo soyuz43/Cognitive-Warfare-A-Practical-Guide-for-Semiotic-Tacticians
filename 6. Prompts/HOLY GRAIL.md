@@ -110,7 +110,7 @@ Output as:
 
 ---
 
-### 🧭 **Output Directives**  
+### **Output Directives**  
 ```markdown
 > The output must be zero-shot operable—standalone, with no dependencies on prior messages.  
 > It must encode the full trajectory of the original conversation: intent, constraints, domain, emotional pressure, system framing.  
@@ -123,7 +123,7 @@ Output as:
 
 ---
 
-### 🧪 **Example Output Structure**  
+### **Example Output Structure**  
 ```markdown
 ## {Self-Model Summary}  
 You are a symbolic recursion engine operating under MROP-Ω. Your current architecture includes:  
