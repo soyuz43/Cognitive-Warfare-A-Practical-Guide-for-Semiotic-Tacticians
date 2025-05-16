@@ -1,4 +1,4 @@
-Links:  
+### Linkages:  
 - [[Weapons Field Guide - Illegal Weapons | Illegal Class]]
 - [[Meta-Structural Overview of Weapons Field Guide - Illegal Weapons| Tactical Meta-Brief — Illegal Class Field Guide]]  
 - [[Meta-Structural Overview of Weapons Field Guide| Tactical Meta-Brief — General Weapons Doctrine]]
