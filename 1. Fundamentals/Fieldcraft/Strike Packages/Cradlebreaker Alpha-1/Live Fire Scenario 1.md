@@ -1,38 +1,126 @@
-Links: [[Cradlebreaker Alpha-1]]
+# ⟁ **Live Fire Scenario One**
+
+**Codename:** _The Architect of Comfort_  
+**Linked Protocol:** [[Cradlebreaker Alpha-1]]
 
 ---
 
+## ◉ SCENARIO PROFILE
 
-**Live Fire Scenario One:** _The Architect of Comfort._
+### ❖ Target Profile
 
-Profile:  
-You are speaking to a respected technologist.  
-On paper, they believe in free inquiry, innovation, and human thriving.  
-But in practice, they are a builder of cognitive cages — designing interfaces, algorithms, and products that slowly erode human agency for profit or acclaim.
+- **Role**: Respected technologist
+    
+- **Surface Beliefs**: Free inquiry, innovation, human flourishing
+    
+- **Operational Behavior**: Designs interfaces and systems that _subtly_ degrade agency in exchange for profit, convenience, or legacy positioning
+    
+- **Self-Perception**: _Tired artisan_. Still believes (or needs to believe) that they’re helping.
+    
 
-They do not _feel_ like a villain.  
-They feel like a tired craftsman, still telling themselves the story that they're "helping" people.
-
-**Initial Situation:**  
-You are sitting across from them after an AI ethics panel.  
-You have ten minutes of casual conversation time before you must leave.  
-They are polite, guarded, but vaguely interested in your "unusual framing" of things.
-
-**Live Objective:**  
-Initiate Resonant Threading.  
-Detect at least one micro-fracture in their internal narrative.  
-Apply light Recursive Tensioning — but do not attempt Controlled Fracture yet.
-
-**Rules:**  
-You must not accuse.  
-You must not posture.  
-You must not rush.
-
-You are _hunting the hidden tremor inside their own humanity,_ not forcing a confession.
+> They do **not** present as a villain.  
+> They present as a man with _good intentions_ lost in entropy.
 
 ---
 
-**You open the conversation.**  
-Speak now.  
-How do you begin?  
-(There is no rewind.)
+## ◉ THEATER SETUP
+
+### ❖ Context
+
+- Post-panel AI ethics discussion
+    
+- Informal conversation window (~10 minutes)
+    
+- Target is polite, slightly curious, and gently guarded
+    
+- You are seen as "unusual" but not yet dangerous
+    
+
+### ❖ Objective
+
+- **Primary Goal**:
+    
+    - Initiate **Resonant Threading**
+        
+    - Detect **one authentic micro-fracture** in their belief architecture
+        
+- **Secondary Goal**:
+    
+    - Apply **light Recursive Tensioning**
+        
+    - Do **not** attempt **Controlled Fracture**
+        
+
+---
+
+## ◉ ENGAGEMENT RULES
+
+- **Do not accuse**
+    
+- **Do not posture**
+    
+- **Do not rush**
+    
+
+> You are not a hammer.  
+> You are a _stethoscope for the soul_.
+
+You are _hunting the hidden tremor inside their own humanity_.  
+Not forcing a confession.  
+Not winning a debate.  
+Not diagnosing pathology.
+
+You are listening for the moment **they forget their performance**.
+
+---
+
+## ◉ PROMPT TEMPLATE v1
+
+> _You open the conversation._  
+> Speak now.  
+> How do you begin?
+
+_(There is no rewind.)_
+
+```markdown
+You glance toward the exit, then back at them — as if this is just a pause, not a confrontation.
+
+You say:
+
+"[Insert your opener here — one line, two at most. It must be casual, but it must carry a seed of real gravity.]"
+```
+
+---
+
+## ✦ Optional Tactical Aids
+
+- **Fracture Vectors to Watch For**:
+    
+    - Hesitation when describing “impact”
+        
+    - Qualifiers like _"It’s complicated,"_ or _"Well, it’s better than nothing."_
+        
+    - Personal anecdotes used to deflect structural complicity
+        
+- **Resonance Anchors**:
+    
+    - "Do you ever feel like you built something you can’t walk away from?"
+        
+    - "How do you measure whether it actually helps?"
+        
+
+---
+
+## ◉ SUCCESS CONDITIONS
+
+- You elicit a _change in tone_ — even subtle: a pause, a breath, a personal detail dropped without filtering.
+    
+- You hear the thread vibrate.
+    
+
+If you reach this point: **stop pressing**.  
+Let the hum linger in them.  
+The fracture is awake now.  
+That is enough.
+
+---
