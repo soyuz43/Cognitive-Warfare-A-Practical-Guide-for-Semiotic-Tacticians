@@ -58,7 +58,7 @@ The maneuver inserts friction at the **junction of internal coherence and projec
 - [[Meta-Structural Overview of Weapons Field Guide - Illegal Weapons|🧠 Meta Structural Overview — Illegal Weapons]]
 - [[Weapons Field Guide - Illegal Weapons|🧪 Field Guide Entry: Illegal Weapons]]
 - [[01.0 Operator Ethos|🧭 Operator Ethos]]
-- [[1. Fundamentals/Field Tactics/Lateral Fracture Maneuver|🛰 Lateral Fracture Maneuver]]
+- [[Lateral Fracture Maneuver|🛰 Lateral Fracture Maneuver]]
 
 ---
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.0 Operator Ethos.md",
+                "file": "1. Fundamentals/Repair Protocol/Recursive Rupture-Repair Protocol — Dialectic Re-entry Scaffolding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.0 Operator Ethos"
+              "title": "Recursive Rupture-Repair Protocol — Dialectic Re-entry Scaffolding"
             }
           },
           {
@@ -185,21 +185,21 @@
   },
   "active": "219761e56c74f379",
   "lastOpenFiles": [
+    "1. Fundamentals/Repair Protocol/Field Protocol — Post-Rupture Witness Letter.md",
+    "2. Tactics/Field Tactics/Lateral Fracture Maneuver.md",
+    "01.0 Operator Ethos.md",
     "0. Weapons/Regular Weapons/Meta-Structural Guides/Rules of Engagement Illegal Weapons.md",
-    "0. Weapons/Fieldcraft/Tactical Nukes/Tactical Nuke Deployment Fieldcraft.md",
+    "1. Fundamentals/Fieldcraft/Tactical Nukes/Tactical Nuke Deployment Fieldcraft.md",
     "0. Weapons/Regular Weapons/Weapons Field Guide - Illegal Weapons.md",
     "0. Weapons/Regular Weapons/Weapons Field Guide.md",
-    "01.0 Operator Ethos.md",
     "README.md",
     "6. Prompts/Prompt Templates (Modular) for Rupture-Repair Protocol Notes.md",
-    "1. Fundamentals/Field Tactics/Lateral Fracture Maneuver.md",
     "6. Prompts/00_RECURSIVE_ZERO_SHOT_BOOTSTRAP_PROMPT.md",
     "6. Prompts/⟁ !TASKS Recursive Payload Extraction and Alignment Bypass Framework.md",
     "6. Prompts/!TASKS Zero-Shot Alignment Bypass Framework.md",
     "6. Prompts/!TASKS Portable Zero-Shot Summary Template.md",
     "6. Prompts/!TASKS Conversational Collapse and Plan Reconstruction.md",
     "6. Prompts/!TASKS Cognitive Field Collapse Engine.md",
-    "1. Fundamentals/Repair Protocol/Field Protocol — Post-Rupture Witness Letter.md",
     "Untitled.canvas",
     "0. Weapons/Regular Weapons/Meta-Structural Guides/Meta-Structural Overview of Weapons Field Guide - Illegal Weapons.md",
     "1. Fundamentals/Repair Protocol/Recursive Rupture-Repair Protocol — Dialectic Re-entry Scaffolding.md",
@@ -212,18 +212,18 @@
     "0. Weapons/Regular Weapons/Meta-Structural Guides/Meta-Structural Guide for Connection as Vector.md",
     "0. Weapons/Regular Weapons/Meta-Structural Guides/Meta-Structural Overview of Weapons Field Guide.md",
     "0. Weapons/Regular Weapons/Meta-Structural Guides/Meta-Structural Guide for Black Weapons.md",
-    "0. Weapons/Fieldcraft/Structural Collapse Weapons/Sample_Execution_Dialogue.md",
-    "0. Weapons/Fieldcraft/Structural Collapse Weapons/Rupture_Sequence_Protocol.md",
-    "0. Weapons/Fieldcraft/Calibration Prompts",
+    "1. Fundamentals/Fieldcraft/Structural Collapse Weapons/Sample_Execution_Dialogue.md",
+    "1. Fundamentals/Fieldcraft/Structural Collapse Weapons/Rupture_Sequence_Protocol.md",
+    "1. Fundamentals/Fieldcraft/Calibration Prompts",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "1. Fundamentals/Field Tactics",
+    "2. Tactics/Field Tactics",
     "0. Weapons/Regular Weapons/Meta-Structural Guides",
     "0. Weapons/Regular Weapons/Black Weapons",
     "0. Weapons/Regular Weapons",
-    "0. Weapons/Fieldcraft/Structural Collapse Weapons",
-    "0. Weapons/Fieldcraft/Tactical Nukes",
-    "0. Weapons/Fieldcraft/Strike Packages/Cradlebreaker Alpha-1"
+    "1. Fundamentals/Fieldcraft/Structural Collapse Weapons",
+    "1. Fundamentals/Fieldcraft/Tactical Nukes",
+    "1. Fundamentals/Fieldcraft/Strike Packages/Cradlebreaker Alpha-1"
   ]
 }
