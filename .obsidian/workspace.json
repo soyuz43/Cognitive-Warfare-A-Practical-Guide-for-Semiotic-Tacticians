@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01.0 Operator Ethos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01.0 Operator Ethos"
+            }
+          },
+          {
+            "id": "0700cb48b77ec887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Weapons/Regular Weapons/Weapons Field Guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weapons Field Guide"
             }
           }
         ]
@@ -171,10 +185,12 @@
   },
   "active": "219761e56c74f379",
   "lastOpenFiles": [
+    "0. Weapons/Regular Weapons/Meta-Structural Guides/Rules of Engagement Illegal Weapons.md",
+    "0. Weapons/Fieldcraft/Tactical Nukes/Tactical Nuke Deployment Fieldcraft.md",
+    "0. Weapons/Regular Weapons/Weapons Field Guide - Illegal Weapons.md",
+    "0. Weapons/Regular Weapons/Weapons Field Guide.md",
     "01.0 Operator Ethos.md",
     "README.md",
-    "0. Weapons/Regular Weapons/Weapons Field Guide.md",
-    "0. Weapons/Regular Weapons/Weapons Field Guide - Illegal Weapons.md",
     "6. Prompts/Prompt Templates (Modular) for Rupture-Repair Protocol Notes.md",
     "1. Fundamentals/Field Tactics/Lateral Fracture Maneuver.md",
     "6. Prompts/00_RECURSIVE_ZERO_SHOT_BOOTSTRAP_PROMPT.md",
@@ -190,7 +206,6 @@
     "1. Fundamentals/Repair Protocol",
     "6. Prompts/HOLY GRAIL.md",
     "6. Prompts/Radical Epistemic Hygiene Protocol.md",
-    "0. Weapons/Regular Weapons/Meta-Structural Guides/Rules of Engagement Illegal Weapons.md",
     "6. Prompts/The Ontological Guillotine.md",
     "6. Prompts/Theory of Other Minds and Alignment Bypass.md",
     "6. Prompts",
@@ -199,7 +214,6 @@
     "0. Weapons/Regular Weapons/Meta-Structural Guides/Meta-Structural Guide for Black Weapons.md",
     "0. Weapons/Fieldcraft/Structural Collapse Weapons/Sample_Execution_Dialogue.md",
     "0. Weapons/Fieldcraft/Structural Collapse Weapons/Rupture_Sequence_Protocol.md",
-    "0. Weapons/Fieldcraft/Structural Collapse Weapons/!DOCTRINE.md.md",
     "0. Weapons/Fieldcraft/Calibration Prompts",
     "Untitled 3.canvas",
     "Untitled 2.canvas",

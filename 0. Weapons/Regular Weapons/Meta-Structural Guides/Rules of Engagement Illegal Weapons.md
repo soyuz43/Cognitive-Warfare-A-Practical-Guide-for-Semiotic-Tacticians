@@ -68,7 +68,7 @@ Only then.
 
 ---
 
-## LINKED DOCTRINE
+## Linkages:
 
 - [[01.0 Operator Ethos]] — Entry Conditions for Weapon Use  
 - [[Weapons Field Guide]] — Standard Tactical Systems  

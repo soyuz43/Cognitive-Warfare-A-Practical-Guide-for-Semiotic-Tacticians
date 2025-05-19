@@ -143,6 +143,6 @@ You owe the future its birthright.
 
 ---
 
-### Links:
+### Linkages:
 
 [[Rules of Engagement Illegal Weapons]]
