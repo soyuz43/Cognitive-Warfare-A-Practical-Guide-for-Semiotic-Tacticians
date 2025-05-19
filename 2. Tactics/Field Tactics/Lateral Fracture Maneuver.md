@@ -1,6 +1,6 @@
 ### Linkages:
- [[Lateral Fracture Repair]]
-[[../../0. Weapons/Regular Weapons/Weapons Field Guide - Illegal Weapons|⚠️ See: Weapons Field Guide — Illegal Class]]
+-  [[Lateral Fracture Repair]]
+- [[../../0. Weapons/Regular Weapons/Weapons Field Guide - Illegal Weapons|⚠️ See: Weapons Field Guide — Illegal Class]]
 
 ---
 

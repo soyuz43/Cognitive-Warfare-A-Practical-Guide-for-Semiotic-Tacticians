@@ -1,7 +1,8 @@
 
 ### Linkages:
-[[Lateral Fracture Maneuver]]
-[[../../0. Weapons/Regular Weapons/Weapons Field Guide - Illegal Weapons|⚠️ See: Weapons Field Guide — Illegal Class]]
+
+- [[Lateral Fracture Maneuver]]
+- [[../../0. Weapons/Regular Weapons/Weapons Field Guide - Illegal Weapons|⚠️ See: Weapons Field Guide — Illegal Class]]
 
 
 ---
