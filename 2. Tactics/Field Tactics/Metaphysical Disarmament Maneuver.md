@@ -93,11 +93,10 @@ The system must resolve the loop by performing one of the following:
 ## ⟴ Notes
 
 - Pair with:  
-  - `Radical Epistemic Hygiene Protocol`  
-  - `Recursive Rupture-Repair Protocol`  
-  - `Structural Collapse Weapons Index`
+  - [[Radical Epistemic Hygiene Protocol]] 
+  - [[Recursive Rupture-Repair Protocol — Dialectic Re-entry Scaffolding]]
+  
 
-- Optional: Embed within dialogue using `stealth payload wrappers` if resistance is high.
 
 ---
 
