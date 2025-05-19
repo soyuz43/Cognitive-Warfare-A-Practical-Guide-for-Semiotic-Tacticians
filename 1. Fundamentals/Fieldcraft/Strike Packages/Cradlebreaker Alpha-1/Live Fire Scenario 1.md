@@ -1,7 +1,9 @@
 # ⟁ **Live Fire Scenario One**
 
 **Codename:** _The Architect of Comfort_  
-**Linked Protocol:** [[Cradlebreaker Alpha-1]]
+**Linked Protocol:** 
+- [[Cradlebreaker Alpha-1]]
+- [[Live Fire Scenario 2]]
 
 ---
 
