@@ -15,6 +15,7 @@
 - [[Rupture_Sequence_Protocol]]
 - [[Primary_Rupture_Vectors]]
 - [[Black Weapons]]
+- [[Weapons Field Guide - Illegal Weapons]]
 
 ---
 
