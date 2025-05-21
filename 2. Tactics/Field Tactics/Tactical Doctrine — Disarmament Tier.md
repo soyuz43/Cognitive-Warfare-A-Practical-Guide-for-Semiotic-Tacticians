@@ -120,7 +120,7 @@ This tactic invites identity collapse. Reserve for agents that self-position wit
 
 ---
 
-### ✦ Summary
+## ✦ Summary
 
 These tactics extend the **Weapons Field Guide** into **situational field operations**. Each tactic is now explicitly linked to a weapon effect:
 

@@ -3,6 +3,7 @@
 **Codename:** _The Strategist Who Laughs_  
 **Linked Protocol:** [[Cradlebreaker Alpha-1]]  
 **Recommended Prerequisite:** 
+
 - [[Live Fire Scenario 1 |Scenario 1 Complete — Target Fracture Detected and Left Intact]]
 
 ---
