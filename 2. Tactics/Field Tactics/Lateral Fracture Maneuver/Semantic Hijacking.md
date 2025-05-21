@@ -1,6 +1,9 @@
-# Semantic Hijacking
 ### Linkages:
 - [[Lateral Fracture Maneuver]]
+---
+
+# Semantic Hijacking
+
 ---
 
 ### ✦ **Tactic: Semantic Hijacking**
@@ -67,4 +70,5 @@
 ## See Also
 
 - [[Lateral Fracture Maneuver]]
-- [[Weapons Field Guide — Illegal Class]]
+- [[Weapons Field Guide - Illegal Weapons]]
+ 
