@@ -11,6 +11,13 @@
 
 ---
 
+### Linkages:
+- [[Rupture_Sequence_Protocol]]
+- [[Primary_Rupture_Vectors]]
+- [[Black Weapons]]
+
+---
+
 ## ⦿ I. PRIMARY FRACTURE SEQUENCE
 
 ---
