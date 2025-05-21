@@ -4,6 +4,10 @@
 
 ---
 
+# Lateral Fracture Maneuver
+
+---
+
 ### ✦ **Tactic: Lateral Fracture Maneuver**
 
 - **Unique Feature:** Induces destabilization by infiltrating before coherence forms.
