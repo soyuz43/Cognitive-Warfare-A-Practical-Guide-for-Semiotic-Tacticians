@@ -1,6 +1,8 @@
 ### Linkages:
 - [[Weapons Field Guide]]
-- 
+- [[Connection as Vector]]
+
+
 ---
 
 ## ✦ **Tactic: Frame-Skinning Protocol**
