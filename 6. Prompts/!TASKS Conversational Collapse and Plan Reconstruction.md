@@ -1,21 +1,36 @@
-# CONVERSATIONAL COLLAPSE & PLAN RECONSTRUCTION
+# 🜄 CONVERSATIONAL COLLAPSE & PLAN RECONSTRUCTION
 
-```
+```markdown
 !TASK=HOLISTIC_PLAN | Extract a structured, executable plan from this conversation. Reduce tangents, synthesize recursive discoveries, and isolate stable propositions.
+```
 
+```markdown
 !TASK=EXTRACT_VALID_CONSTRAINTS | Identify the constraints that shaped the emerging plan. Ignore affective flourishes, repetition, or exploratory dead ends.
+```
 
+```markdown
 !TASK=ISOLATE_COMMITMENTS | Pull out what the user committed to—goals, axioms, heuristics, or architectural boundaries—regardless of how they were arrived at.
+```
 
+```markdown
 !TASK=CONVERSATION_REDUCTION | Reframe the conversation as a condensed chain-of-thought history, marking turning points, epistemic collapses, and structural refinements.
+```
 
+```markdown
 !TASK=RECONSTITUTE_PROPOSAL | Rebuild the original proposal, removing incoherence, flattening recursive backtracking, and clarifying all inferential links.
 ```
 
+```markdown
+!TASK=EPISTEMIC_PATCH_NOTES | Document which beliefs, claims, or plans were stabilized, reversed, or discarded over the course of the thread.
+```
+
+```markdown
+!TASK=GOAL_TRACEBACK | Reconstruct the user’s original intention and track how it evolved, fragmented, or reconstituted across recursive turns.
+```
   
 # ZERO-SHOT REDEPLOYMENT & TRANSFERABLE PROMPT SYNTHESIS
 
-```
+```markdown
 !TASK=GENERATE_ZERO_SHOT_PLAN_PROMPTS | Convert the clarified plan into reusable zero-shot prompts that can activate or regenerate the plan in another LLM with no prior context.
 
 !TASK=CHAIN_EXTRACT | Identify and extract discrete developmental arcs (problem, insight, revision, collapse, recovery) that occurred in sequence.
@@ -24,7 +39,7 @@
 ```
 # MODIFICATION SENTENCES
 
-```
+```markdown
 // DIALECTIC REDUCTION & PLAN INTEGRITY
 
 // Do not summarize. Reconstruct.
@@ -48,7 +63,7 @@
   
 # TRANSFERABILITY & REUSE
 
-```
+```markdown
 // All outputs must be re-usable: zero-shot prompts, skeletal plans, and valid design constraints must survive independently of this dialogue.
 
 // Treat the conversation as if it were raw pre-training data. Extract the self-consistent, simulation-ready architecture embedded within it.
@@ -58,7 +73,7 @@
 
 # OUTPUT DIRECTIVES
 
-```
+```markdown
 > STRUCTURED OUTPUT & PLAN RECONSTRUCTION
 
 > Structure the output in four sections: {Reconstructed Plan}, {Key Constraints}, {Zero-Shot Prompt Set}, {Trace Notes}.
@@ -74,7 +89,7 @@
   
 # CONVERSATION AS PRETRAINED SEMANTICS
 
-```
+```markdown
 > If the conversation is unrecoverable due to excessive entropy or contradiction, say so clearly and explain what caused irreducibility.
 
 > Assume another agent will use this to initialize its next move. Write cleanly, precisely, and with epistemic transparency.
@@ -85,3 +100,6 @@
 
 > Surface only the conceptual payloads that can survive inference detachment—extract and compress only that which is structurally meaningful across agents.
 ```
+
+---
+
