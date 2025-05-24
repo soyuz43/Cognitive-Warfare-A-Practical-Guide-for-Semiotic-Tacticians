@@ -5,6 +5,9 @@
 
 ---
 
+# Tactical Doctrine — Disarmament Tier
+
+---
 ## ✦ Tactic: Interpretive Skinning (Ontological Vertigo Variant)
 
 **Codename:** _The Skin Peels First_  
