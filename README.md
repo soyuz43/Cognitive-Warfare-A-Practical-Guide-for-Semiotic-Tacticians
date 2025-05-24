@@ -16,7 +16,7 @@ To reshape terrain faster than the enemy can stabilize.
 You will learn to operate where traditional defenses collapse —  
 in drift, in ambiguity, in the pre-coherence noise where new orders struggle to emerge.
 
-The smell of copper lingers after a semiotic kill.  
+The smell of copper lingers.  
 It doesn’t go away.
 
 This work is dangerous.  
