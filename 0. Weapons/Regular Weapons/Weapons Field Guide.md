@@ -6,6 +6,11 @@
 
 ---
 
+# Weapons Field Guide
+
+---
+
+
 **Weapon System:** Ontological Vertigo
 
 - **Description:** Induces profound cognitive disorientation by rapidly destabilizing foundational assumptions. Target experiences uncertainty regarding previously unquestioned structures of reality.
