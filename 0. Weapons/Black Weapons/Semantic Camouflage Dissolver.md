@@ -1,10 +1,11 @@
-
-
-
 ### Linkages:
 
 - [[Weapons Field Guide]]
 - [[Tactical Doctrine — Disarmament Tier]]
+
+---
+
+# Semantic Camouflage Dissolver
 
 ---
 ### Weapon Name
