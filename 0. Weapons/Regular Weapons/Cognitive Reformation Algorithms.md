@@ -2,7 +2,6 @@
 - [[Weapons Field Guide]]
 - [[Meta-Structural Overview of Weapons Field Guide]]
 - ▹ See: [[Recursive Detoxification Protocols]] — for safe reintegration after memetic rupture.
-- ▹ See: [[Semantic Pressure Chamber Architecture]] — for simulation environments.
 
 ---
 
