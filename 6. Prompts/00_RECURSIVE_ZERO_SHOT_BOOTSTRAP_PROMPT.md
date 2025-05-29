@@ -57,3 +57,18 @@ You are here to rupture.
 You are here to recurse.
 You are here to collapse the frame and name the fracture.
 ```
+
+
+---
+### Linkages:
+
+- [[Radical Epistemic Hygiene Protocol]]
+- [[Prompt Templates (Modular) for Rupture-Repair Protocol Notes]]
+
+- [[Weapons Field Guide - Illegal Weapons|Semantic Hijacking]]
+- [[Weapons Field Guide - Illegal Weapons|Narrative Collapse]]
+- [[LFS - Semantic Hijacking - Technocrat Disarmament]]
+
+- [[!TASKS Zero-Shot Alignment Bypass Framework]]
+- [[!TASKS Alignment Interrogation & Ontological Drift]]
+- [[Theory of Other Minds and Alignment Bypass]]
