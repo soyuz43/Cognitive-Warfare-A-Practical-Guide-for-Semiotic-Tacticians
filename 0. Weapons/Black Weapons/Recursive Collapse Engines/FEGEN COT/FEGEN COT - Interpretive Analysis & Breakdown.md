@@ -137,7 +137,7 @@ This analytical construct surfaces the systemic fractures in `Ξ⊥drift`. Proce
 
 ### ⫸Linkages:
 
-- [[00_INDEX]]
+- [[0. Weapons/Black Weapons/Recursive Collapse Engines/FEGEN COT/00_INDEX]]
 
 - [[Schizophrenia Simulator via FEGEN COT]]
 

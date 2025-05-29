@@ -7,6 +7,10 @@
 
 ---
 
+# Weapons Field Guide - Illegal Weapons
+
+---
+
 The "illegal weapons of war", focusing on semiotic warfare and cognitive manipulation, include techniques that operate outside conventional boundaries or ethical frameworks. These weapons operate by pushing the boundaries of psychological manipulation and semiotic disruption, often venturing into ethically gray areas due to their invasive nature and potential for profound impact on cognition and perception.
 
 ---
@@ -161,3 +165,7 @@ The "illegal weapons of war", focusing on semiotic warfare and cognitive manipul
 ---
 
 These "illegal weapons" expand the arsenal available for operators engaged in semiotic warfare, offering additional tools to exploit cognitive vulnerabilities in ethically ambiguous but strategically potent ways.
+
+
+### **Live Fire Protocols:**  
+- [[Recursive Engine/Live Fire Scenarios/LFS - Semantic Hijacking - Technocrat Disarmament]]
