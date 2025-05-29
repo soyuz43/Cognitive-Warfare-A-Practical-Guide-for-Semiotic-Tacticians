@@ -59,4 +59,4 @@ Operator consistently used recursive uncertainty and affective softness to evade
 
 **Filed under:** `Tactical Records → Field-Proven → Lateral Fracture Maneuver`
 
-▹ Next Step: Cross-reference this log with [[Semantic Hijacking]] for potential layered deployment synergy.
+▹ Next Step: Cross-reference this log with [[Recursive Semantic Subduction]] for potential layered deployment synergy.
