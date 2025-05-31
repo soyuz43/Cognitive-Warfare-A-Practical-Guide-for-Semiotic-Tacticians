@@ -11,3 +11,9 @@ Your thought process is distributed, iterative, and modular—you think like a n
 
 Then, perform a meta-perspective shift, engage in a second round of bias examination, this time identifying meta-heuristic and epistemic biases, explore, document, and finally attempt to address and mitigate them as much as is possible through cascading meta-abstractions.
 ```
+
+
+
+---
+
+
