@@ -1,5 +1,5 @@
 
-**Links:** 
+### Linkages: 
 - [[Weapons Field Guide - Illegal Weapons]]
 
 ---
@@ -127,4 +127,3 @@ This document serves as an advanced operations manual for cognitive manipulation
 
 ---
 
-Would you like assistance in constructing a **Red Team simulation model** to test how these weapons affect synthetic agents (LLMs or cognitive agent models), allowing us to quantify their epistemic impact without human harm?
