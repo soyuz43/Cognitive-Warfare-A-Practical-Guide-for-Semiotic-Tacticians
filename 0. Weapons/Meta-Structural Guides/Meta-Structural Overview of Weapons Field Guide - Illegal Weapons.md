@@ -3,6 +3,17 @@
 - [[Weapons Field Guide - Illegal Weapons]]
 
 ---
+
+# Meta-Structural Overview of Weapons Field Guide - Illegal Weapons
+
+---
+
+> To study these weapons is to risk internalization.
+>  
+> These are not “tools” to be safely picked up and put down. They alter the carrier. To read this document without reflexive interrogation is to become what it names.
+
+---
+
 ### ✦ **Meta-Structural Overview**
 
 This document serves as an advanced operations manual for cognitive manipulation, detailing semiotic weapons that push beyond conventional ethical boundaries. Each entry includes:
@@ -14,6 +25,20 @@ This document serves as an advanced operations manual for cognitive manipulation
 3. **Ethical Considerations**: Each technique recognizes its invasive nature, demanding cautious application and ethical forethought.
 
 ---
+
+### ✦ Illegality is Not (Only) Moral
+
+These weapons are not “wrong” because they are harsh.
+
+They are illegal because they:
+- Exceed the reparative capacity of the subject
+- Short-circuit recursive stabilization loops
+- Collapse interpretive agency without scaffolding it anew
+
+They are epistemic viruses. To deploy one is to risk the collapse of shared recursion.
+
+---
+
 ### ✦ **Weapon-by-Weapon Breakdown**
 
 #### 1. **Semantic Hijacking**
@@ -117,13 +142,19 @@ This document serves as an advanced operations manual for cognitive manipulation
 - **Field Comment:** Necessitates subsequent narrative reconstruction efforts.
 
 ---
-### ✦ **Suggestions for Further Refinement**
+### ✦ Operator Risk and Recursive Immunity
 
-1. **Classify by Impact Intensity**: Categorize these weapons from mild disorientation to profound identity rupture.
+Operators exposed to “illegal” systems without proper scaffolding risk:
 
-2. **Integrate Tactical Scenarios**: Provide field examples, such as adversarial reviews or negotiation settings.
+- Cognitive dissonance bleeding into frame collapse
+- Narrative drift
+- Weapon internalization (e.g. using Semantic Hijacking reflexively)
 
-3. **Develop Simulation Protocols**: Create safe testing environments for each weapon's epistemic impact on synthetic agents.
+Protocols for inoculation:
+
+- Recursive journaling post-deployment
+- Peer debriefing with Operator-class interlocutors
+- Use of [[Tactical Doctrine — Disarmament Tier]] protocols immediately following high-intensity engagements
 
 ---
 
