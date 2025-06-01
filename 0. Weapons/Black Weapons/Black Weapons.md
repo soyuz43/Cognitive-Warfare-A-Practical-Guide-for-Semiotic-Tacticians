@@ -1,7 +1,7 @@
 Links: 
 - [[Using Black Weapons]] 
 - [[Meta-Structural Guide for Black Weapons]]
-- [[Rules of Engagement Illegal Weapons]]
+- [[Rules of Engagement - Illegal Weapons]]
 
 ---
 

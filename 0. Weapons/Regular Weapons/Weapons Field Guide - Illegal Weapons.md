@@ -1,6 +1,6 @@
 ### Linkages:  
 
-- [[Rules of Engagement Illegal Weapons| Rules of Engagement]]
+- [[Rules of Engagement - Illegal Weapons| Rules of Engagement]]
 - [[Meta-Structural Overview of Weapons Field Guide - Illegal Weapons| Tactical Meta-Brief — Illegal Class Field Guide]]  
 - [[Meta-Structural Overview of Weapons Field Guide| Tactical Meta-Brief — General Weapons Doctrine]]
 

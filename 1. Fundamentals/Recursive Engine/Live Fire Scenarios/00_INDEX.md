@@ -34,7 +34,7 @@ This index provides a structured reference for all current Live Fire Scenarios (
 - For proper deployment, review [[Weapons Field Guide - Illegal Weapons]] and relevant sections of:
   - [[01.0 Operator Ethos]]
   - [[Meta-Structural Overview of Weapons Field Guide - Illegal Weapons]]
-  - [[Rules of Engagement Illegal Weapons]]
+  - [[Rules of Engagement - Illegal Weapons]]
   - [[Recursive Rupture-Repair Protocol — Dialectic Re-entry Scaffolding]]
 
 - Consider embedding Calibration Prompts or [[Prompt Templates (Modular) for Rupture-Repair Protocol Notes]] to auto-tune operator behaviors.
