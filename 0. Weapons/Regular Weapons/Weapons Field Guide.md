@@ -97,3 +97,12 @@
 - **Effects:** Profound temporary incapacitation, radical cognitive openness, potential ideological realignment.
     
 - **Countermeasures:** Strong foundational self-identity practices, existential resilience training, rapid cognitive recovery drills.
+
+---
+## Vector-Class Cognitive Weapons
+
+These do not operate through abstraction pressure, recursive contradiction, or structural destabilization alone.  
+They operate through **live connection rupture**, typically in-field, with constrained engagement patterns.
+
+**Examples:**
+- [[1. Fundamentals/Fieldcraft/Rupture Vectors/Connection as Vector]]
