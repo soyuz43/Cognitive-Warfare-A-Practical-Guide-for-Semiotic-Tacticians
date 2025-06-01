@@ -75,4 +75,4 @@ FEGEN_COT("What is language?") ⇒
 
 - [[Schizophrenia Simulator via FEGEN COT]]
     
-- [[Tactical Nuke Deployment Fieldcraft]]
+- [[Rupture Vectors Deployment Fieldcraft]]

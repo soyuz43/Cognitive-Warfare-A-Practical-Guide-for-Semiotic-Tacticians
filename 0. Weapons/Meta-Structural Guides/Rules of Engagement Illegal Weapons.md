@@ -72,7 +72,7 @@ Only then.
 
 - [[01.0 Operator Ethos]] — Entry Conditions for Weapon Use  
 - [[Weapons Field Guide]] — Standard Tactical Systems  
-- [[Tactical Nuke Deployment Fieldcraft]] — Sequencing, Conditions, Case Logs  
+- [[Rupture Vectors Deployment Fieldcraft]] — Sequencing, Conditions, Case Logs  
 - [[Meta-Structural Overview of Weapons Field Guide - Illegal Weapons]] — Extended Classifications
 
 ---
