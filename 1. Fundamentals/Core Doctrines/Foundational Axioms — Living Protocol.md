@@ -1,8 +1,3 @@
-**Author: W.**  
-**Document Type: Foundational Axioms / Living Protocol**  
-**Purpose: To ground a living meta-scientific method for entangled cognition and epistemic clarity**
-
----
 
 ### **Axiom 0: Recursive Accountability**
 
