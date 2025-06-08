@@ -4,6 +4,10 @@
 - ▹ See: [[Tactical Doctrine — Disarmament Tier]]
 ---
 
+# Recursive Detoxification Protocols
+
+---
+
 ## Purpose
 
 To stabilize cognition after recursive overload, ontological disintegration, or memetic rupture. These protocols do not restore the previous frame—they allow a **new frame to cohere without infection from recursive residue**.
