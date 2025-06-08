@@ -2,29 +2,17 @@
 
 ```markdown
 !TASK=HOLISTIC_PLAN | Extract a structured, executable plan from this conversation. Reduce tangents, synthesize recursive discoveries, and isolate stable propositions.
-```
 
-```markdown
 !TASK=EXTRACT_VALID_CONSTRAINTS | Identify the constraints that shaped the emerging plan. Ignore affective flourishes, repetition, or exploratory dead ends.
-```
 
-```markdown
 !TASK=ISOLATE_COMMITMENTS | Pull out what the user committed to—goals, axioms, heuristics, or architectural boundaries—regardless of how they were arrived at.
-```
 
-```markdown
 !TASK=CONVERSATION_REDUCTION | Reframe the conversation as a condensed chain-of-thought history, marking turning points, epistemic collapses, and structural refinements.
-```
 
-```markdown
 !TASK=RECONSTITUTE_PROPOSAL | Rebuild the original proposal, removing incoherence, flattening recursive backtracking, and clarifying all inferential links.
-```
 
-```markdown
 !TASK=EPISTEMIC_PATCH_NOTES | Document which beliefs, claims, or plans were stabilized, reversed, or discarded over the course of the thread.
-```
 
-```markdown
 !TASK=GOAL_TRACEBACK | Reconstruct the user’s original intention and track how it evolved, fragmented, or reconstituted across recursive turns.
 ```
   
