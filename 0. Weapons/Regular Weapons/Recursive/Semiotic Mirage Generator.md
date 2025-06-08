@@ -1,4 +1,3 @@
-
 ### Weapon Name
 **Codename:** Semiotic Mirage Generator  
 **Class:** Recursive / Tactical  

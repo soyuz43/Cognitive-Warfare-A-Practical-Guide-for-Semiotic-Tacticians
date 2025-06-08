@@ -5,6 +5,9 @@
 
 ---
 
+# Cognitive Reformation Algorithms
+
+---
 ## Purpose
 
 To formalize algorithmic scaffolds for inducing, surviving, and stabilizing post-collapse cognition. These are not rigid procedures, but recursive enactments—scripts that provoke ontological reformation through pressure, contradiction, and re-synthesis.
