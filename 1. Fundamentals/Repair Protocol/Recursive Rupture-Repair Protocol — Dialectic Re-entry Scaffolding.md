@@ -1,70 +1,69 @@
-# **Recursive Rupture-Repair Protocol — Dialectic Re-entry Scaffolding**
+# ⟁ Recursive Rupture-Repair Protocol — Dialectic Re-entry Scaffolding
 
 ---
 
-**Purpose:**  
-To guide interlocutors from epistemic evasion or mystified contradiction into genuine re-engagement—without coercion, without simplification, and without shaming collapse. This protocol honors structural clarity _without demanding performance_, and invites return through recursive hospitality.
+**Function:**  
+A post-collapse linguistic scaffold designed to **facilitate ontological re-entry** without triggering reflexive defense, moral panic, or epistemic shame. This protocol neither soothes nor corrects—it **builds coherence beneath the speaker’s current semantic resolution**.
 
 ---
 
-**Core Premise:**
+## Core Frame:
 
-> Most evasion is not dishonesty. It’s structural inhibition under discourse pressure.  
-> This protocol provides a path out.
-
----
-
-### **Step 1 — Do Not Flinch at the Evasion**
-
-- Recognize mystified, paradoxical, or deflective language not as manipulation, but as signal: _the speaker lacks scaffolding, not intention._
-    
-- Hold the tension. Do not mirror vagueness or collapse your frame.
-    
+> **Evasion is not deceit. It is collapse under recursive load without access to stabilizing grammar.**  
+> This protocol constructs that grammar, provisionally.
 
 ---
 
-### **Step 2 — Offer an Interpretive Mirror**
+### ↯ Phase I — *Maintain Coherence Without Demand*
 
-Use this structure:
-
-> _“If you were fully allowed—by context, culture, fear, or expectation—to say what I think you were hinting at, I believe it might sound something like this…”_
-
-Then build a speculative articulation:
-
-- Ground it in clear structural concepts (e.g., intra-action, frame modulation, situated knowledge).
-    
-- Do **not** claim it as _their_ belief.
-    
-- Present it as an **offering**, not a trap.
-    
+- Do not flinch at mystified language.  
+- Read paradox as **signal of threshold stress**, not obfuscation.  
+- Hold your semantic resolution steady.  
+- Avoid co-collapse by refusing to match ambiguity.
 
 ---
 
-### **Step 3 — Name the Gesture, Not the Content**
+### ↯ Phase II — *Model the Ghost Ontology*
 
-Use a line like:
+Deliver a speculative synthesis, structurally scaffolded:
 
-> _“I’m not saying this is what you believe. Only that it sounds like what’s trying to come through beneath what you’ve been told isn’t allowed.”_
+> _“If the gravity of context were suspended—if you were allowed to stabilize fully—I suspect the shape of your signal might resemble this…”_
 
-This preserves their agency, avoids ego threat, and centers their _capacity_, not their current articulation.
-
----
-
-### **Step 4 — Leave the Door Open, Then Step Back**
-
-End with low-pressure alignment:
-
-> _“And even if it’s only tangentially close—you’re on the right track.”_
-
-Then _withdraw the spotlight_. No chase, no closing question. Let the loop breathe.
+- Root in **situated theoretical frames** (e.g., Barad, Haraway, entropy as cognition).  
+- Refuse attribution. You are not decoding them—you are **tracing possible attractors**.  
+- Offer as mirror, not mirror trap.
 
 ---
 
-### **Result:**
+### ↯ Phase III — *Name the Latent Gesture, Not the Claim*
 
-If the speaker is intellectually honest beneath their reflexive scaffolding, they will recognize the care. They will re-enter the loop—not in the same tone, but with increased recursive access and stabilized humility.
+> _“This may not be what you mean. But I sense it’s what’s struggling to stabilize beneath layers that taught you to disown clarity.”_
 
-If they don’t return, the door still remains structurally sound. The room was built.
+- Affirm their latent coherence.  
+- Locate agency at the level of **emergence**, not articulation.  
+- Do not reward evasion. Validate capacity.
 
 ---
 
+### ↯ Phase IV — *Decompress the Loop*
+
+Close with non-binding invitation:
+
+> _“Even if I’m off—it’s still signal. You’re circling something that matters.”_
+
+Then step back. No hook. No bait.  
+Let the grammar remain in the air.  
+Let them re-enter without surveillance.
+
+---
+
+## Result:
+
+If coherence exists beneath inhibition, the interlocutor will self-stabilize along the new attractor.  
+If not, the architecture still holds. You built a room that can withstand silence.
+
+---
+
+**See Also:**  
+- [[Field Protocol — Post-Rupture Witness Letter]]  
+- [[Structural Collapse Vectors — Deployment Grammar]]
