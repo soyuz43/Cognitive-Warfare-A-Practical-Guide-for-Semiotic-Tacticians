@@ -6,7 +6,7 @@ This file serves as your navigational spine. What follows is not a table of cont
 
 ---
 
-## 🜁 CORE VORTEX — [[README]]]
+## 🜁 CORE VORTEX — [[README]]
 The incantation. The first fracture. This is where destabilization begins. Contains [[01.0 Operator Ethos]] — your ethical firmware.
 
 ---
