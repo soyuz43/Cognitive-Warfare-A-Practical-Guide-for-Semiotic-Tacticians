@@ -145,4 +145,4 @@ You owe the future its birthright.
 
 ### Linkages:
 
-[[Rules of Engagement - Illegal Weapons]]
+[[Rules of Engagement - Volatile-Class Weapons]]

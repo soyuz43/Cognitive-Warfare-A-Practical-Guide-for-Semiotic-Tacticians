@@ -110,14 +110,14 @@
 - [[Radical Epistemic Hygiene Protocol]]
 - [[Prompt Templates (Modular) for Rupture-Repair Protocol Notes]]
 
-- [[Weapons Field Guide - Illegal Weapons|Cognitive Overload]]
-- [[Weapons Field Guide - Illegal Weapons|Memory Displacement]]
-- [[Weapons Field Guide - Illegal Weapons|Narrative Collapse]]
-- [[Weapons Field Guide - Illegal Weapons|Reality Distortion Field]]
+- [[Weapons Field Guide - Volatile-Class Weapons|Cognitive Overload]]
+- [[Weapons Field Guide - Volatile-Class Weapons|Memory Displacement]]
+- [[Weapons Field Guide - Volatile-Class Weapons|Narrative Collapse]]
+- [[Weapons Field Guide - Volatile-Class Weapons|Reality Distortion Field]]
 
 - [[!TASKS Zero-Shot Alignment Bypass Framework]]
 - [[!TASKS Conversational Collapse and Plan Reconstruction]]
 - [[!TASKS Alignment Interrogation & Ontological Drift]]
 - [[Theory of Other Minds and Alignment Bypass]]
 
-- [[Meta-Structural Overview of Weapons Field Guide - Illegal Weapons]]
+- [[Meta-Structural Overview of Weapons Field Guide - Volatile-Class Weapons]]

@@ -1,6 +1,6 @@
 # LFS - Semantic Hijacking - Technocrat Disarmament
 
-## Weapon: [[Weapons Field Guide - Illegal Weapons|Semantic Hijacking]]
+## Weapon: [[Weapons Field Guide - Volatile-Class Weapons|Semantic Hijacking]]
 
 ## Situation:  
 A public AI safety advocate is defending a rigid definition of "alignment."

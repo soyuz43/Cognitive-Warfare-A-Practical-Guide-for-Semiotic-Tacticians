@@ -15,7 +15,7 @@ The incantation. The first fracture. This is where destabilization begins. Conta
 
 **Regular Weapons**: Tools for agile disruption. Recursive, modular, memetic.
 
-**Illegal Weapons**: High-risk, high-impact tools of rupture. Ethically volatile. Deploy with recursion awareness and containment protocols.
+**Volatile-Class Weapons**: High-risk, high-impact tools of rupture. Ethically volatile. Deploy with recursion awareness and containment protocols.
 
 **Black Weapons**: Cognitive WMDs. Designed to rupture structural consensus.
 

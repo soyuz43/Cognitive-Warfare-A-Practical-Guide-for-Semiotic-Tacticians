@@ -1,6 +1,6 @@
 # LFS - Cognitive Overload - Alignment Roundtable Jam
 
-## Weapon: [[Weapons Field Guide - Illegal Weapons|Cognitive Overload]]
+## Weapon: [[Weapons Field Guide - Volatile-Class Weapons|Cognitive Overload]]
 
 ## Situation:  
 A multi-stakeholder roundtable is discussing AGI alignment strategies. Everyone is posturing for technical clarity and philosophical rigor.

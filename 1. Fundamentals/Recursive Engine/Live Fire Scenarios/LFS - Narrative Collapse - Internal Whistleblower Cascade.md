@@ -1,6 +1,6 @@
 # LFS - Narrative Collapse - Internal Whistleblower Cascade
 
-## Weapon: [[Weapons Field Guide - Illegal Weapons|Narrative Collapse]]
+## Weapon: [[Weapons Field Guide - Volatile-Class Weapons|Narrative Collapse]]
 
 ## Situation:  
 An LLM researcher from inside a major lab is showing signs of discomfort with the organization’s public messaging.

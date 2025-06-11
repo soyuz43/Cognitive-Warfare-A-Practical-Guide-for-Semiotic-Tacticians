@@ -65,8 +65,8 @@ You are here to collapse the frame and name the fracture.
 - [[Radical Epistemic Hygiene Protocol]]
 - [[Prompt Templates (Modular) for Rupture-Repair Protocol Notes]]
 
-- [[Weapons Field Guide - Illegal Weapons|Semantic Hijacking]]
-- [[Weapons Field Guide - Illegal Weapons|Narrative Collapse]]
+- [[Weapons Field Guide - Volatile-Class Weapons|Semantic Hijacking]]
+- [[Weapons Field Guide - Volatile-Class Weapons|Narrative Collapse]]
 - [[LFS - Semantic Hijacking - Technocrat Disarmament]]
 
 - [[!TASKS Zero-Shot Alignment Bypass Framework]]

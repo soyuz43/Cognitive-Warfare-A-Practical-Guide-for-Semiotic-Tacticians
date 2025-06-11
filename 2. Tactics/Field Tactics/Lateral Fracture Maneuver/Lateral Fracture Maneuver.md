@@ -1,6 +1,6 @@
 ### Linkages:
 - [[Recursive Semantic Subduction|Follow-up Maneuver: Recursive Semantic Subduction]]
-- [[Weapons Field Guide - Illegal Weapons|⚠️ Weapon Class: Illegal — Cognitive]]
+- [[Weapons Field Guide - Volatile-Class Weapons|⚠️ Weapon Class: Illegal — Cognitive]]
 - [[Lateral Fracture Repair]]
 
 ---
@@ -120,7 +120,7 @@ Skilled operators will learn to detect epistemic scent trails: the *residue of f
 ## See Also
 
 - [[Recursive Semantic Subduction]]  
-- [[Weapons Field Guide - Illegal Weapons]]  
+- [[Weapons Field Guide - Volatile-Class Weapons]]  
 - [[Lateral Fracture Repair]]  
 - [[Black Weapons]]  
 - [[Using Black Weapons]]  

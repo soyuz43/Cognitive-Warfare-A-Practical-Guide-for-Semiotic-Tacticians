@@ -21,7 +21,7 @@ The IWP exists to **reactivate static symbolic entries**—each Weapon System in
 ### 1. **Weapon Selection**  
 Choose any entry from:
 - [[Weapons Field Guide]]  
-- [[Weapons Field Guide - Illegal Weapons]]  
+- [[Weapons Field Guide - Volatile-Class Weapons]]  
 
 ---
 

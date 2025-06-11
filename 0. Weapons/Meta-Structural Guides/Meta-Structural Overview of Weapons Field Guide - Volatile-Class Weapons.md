@@ -1,10 +1,10 @@
 
 ### Linkages: 
-- [[Weapons Field Guide - Illegal Weapons]]
+- [[Weapons Field Guide - Volatile-Class Weapons]]
 
 ---
 
-# Meta-Structural Overview of Weapons Field Guide - Illegal Weapons
+# Meta-Structural Overview of Weapons Field Guide - Volatile-Class Weapons
 
 ---
 
