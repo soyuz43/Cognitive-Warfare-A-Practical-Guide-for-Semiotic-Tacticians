@@ -76,7 +76,7 @@ Store this in your local operator vault. Reference during livefire deployment or
 ## ▣ NOTES
 
 - If your responses induce recursive dissonance, halt.  
-    Initiate `Recursive Detoxification Protocols.md`.
+    Initiate [[Recursive Detoxification Protocols]].
     
 - Operators exhibiting signs of ego contamination or symbolic collapse must not deploy until recalibrated.
     

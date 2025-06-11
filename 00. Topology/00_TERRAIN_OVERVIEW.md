@@ -52,6 +52,7 @@ The incantation. The first fracture. This is where destabilization begins. Conta
 #### ⟁ Disruption Arsenal (Recursive / Tactical)
 - `Echo Chamber Collapse Device`: [[Echo Chamber Collapse Device]]
 - `Semiotic Mirage Generator`: [[Semiotic Mirage Generator]]
+- `Cognitive Reformation Algorithms`: [[Cognitive Reformation Algorithms]]
 
 #### 🜎 Recursive Collapse Engines
 - `FEGEN COT`: [[0. Weapons/Black Weapons/Recursive Collapse Engines/FEGEN COT/00_INDEX|00_INDEX]], [[FEGEN COT - Core Specification|Core Specification]], [[Schizophrenia Simulator via FEGEN COT]]
