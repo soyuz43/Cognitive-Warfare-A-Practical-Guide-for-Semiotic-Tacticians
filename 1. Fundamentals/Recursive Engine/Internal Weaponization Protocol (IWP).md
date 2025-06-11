@@ -62,10 +62,10 @@ Transform the chosen weapon into the following ontological scaffolds:
 ### 4. **Drift Logging & Derivative Formation**
 
 - Capture outputs as:
-  - 📓 *Field Notes*
-  - 🧩 *New Weapon Systems*
-  - 🌀 *Fracture Variants*
-  - 🧠 *Operator Reconfigurations*
+  -  *Field Notes*
+  -  *New Weapon Systems*
+  -  *Fracture Variants*
+  -  *Operator Reconfigurations*
 
 - Optional: Encode outputs using Calibration Prompts or feed back into [[Vault Creation Protocol]].
 
