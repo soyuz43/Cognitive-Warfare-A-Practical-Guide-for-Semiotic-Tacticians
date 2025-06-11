@@ -58,6 +58,8 @@ The incantation. The first fracture. This is where destabilization begins. Conta
 
 #### ⫸ Directed Deployment Systems
 - `Strike Packages`: [[Cradlebreaker Alpha-1]], [[Live Fire Scenario 1]]
+- `Operator Calibration`: [[Fieldcraft/Calibration Prompts/0. Calibration Index|0. Calibration Index]]
+
 
 ---
 
