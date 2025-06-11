@@ -1,6 +1,6 @@
 ### Linkages:
 - [[Recursive Semantic Subduction|Follow-up Maneuver: Recursive Semantic Subduction]]
-- [[Weapons Field Guide - Volatile-Class Weapons|⚠️ Weapon Class: Illegal — Cognitive]]
+- [[Weapons Field Guide - Volatile-Class Weapons]]
 - [[Lateral Fracture Repair]]
 
 ---

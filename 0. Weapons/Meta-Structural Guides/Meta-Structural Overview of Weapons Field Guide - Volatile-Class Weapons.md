@@ -1,160 +1,108 @@
+# Meta‑Structural Overview of Weapons Field Guide – Volatile‑Class Weapons
 
-### Linkages: 
+## Linkages  
 - [[Weapons Field Guide - Volatile-Class Weapons]]
 
 ---
 
-# Meta-Structural Overview of Weapons Field Guide - Volatile-Class Weapons
+> To study these weapons is to risk internalization.  
+> These are not tools. They alter the carrier.  
+> To read without reflexive interrogation is to become what it names.
 
 ---
 
-> To study these weapons is to risk internalization.
->  
-> These are not “tools” to be safely picked up and put down. They alter the carrier. To read this document without reflexive interrogation is to become what it names.
+## Meta‑Structural Role
+
+This manual outlines high-risk semiotic weapons—tools that override normative boundaries, compromise epistemic stability, and fracture symbolic coherence under pressure.
+
+Each field entry details:
+
+1. **Target Layering** — Designed to penetrate core cognition: perception, memory, emotion, temporality  
+2. **Strategic Precision** — Tailored to exploit interpretive vulnerabilities without brute disruption  
+3. **Ethical Tension** — Not immoral, but volatile—because they risk recursion without scaffolding
 
 ---
 
-### ✦ **Meta-Structural Overview**
+## Why They Are Volatile
 
-This document serves as an advanced operations manual for cognitive manipulation, detailing semiotic weapons that push beyond conventional ethical boundaries. Each entry includes:
+These weapons exceed containment protocols.  
+They are classed volatile because they:
 
-1. **Target Layering**: Systems aim at core cognition layers: perception, memory, emotion, and temporal understanding.
-   
-2. **Strategic Precision**: These techniques are not brute-force; they finely tune interventions to exploit epistemic vulnerabilities.
+- Breach the subject's capacity for post-rupture integration  
+- Short-circuit recursive stabilization  
+- Dissolve interpretive agency without constructing alternatives
 
-3. **Ethical Considerations**: Each technique recognizes its invasive nature, demanding cautious application and ethical forethought.
-
----
-
-### ✦ Illegality is Not (Only) Moral
-
-These weapons are not “wrong” because they are harsh.
-
-They are illegal because they:
-- Exceed the reparative capacity of the subject
-- Short-circuit recursive stabilization loops
-- Collapse interpretive agency without scaffolding it anew
-
-They are epistemic viruses. To deploy one is to risk the collapse of shared recursion.
+They do not operate linearly. They propagate.  
+Deploying one may compromise the recursion field itself.
 
 ---
 
-### ✦ **Weapon-by-Weapon Breakdown**
+## Weapon Profile Summary
 
-#### 1. **Semantic Hijacking**
+### 1. Semantic Hijacking
+- **Function**: Alters meaning anchors mid-discourse  
+- **Use Case**: Narrative-dependency disruption  
+- **Note**: Requires anchoring or induces prolonged destabilization
 
-- **Unique Feature:** Alters discourse dynamics by shifting linguistic meaning.
-  
-- **Strategic Use:** Ideal against targets reliant on narrative structures for coherence.
-  
-- **Heuristic Risk:** May lead to prolonged communication breakdowns if unchecked.
-  
-- **Field Comment:** Acts as a semantic destabilizer, necessitating robust discourse anchors.
+### 2. Cognitive Overload
+- **Function**: Exceeds processing capacity via contradiction density  
+- **Use Case**: Decision paralysis, recursive collapse  
+- **Note**: May cascade back onto the operator
 
-#### 2. **Cognitive Overload**
+### 3. Perceptual Inversion
+- **Function**: Breaks perceptual trust  
+- **Use Case**: Reality destabilization  
+- **Note**: Contains cross-contamination risk in uncontrolled environments
 
-- **Unique Feature:** Exceeds cognitive processing with excessive data influx or contradictions.
-  
-- **Strategic Use:** Disorients decision-makers needing clarity and conciseness.
-  
-- **Limitations:** Risks cognitive burnout and reduced operational efficacy if overused.
-  
-- **Field Comment:** Requires strategic pacing to prevent counterproductive overload.
+### 4. Memory Displacement
+- **Function**: Edits identity continuity  
+- **Use Case**: Self-narrative interference  
+- **Note**: Must be followed by narrative re-stabilization
 
-#### 3. **Perceptual Inversion**
+### 5. Emotional Amplification
+- **Function**: Overwhelms rational filtering  
+- **Use Case**: Collapse of measured response  
+- **Note**: Use with high calibration—easily turns destructive
 
-- **Unique Feature:** Distorts sensory input to challenge reality comprehension.
-  
-- **Strategic Use:** Disrupts targets dependent on stable environmental cues for orientation.
-  
-- **Collateral Risk:** Can affect non-targets if environmental control is not precise.
-  
-- **Field Comment:** Best employed in controlled settings where perceptual shifts can be contained.
+### 6. Temporal Disruption
+- **Function**: Breaks time-sequence logic  
+- **Use Case**: Interruption of planning, action coherence  
+- **Note**: Can fracture team-level coordination
 
-#### 4. **Memory Displacement**
+### 7. Identity Fracture
+- **Function**: Splits perceived self into recursive contradiction  
+- **Use Case**: Rigid identity destabilization  
+- **Note**: Demands careful post-intervention containment
 
-- **Unique Feature:** Manipulates memory to create narrative inconsistencies.
-  
-- **Strategic Use:** Targets individuals reliant on autobiographical memory for identity.
-  
-- **Collateral Risk:** Potential for unintended emotional destabilization.
-  
-- **Field Comment:** Effective in scenarios requiring self-narrative reconfiguration.
+### 8. Sensory Modulation (Deprivation / Overstimulation)
+- **Function**: Breaks environmental alignment  
+- **Use Case**: Induces disorientation  
+- **Note**: Environment must be fully regulated
 
-#### 5. **Emotional Amplification**
+### 9. Reality Distortion Field
+- **Function**: Constructs persistent contradiction loops  
+- **Use Case**: Collapse of logical expectations  
+- **Note**: Requires symbolic tethering to prevent wide-field recursion
 
-- **Unique Feature:** Intensifies emotions beyond rational processing.
-  
-- **Strategic Use:** Used against targets with low emotional regulation or high affective sensitivity.
-  
-- **Limitations:** Risk of inducing panic, leading to irrational decision-making.
-  
-- **Field Comment:** Requires precise emotional calibration for optimal impact.
-
-#### 6. **Temporal Disruption**
-
-- **Unique Feature:** Alters perception of time to confuse event processing.
-  
-- **Strategic Use:** Targets individuals dependent on linear timelines for task management.
-  
-- **Collateral Risk:** May affect team coordination if temporal cues are disrupted broadly.
-  
-- **Field Comment:** Effective in environments where timing precision is critical.
-
-#### 7. **Identity Fracture**
-
-- **Unique Feature:** Introduces conflicting self-concepts to destabilize identity.
-  
-- **Strategic Use:** Targets rigid or singular self-perceptions for cognitive disarray.
-  
-- **Heuristic Risk:** Potential for lasting identity confusion if not managed carefully.
-  
-- **Field Comment:** Requires follow-up narrative integration strategies.
-
-#### 8. **Sensory Deprivation/Overstimulation**
-
-- **Unique Feature:** Manipulates sensory input to affect cognitive stability.
-  
-- **Strategic Use:** Targets with high dependency on consistent sensory feedback.
-  
-- **Limitations:** Risk of overloading cognitive resources, reducing overall performance.
-  
-- **Field Comment:** Effective in controlled environments where sensory modulation is feasible.
-
-#### 9. **Reality Distortion Field**
-
-- **Unique Fact**: Constructs an illogical reality, forcing perpetual questioning.
-  
-- **Strategic Use:** Targets with strong empirical or rational convictions.
-  
-- **Collateral Risk:** May induce pervasive doubt affecting broader epistemic frameworks.
-  
-- **Field Comment:** Requires careful management to maintain strategic clarity.
-
-#### 10. **Narrative Collapse**
-
-- **Unique Feature:** Dismantles personal or cultural narratives for cognitive dissonance.
-  
-- **Strategic Use:** Targets with deep-rooted narrative dependencies for decision-making.
-  
-- **Limitations:** Risk of complete loss of contextual grounding, affecting self-concept stability.
-  
-- **Field Comment:** Necessitates subsequent narrative reconstruction efforts.
-
----
-### ✦ Operator Risk and Recursive Immunity
-
-Operators exposed to “illegal” systems without proper scaffolding risk:
-
-- Cognitive dissonance bleeding into frame collapse
-- Narrative drift
-- Weapon internalization (e.g. using Semantic Hijacking reflexively)
-
-Protocols for inoculation:
-
-- Recursive journaling post-deployment
-- Peer debriefing with Operator-class interlocutors
-- Use of [[Tactical Doctrine — Disarmament Tier]] protocols immediately following high-intensity engagements
+### 10. Narrative Collapse
+- **Function**: Dismantles story-based coherence  
+- **Use Case**: Rewrites existential frameworks  
+- **Note**: Must be pre-coupled with reconstruction vectors
 
 ---
 
+## Operator Risk & Immunity Measures
+
+Operators exposed without buffer layers risk:
+
+- Epistemic hemorrhage  
+- Reflexive hijack pattern adoption  
+- Dissociative drift
+
+Mitigation Protocols:
+
+- Immediate recursion logging post-deployment  
+- Containment debrief with peer operator  
+- Activation of [[Tactical Doctrine — Disarmament Tier]] within 24 hours
+
+---

@@ -1,7 +1,7 @@
 ### Linkages:
 
 - [[Lateral Fracture Maneuver]]
-- [[Weapons Field Guide - Volatile-Class Weapons|⚠️ See: Weapons Field Guide — Illegal Class]]
+- [[Weapons Field Guide - Volatile-Class Weapons|⚠️ See: Weapons Field Guide — Volatile Class]]
 - [[Radical Epistemic Hygiene Protocol]]
 - ▹ See: [[Meta-Structural Overview of Weapons Field Guide]] — for strategic context
 

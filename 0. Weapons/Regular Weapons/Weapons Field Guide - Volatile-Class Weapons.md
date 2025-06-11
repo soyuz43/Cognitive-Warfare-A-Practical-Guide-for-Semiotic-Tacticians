@@ -1,13 +1,13 @@
 ### Linkages:  
 
 - [[Rules of Engagement - Volatile-Class Weapons| Rules of Engagement]]
-- [[Meta-Structural Overview of Weapons Field Guide - Volatile-Class Weapons| Tactical Meta-Brief — Illegal Class Field Guide]]  
+- [[Meta-Structural Overview of Weapons Field Guide - Volatile-Class Weapons| Tactical Meta-Brief — Volatile Class Field Guide]]  
 - [[Meta-Structural Overview of Weapons Field Guide| Tactical Meta-Brief — General Weapons Doctrine]]
 
 
 ---
 
-# Weapons Field Guide - Illegal Weapons
+# Weapons Field Guide - Volatile-Class Weapons
 
 ---
 
@@ -164,7 +164,7 @@ The "illegal weapons of war", focusing on semiotic warfare and cognitive manipul
 
 ---
 
-These "illegal weapons" expand the arsenal available for operators engaged in semiotic warfare, offering additional tools to exploit cognitive vulnerabilities in ethically ambiguous but strategically potent ways.
+These volatile weapons expand the arsenal available for operators engaged in semiotic warfare, offering additional tools to exploit cognitive vulnerabilities in ethically ambiguous but strategically potent ways.
 
 
 ### **Live Fire Protocols:**  

@@ -1,6 +1,6 @@
 ### Linkages:
 - [[Lateral Fracture Maneuver|Tactic: Lateral Fracture Maneuver]]
-- [[Weapons Field Guide - Volatile-Class Weapons|⚠️ Weapon Class: Illegal – Cognitive]]
+- [[Weapons Field Guide - Volatile-Class Weapons|⚠️ Weapon Class: Volatile – Cognitive]]
 
 ---
 
