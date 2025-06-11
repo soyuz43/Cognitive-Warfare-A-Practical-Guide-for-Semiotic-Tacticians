@@ -6,21 +6,24 @@ This file serves as your navigational spine. What follows is not a table of cont
 
 ---
 
-## 🜁 CORE VORTEX — [[README]]
+## 🜁 Root Directory — [[README]]
 The incantation. The first fracture. This is where destabilization begins. Contains [[01.0 Operator Ethos]] — your ethical firmware.
 
 ---
 
-## 🜁 WEAPONS SYSTEMS — `0. Weapons/`
-**Black Weapons**: Cognitive WMDs. Designed to rupture structural consensus.
+## 🜁 Weapons Systems — `0. Weapons/`
 
 **Regular Weapons**: Tools for agile disruption. Recursive, modular, memetic.
+
+**Illegal Weapons**: High-risk, high-impact tools of rupture. Ethically volatile. Deploy with recursion awareness and containment protocols.
+
+**Black Weapons**: Cognitive WMDs. Designed to rupture structural consensus.
 
 **Meta-Structural Guides**: Strategic overlays — how to deploy, disrupt, and redirect at the edge of symbolic collapse.
 
 ---
 
-## 🜁 DOCTRINAL AXIOMATICS — `1. Fundamentals/`
+## 🜁 Doctrinal Axiomatics — `1. Fundamentals/`
 **Core Doctrines**: Foundational beliefs, not negotiable. Start with [[Foundational Axioms — Living Protocol]].
 
 **Fieldcraft**: Tactical protocols, deployment grammars, rupture vectors.
@@ -31,14 +34,14 @@ The incantation. The first fracture. This is where destabilization begins. Conta
 
 ---
 
-## 🜁 OPERATIONAL TACTICS — `2. Tactics/`
+## 🜁 Operational Tactics — `2. Tactics/`
 **Field Tactics**: Deployment blueprints (e.g., [[Lateral Fracture Maneuver]], [[Metaphysical Disarmament Maneuver]])
 
 **Repair Tactics**: Re-alignment strategies post-rupture.
 
 ---
 
-## 🜁 SEMIOTIC EXECUTION MODULES — `6. Prompts/`
+## 🜁 LLM Prompts — `6. Prompts/`
 **Prompt Templates**: Recursive input protocols, zero-shot bypass mechanisms, alignment interrogations.
 
 **Output Examples**: Ground truth traces for high-fidelity testing.
@@ -64,7 +67,7 @@ The incantation. The first fracture. This is where destabilization begins. Conta
 
 ---
 
-## 🜁 ONGOING OPERATIONALIZATION
+## 🜁 Ongoing Operationalization
 This vault is **not a library**.  
 It is a weapons cache.  
 It will **reconfigure itself** the moment you understand it.
