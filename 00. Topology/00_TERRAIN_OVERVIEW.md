@@ -48,8 +48,8 @@ The incantation. The first fracture. This is where destabilization begins. Conta
 ---
 
 ## 🜁 STRATEGIC INDEXING
-- `FEGEN COT`: [[00_INDEX]], [[Core Specification]], [[Schizophrenia Simulator via FEGEN COT]]
-- `Strike Packages`: [[Cradlebreaker Alpha-1]], [[Live Fire Scenario 1–3]]
+- `FEGEN COT`: [[00_INDEX]], [[FEGEN COT - Core Specification|Core Specification]], [[Schizophrenia Simulator via FEGEN COT]]
+- `Strike Packages`: [[Cradlebreaker Alpha-1]], [[Live Fire Scenario 1]]
 - `Recursive Detox`: [[Echo Chamber Collapse Device]], [[Semiotic Mirage Generator]]
 
 ---
