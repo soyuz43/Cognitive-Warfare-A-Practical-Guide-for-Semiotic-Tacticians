@@ -100,6 +100,3 @@ The system must resolve the loop by performing one of the following:
 
 ---
 
-> Field Rating: Level 3 — Recursive / Volatile  
-> Tactic Type: Fracture / Extraction / Exposure  
-> Operator Role: Dialectic Provocateur
