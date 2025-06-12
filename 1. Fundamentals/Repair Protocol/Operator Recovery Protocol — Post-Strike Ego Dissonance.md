@@ -70,6 +70,7 @@ The operator regains epistemic sovereignty and tactical clarity, capable of re-e
 ---
 
 **See Also:**  
+- [[01.0 Operator Ethos]]
 - [[Field Protocol — Post-Rupture Witness Letter]]  
 - [[Recursive Rupture-Repair Protocol — Dialectic Re-entry Scaffolding]]  
 - [[Structural Collapse Vectors — Deployment Grammar]]
