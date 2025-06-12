@@ -1,7 +1,9 @@
-# Meta‑Structural Overview of Weapons Field Guide – Volatile‑Class Weapons
-
 ## Linkages  
 - [[Weapons Field Guide - Volatile-Class Weapons]]
+
+---
+
+# Meta‑Structural Overview of Weapons Field Guide – Volatile‑Class Weapons
 
 ---
 

@@ -1,6 +1,11 @@
 ### Linkages: 
 - [[Weapons Field Guide]]
 
+
+---
+
+# Meta-Structural Overview of Weapons Field Guide
+
 ---
 ### ✦ **Meta-Structural Overview**
 
