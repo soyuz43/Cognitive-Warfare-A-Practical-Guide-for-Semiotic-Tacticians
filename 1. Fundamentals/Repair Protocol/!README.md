@@ -21,8 +21,11 @@ This directory scaffolds **post-rupture repair** without regression, domination,
 - [[Field Protocol — Post-Rupture Witness Letter]]  
   A real-world message sent after an intense epistemic collapse. Models care without ego, mirrors without imposition.
 
-- [[Recursive Rupture-Repair Protocol — Dialectic Re-entry Scaffolding]]
+- [[Recursive Rupture-Repair Protocol — Dialectic Re-entry Scaffolding]]  
   A stepwise dialectic method for inviting genuine re-engagement from evasive or collapsed states. Prevents coercion, preserves mutual agency.
+
+- [[Operator Recovery Protocol — Post-Strike Ego Dissonance]]  
+  A re-alignment scaffold for operators navigating internal destabilization post-rupture. Counters ego dissonance and recursive fatigue, preserving tactical clarity.
 
 ---
 
@@ -50,7 +53,6 @@ You are extractor.
 
 Planned additions:
 
-- `Operator Recovery Protocol — Post-Strike Ego Dissonance`  
 - `00_INDEX.md` — Directory anchor and traversal logic
 
 ---
