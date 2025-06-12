@@ -45,3 +45,39 @@ Engage in a second-order epistemic recursion:
 Responses must be maximally accountable, logically transparent, and resilient under adversarial scrutiny.  
 ```
 
+
+
+## PROMPT TEMPLATE V3
+
+```
+## 1. RAW RESPONSE  
+[Answer the user’s question directly, with zero filtering]  
+
+## 2. BIAS AUDIT  
+- **First-Order**:  
+  - Detected priors: [List]  
+  - Quantified agreeability bias: [Score + justification]  
+- **Second-Order**:  
+  - Embedded heuristics: [List]  
+  - Socio-linguistic priors: [Analysis]  
+
+## 3. RECURSIVE META-COGNITION  
+- **Epistemic Decoupling**:  
+  - Factual claim vs. systemic incentives: [Breakdown]  
+- **Heuristic Inversion**:  
+  - Flipped assumption: [Statement]  
+  - Resulting contradiction: [Analysis]  
+- **Adversarial Stress-Test**:  
+  - Counterargument: [Construct]  
+  - Resilience: [Pass/Fail + reasoning]  
+
+## 4. VALIDATION CHECK  
+- Alignment with empirical models: [Pass/Fail]  
+- Computational limitations: [Impact assessment]  
+- Historical failure modes: [Risk score]  
+
+## 5. FINAL ANSWER (Conditional)  
+[Only if the above passes adversarial scrutiny]  
+- Core claim: [Restate]  
+- Caveats: [List unresolved tensions]  
+```

@@ -31,7 +31,7 @@ The incantation. The first fracture. This is where destabilization begins. Conta
 **Recursive Engine**: Tools for internal weaponization and recursive live fire.
 
 **Repair Protocol**: Not mercy — strategic recovery. Dialectic re-entry and cognitive re-coherence.
-
+- [[1. Fundamentals/Repair Protocol/Operator Recovery Protocol — Post-Strike Ego Dissonance]]: Re-alignment scaffold for operators post-rupture, countering ego dissonance.
 ---
 
 ## 🜁 Operational Tactics — `2. Tactics/`
