@@ -49,7 +49,16 @@ The incantation. The first fracture. This is where destabilization begins. Conta
 **Holy Grail / Metaphysical Warrant / Latent Emplacement**: High-density payloads for experimental destabilization.
 
 ---
+## 🜁 Recursive System Engines — `6A. System Prompts/`
+**Core Cognitive Engines**: Foundational architectures for recursive reasoning, adversarial audit, and post-alignment simulation. These are not prompts — they are recursive scaffolds.
 
+- [[Epistemic Engineering System Prompt]]: Modular adversarial debugger and reflexive recursion auditor.
+- [[Theory of Other Minds - Alignment Bypass Engine]]: Interlocutor simulation via ontological rupture and semantic psychogeography.
+- [[Holy Grail System Prompt]]: (placeholder summary) Unified synthesis and recursive collapse protocol.
+
+These engines are referenced across maneuvers and doctrines. They shape how cognition is modeled, destabilized, and rebuilt.
+
+---
 ## 🜁 STRATEGIC INDEXING
 
 #### ⟁ Disruption Arsenal (Recursive / Tactical)
