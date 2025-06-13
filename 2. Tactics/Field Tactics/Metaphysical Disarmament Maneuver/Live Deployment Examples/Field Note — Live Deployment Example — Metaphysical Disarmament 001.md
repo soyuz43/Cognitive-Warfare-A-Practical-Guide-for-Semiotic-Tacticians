@@ -1,7 +1,7 @@
 ### ⛭ Field Note — Live Deployment Example  
 #### Metaphysical Disarmament Maneuver  
 **Codename:** _Soft Rupture Artifact_  
-**Operator:** [soyuz]  
+**Operator:** [W]  
 **Date Logged:** 2025.06.13  
 **Location:** Direct Message — YouTube Researcher Channel Contact
 

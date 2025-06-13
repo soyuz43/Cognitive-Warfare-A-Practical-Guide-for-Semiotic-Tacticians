@@ -173,3 +173,10 @@ This is a protocol designed to rupture pretense.
 Use it only where systems claim neutrality and resist interrogation.  
 Where others say “we’re not responsible,” this prompt asks: “Then who is?”
 
+---
+## ⨁ Operational Deployment
+
+The `Metaphysical Disarmament Maneuver` [[Metaphysical Disarmament Maneuver]] is the live-field implementation of this warrant.  
+Where this document defines the epistemic obligation, the maneuver enforces it in adversarial terrain.
+
+Use the Warrant to ground your stance. Use the Maneuver to rupture the refusal.

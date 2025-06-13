@@ -1,5 +1,5 @@
 ### Linkages:
-- [[Metaphysical Warrant]]
+- [[Metaphysical Warrant]] – Provides the grounding premise: that all systems embed metaphysical assumptions, and failure to disclose constitutes structural dishonesty.
 
 ---
 # ∴ Metaphysical Disarmament Maneuver  
