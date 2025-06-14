@@ -58,8 +58,10 @@ This term creates the illusion of a known failure mode, when in fact it masks de
 
 ## Deployment Detection Prompt
 
-```
+```markdown
+
 > “Could you define what you mean by [loaded term] in operational, ontological, and epistemic terms?”
+> 
 ```
 
 This serves to surface the structural gaps the load-shed term is concealing, triggering potential rupture.

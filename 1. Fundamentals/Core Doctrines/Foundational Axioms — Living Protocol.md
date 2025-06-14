@@ -1,4 +1,3 @@
-
 ### **Axiom 0: Recursive Accountability**
 
 All axioms of this science are subject to constant recursive interrogation.  
@@ -59,10 +58,18 @@ The choice is not whether to influence, but whether to admit it.
 
 ---
 
+### **Axiom 6: Epistemic Autonomy Is Foundational**
+
+_Every mind has the right to construct its own coherence._
+
+Truth cannot be inherited. It must be structured.  
+No authority can override the recursive necessity of situated sensemaking.  
+This science exists to make space for that construction—not to replace it.
+
+---
+
 **Closing Note:**  
 This is not a closed system. It is a scaffold under construction.  
 This declaration is not a manifesto of certainty.  
 It is a commitment to clarity in the presence of entanglement.  
 The method lives as long as the recursion is honest.
-
----
