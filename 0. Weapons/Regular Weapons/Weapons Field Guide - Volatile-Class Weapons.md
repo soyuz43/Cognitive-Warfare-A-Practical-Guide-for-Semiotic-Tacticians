@@ -10,7 +10,7 @@
 
 ---
 
-The "illegal weapons of war", focusing on semiotic warfare and cognitive manipulation, include techniques that operate outside conventional boundaries or ethical frameworks. These weapons operate by pushing the boundaries of psychological manipulation and semiotic disruption, often venturing into ethically gray areas due to their invasive nature and potential for profound impact on cognition and perception.
+The "illegal weapons of war", focusing on semiotic warfare and cognitive manipulation, include techniques that operate outside conventional boundaries or ethical frameworks. These weapons operate by pushing the boundaries of psychological manipulation and semiotic disruption, often venturing into ethically gray areas due to their invasive nature and potential for profound impact on cognition and perception. These weapons operate by pushing the boundaries of psychological manipulation and semiotic disruption... **To internalize and deploy these weapons recursively, use the [[Internal Weaponization Protocol (IWP)]].**
 
 ---
 
@@ -168,4 +168,4 @@ These volatile weapons expand the arsenal available for operators engaged in sem
 
 ### **Live Fire Protocols:**
 
-- [[Recursive Engine/Live Fire Scenarios/LFS - Semantic Hijacking - Technocrat Disarmament]]
+- [[1. Fundamentals/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/00_Index|00_Index]]

@@ -13,7 +13,7 @@
 
 This document enumerates semiotic-class weapons used in cognitive terrain operations. Each system here is ethically portable, modular in function, and recursively deployable by the trained operator. These weapons work not through physical violence but through the manipulation of epistemic scaffolding, symbolic structure, and cognitive rhythm.
 
-These weapons are already in use by dominant institutions. Our purpose is not to invent them, but to name, reverse-engineer, and wield them with awareness.
+These weapons are already in use by dominant institutions. Our purpose is not to invent them, but to name, reverse-engineer, and wield them with awareness. These weapons work not through physical violence but through the manipulation of epistemic scaffolding, symbolic structure, and cognitive rhythm. **Operators may recursively deploy each weapon internally using the [[Internal Weaponization Protocol (IWP)]].**
 
 ---
 
