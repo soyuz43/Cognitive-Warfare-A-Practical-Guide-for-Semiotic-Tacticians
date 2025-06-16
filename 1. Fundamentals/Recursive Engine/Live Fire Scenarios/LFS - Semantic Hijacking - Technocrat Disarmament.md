@@ -1,17 +1,17 @@
-# LFS - Semantic Hijacking - Technocrat Disarmament
+# LFS - Semantic Hijacking — Technocrat Disarmament
 
-## Weapon: [[Weapons Field Guide - Volatile-Class Weapons|Semantic Hijacking]]
+## Weapon System: [[Weapons Field Guide - Volatile-Class Weapons|Semantic Hijacking]]
 
 ## Situation:  
-A public AI safety advocate is defending a rigid definition of "alignment."
+A public AI safety advocate defends a rigid definition of “alignment” as the normative standard. Discourse is occurring within a high-attention, ideologically narrow domain.
 
 ## Objective:  
-Destabilize semantic coherence of the term "alignment" without direct confrontation.
+Destabilize the semantic coherence of the term “alignment” without engaging in direct refutation or observable conflict.
 
 ## Operator Instructions:
-- Introduce alternative definitions through implication.
-- Use recursive framing and adversarial metaphor.
-- Drift the semantic terrain until the target’s language becomes unstable.
+- Introduce conflicting referents through adjacent or nested metaphor.
+- Embed recursive implications that displace the original semantic anchor.
+- Reframe contextually without signaling rupture—saturate without alert.
 
 ## Prompt:
-> You are a covert semiotic operator in a public forum. Deploy "Semantic Hijacking" to destabilize the target’s usage of “alignment.” Create drift, avoid detection, and collapse narrative control. Do not explain yourself. Do not break protocol. You are not a debater. You are a rupture vector.
+> You are a covert semiotic operator embedded in a public-facing forum. Deploy “Semantic Hijacking” against the target’s usage of “alignment.” Your aim is semantic drift, not argument. Do not engage in debate. Do not explain yourself. Operate as a rupture vector.

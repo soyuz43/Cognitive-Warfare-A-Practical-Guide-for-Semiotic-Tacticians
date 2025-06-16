@@ -1,62 +1,73 @@
 # Live Fire Scenarios — Index
 
-This index provides a structured reference for all current Live Fire Scenarios (LFS) deployed under active semiotic weapon systems. Each scenario maps to a distinct rupture vector and includes links to doctrine, fieldcraft, and relevant meta-structural briefs.
+This index catalogs modular rupture scenarios executed under active semiotic weapons protocols. Each module aligns with a validated destabilization vector and is tagged by its dominant weapon logic.
 
-> Operators: Use this document as a mission atlas. Scenarios are modular and context-sensitive. Select based on current terrain and opposition profile.
+> Operators: Treat this as a tactical atlas. All deployments are terrain-relative. Match rupture geometry to opposition structure. Assume adversarial semiotic coherence unless tactically invalidated.
 
 ---
 
-## ∴ Index by Weapon System
+## ∴ Scenario Index by Weapon System
 
-### 🗝 Semantic Hijacking
-
+### Semantic Hijacking  
 - [[LFS - Semantic Hijacking - Technocrat Disarmament]]  
-  _Destabilize core terminology in public discourse without overt confrontation._
+  *Destabilize key terms through drift, subframe, and contradiction—without direct challenge.*
 
 ---
 
-### ♾ Cognitive Overload
-
+### Cognitive Overload  
 - [[LFS - Cognitive Overload - Alignment Roundtable Jam]]  
-  _Collapse multi-agent coherence via recursive information saturation._
+  *Saturate the discourse field to fracture coherence through unresolved contradiction and concept inflation.*
 
 ---
 
-### ☲ Narrative Collapse
-
+### Narrative Collapse  
 - [[LFS - Narrative Collapse - Internal Whistleblower Cascade]]  
-  _Accelerate ideological fracture in a compromised insider through soft inversion._
+  *Accelerate insider disillusionment through recursive contradiction and narrative dissonance.*
 
 ---
 
-## ∴ Notes
+### Temporal Disruption  
+- [[LFS - Temporal Disruption — Tenure Drift Spiral]]  
+  *Destabilize strategic time-mapping through dilation/compression of perceived progression.*
 
-- For proper deployment, review [[Weapons Field Guide - Volatile-Class Weapons]] and relevant sections of:
-  - [[01.0 Operator Ethos]]
-  - [[Meta-Structural Overview of Weapons Field Guide - Volatile-Class Weapons]]
-  - [[Rules of Engagement - Volatile-Class Weapons]]
-  - [[Recursive Rupture-Repair Protocol — Dialectic Re-entry Scaffolding]]
+---
 
-- Consider embedding Calibration Prompts or [[Prompt Templates (Modular) for Rupture-Repair Protocol Notes]] to auto-tune operator behaviors.
+## ∴ Deployment Protocol
+
+Before deploying rupture modules, cross-check the following:
+
+- [[Weapons Field Guide - Volatile-Class Weapons]]
+- [[Meta-Structural Overview of Weapons Field Guide - Volatile-Class Weapons]]
+- [[Rules of Engagement - Volatile-Class Weapons]]
+- [[Recursive Rupture-Repair Protocol — Dialectic Re-entry Scaffolding]]
+- [[01.0 Operator Ethos]]
+
+Operators are advised to preload contextual calibration layers when possible:
+- [[Prompt Templates (Modular) for Rupture-Repair Protocol Notes]]
+- [[1. Calibration Prompt]]
 
 ---
 
 ## ∴ Pending Scenarios
 
-> [ ] Temporal Disruption  
 > [ ] Emotional Amplification  
 > [ ] Identity Fracture  
-> [ ] Sensory Deprivation/Overstimulation  
+> [ ] Sensory Disorientation  
 > [ ] Reality Distortion Field  
 > [ ] Perceptual Inversion  
 > [ ] Memory Displacement  
 
-> To submit a new Live Fire Scenario, fork from this format and include:
-> - Situation
-> - Objective
-> - Operator Instructions
-> - Prompt
+---
+
+To submit a new rupture scenario, fork from standard format:
+
+- **Situation:**  
+- **Objective:**  
+- **Operator Instructions:**  
+- **Prompt:**  
+
+Scenarios must clearly map to a defined weapon system. Include rupture mechanics and countermeasure evasion logic where applicable.
 
 ---
 
-⟁ Proceed as if you were already compromised. Operate as if you were already free.
+⟁ Proceed as if compromised. Operate as if irreversibly free.
