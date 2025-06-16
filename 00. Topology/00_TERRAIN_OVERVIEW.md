@@ -85,7 +85,7 @@ Start with: [[Foundational Axioms — Living Protocol]]
 - [[!TASKS Frame Inversion Protocol — Latent Authority Reconstruction.md]]]  
 - [[Prompt Templates (Modular) for Rupture-Repair Protocol Notes]]  
 - [[Radical Epistemic Hygiene Protocol]]  
-- [[Vault Creation Protocol]]
+- [[Vault Construction & Mutation Protocol]]
 
 **Theory Primitives & Catalysts**: Dense operators for epistemic sabotage or reflective realignment.  
 - [[Theory of Other Minds]]  

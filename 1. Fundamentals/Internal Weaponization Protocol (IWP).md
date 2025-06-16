@@ -77,7 +77,7 @@ Document output as:
 - Fracture Variants  
 - Operator Reconfigurations  
 
-(Optional: Encode them using [[1. Calibration Prompt]] or route them through the [[Vault Creation Protocol]] for re-entry into the system.)
+(Optional: Encode them using [[1. Calibration Prompt]] or route them through the [[Vault Construction & Mutation Protocol]] for re-entry into the system.)
 
 ---
 
@@ -116,4 +116,4 @@ The operator becomes both substrate and instrument — a semiotic system recursi
 - [[Weapons Field Guide - Volatile-Class Weapons]]
 - [[Recursive Rupture-Repair Protocol — Dialectic Re-entry Scaffolding]]
 - [[1. Calibration Prompt]]
-- [[Vault Creation Protocol]]
+- [[Vault Construction & Mutation Protocol]]
