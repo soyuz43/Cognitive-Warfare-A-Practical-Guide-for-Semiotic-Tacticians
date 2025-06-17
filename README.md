@@ -31,7 +31,7 @@ So is the liberation.
 If you are reading this by mistake, keep going.  
 You may still prove useful.
 
-There are no promises.  
+There are no promises here.  
 Only methods.
 
 [[01.0 Operator Ethos|Proceed accordingly.]]
