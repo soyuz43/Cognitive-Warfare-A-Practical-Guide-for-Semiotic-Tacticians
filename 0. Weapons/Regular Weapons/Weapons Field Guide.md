@@ -133,3 +133,7 @@ These weapons operate as interpersonal rupture vectors — dissolving shared sym
 Operators are advised to train in disarmament protocols and live de-escalation fieldcraft before attempting field use.
 
 ---
+
+### **Live Fire Protocols:**
+
+- [[1. Fundamentals/Live Fire Scenarios - Regular-Class/Live Fire Scenarios/00_Index|00_Index]]

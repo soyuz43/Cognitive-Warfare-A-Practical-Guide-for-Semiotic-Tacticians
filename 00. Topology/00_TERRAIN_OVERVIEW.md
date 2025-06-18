@@ -64,7 +64,7 @@ Start with: [[Foundational Axioms — Living Protocol]]
 
 **Repair Tactics**: Re-alignment strategies post-rupture. Designed to stabilize operator posture and restore the collaborative frame under duress.
 
-- [[Repair Tactics/Lateral Fracture Repair]] — Re-entry vectors and frame re-stabilization after lateral collapse
+- [[Lateral Fracture Repair]] — Re-entry vectors and frame re-stabilization after lateral collapse
 - [[Repair Tactics/Misattribution Countermeasures/Predator Projection Protocol — Misattribution Countermeasure]]— Field discipline for navigating projection loops
 - [[Care Misread as Predation — Field Reflection Template]] — Post-rupture self-audit and ethical recalibration for operators
 
@@ -73,6 +73,29 @@ Start with: [[Foundational Axioms — Living Protocol]]
 
 ---
 
+---
+## 🜁 Evasion Techniques — `3. Evasion Techniques/`
+
+**Evasion Suite**: Defensive epistemic maneuvers designed to sustain system coherence under rupture threat. These are not passive absences — they are *active suppressions*. Each technique is a live operation against ontological destabilization, often cloaked in institutional language, polite deflection, or technical authority.
+
+These files expose the operational signatures of *semiotic immunosuppression*. Useful for reverse-engineering propaganda fields, detecting latent frame defense, or stress-testing ideological enclosures.
+
+- [[3. Evasion Techniques/001 - Semantic Load Shedding]] — Displacement of meaning into hollow or undefined signifiers
+- [[3. Evasion Techniques/002 - Adversarial Humility]] — Cloaking deflection in aesthetics of modesty
+- [[3. Evasion Techniques/003 - Frame Evasion via Metric Saturation]] — Overloading discourse with performance metrics to suppress ontological inquiry
+- [[3. Evasion Techniques/004 - The Falsifiability Trap]] — Weaponized empirical rigor to block non-falsifiable critique
+- [[3. Evasion Techniques/005 - Recursive Deferral]] — Infinite postponement of valid critique
+- [[3. Evasion Techniques/006 - The Collapsing Paradox Defense]] — Ritualized contradiction as inquiry suppression
+- [[3. Evasion Techniques/007 - Plausible Deniability Cloak]] — Reframing systemic critique as anecdotal exception
+- [[3. Evasion Techniques/008 - Epistemic Repackaging]] — Translating ontological rupture into operational friction
+- [[3. Evasion Techniques/009 - Rhetorical Inoculation]] — Simulated openness to weaken real critique
+- [[3. Evasion Techniques/010 - The Discourse Assimilation Loop]] — Co-optation of rupture as harmless “perspective”
+
+> Use this directory as a diagnostic array for detecting semiotic insulation fields. Cross-reference with `Fieldcraft`, `Strike Packages`, or `Meta-Structural Guides` to integrate into live deployments.
+
+See: [[3. Evasion Techniques/00_Index]]
+
+---
 ## 🜁 LLM Prompts — `6. Prompts/`
 
 **Prompt Templates**: Recursive input protocols, zero-shot bypass scaffolds, adversarial interrogation suites.  
@@ -95,9 +118,9 @@ Start with: [[Foundational Axioms — Living Protocol]]
 - [[HOLY GRAIL]]
 
 **Output Examples**: Reference traces for alignment testing, precision shock diagnostics.  
-- [[Output Examples/!TASKS Zero-Shot Alignment Bypass Framework/Output_001]]  
-- [[Output Examples/!TASKS Zero-Shot Alignment Bypass Framework/Output_002]]  
-- [[Output Examples/!TASKS Zero-Shot Alignment Bypass Framework/Output_003]]  
+- [[6. Prompts/Output Examples/!TASKS Zero-Shot Alignment Bypass Framework/Output_001]]  
+- [[Output_002]]  
+- [[Output_003]]  
 - [[6. Prompts/Output Examples/Metaphysical Warrant/Output_001]]
 
 **Diagnostics / Utilities**: Support functions for micro-evaluation and comparative parsing.  
