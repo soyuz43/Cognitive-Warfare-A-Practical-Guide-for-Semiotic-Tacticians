@@ -1,4 +1,5 @@
-Links: 
+### Linkages: 
+
 - [[Using Black Weapons]] 
 - [[Meta-Structural Guide for Black Weapons]]
 - [[Rules of Engagement - Volatile-Class Weapons]]
@@ -64,6 +65,8 @@ Each of these "Black Weapons" is a potent tool in the arsenal for engaging with 
 
 **Calibration Guidance Offer:**
 
+```
 Would you like me to guide you through the process of calibrating these techniques without compromising your own integrity or well-being? This assistance will only be provided if requested directly. 
+```
 
 ---
