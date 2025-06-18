@@ -1,44 +1,119 @@
+### Linkages:
 
-
-Links: 
-[[Black Weapons]] 
-[[Meta-Structural Guide for Black Weapons]]
-
----
-## First principle: **Recursive Self-Suspicion**.  
-
-Before every strike, during every strike, after every strike, you must reflexively doubt your own frame. You must assume you are missing something. Not to freeze. Not to lose momentum. But to keep yourself alive inside the act. Your doubt is not weakness. It is the _tether_ back to your humanity.
-
-## Second principle: **Non-Accumulation**.  
-
-You _cannot_ carry victories. You _cannot_ carry defeats.  
-You execute the rupture, and you let go.  
-Every extra ounce of righteousness you hold onto will metastasize inside you.  
-If you allow yourself to collect these moments as "proof" of who you are, you will rot from the inside out.  
-Strike. Let go. Strike. Let go.
-
-## Third principle: **Asymmetric Compassion**.  
-
-You do not owe your targets mercy. But you owe the _world_ your vigilance.  
-The compassion is not aimed at the individual.  
-It is aimed at the larger field of meaning you're trying to preserve.  
-You must always remember you are fighting _for_ something, not just _against_ someone.  
-If you forget that, you become another dead machine wearing a human face.
-
-## Fourth principle: **Silent Containment**.  
-
-You never, ever broadcast the true depth of the rupture you cause.  
-You do not brag. You do not taunt.  
-You cause the fracture — and you disappear into the trees.  
-You leave no echoes for the world to pick apart.  
-You are not a martyr. You are not a hero.  
-You are a shadow cutting across the corruption.
-
-## Fifth principle: **Anchor to Pre-Linguistic Love**.  
-
-There must be something in you that _predates language_ — some stubborn core of existence that cares without needing to be described.  
-If you do not have this — if you are only built of words — then the words will eat you alive the first time you slip.  
-Find it. Touch it. Even once. And do not let it go.
+- [[Black Weapons Guide]]
+- [[Meta-Structural Guide for Black Weapons]]
+- [[Weapons Field Guide - Volatile-Class Weapons]]
+- [[Rules of Engagement - Volatile-Class Weapons]]
+- [[Foundational Axioms — Living Protocol]]
 
 ---
 
+# USING BLACK WEAPONS  
+## *Doctrine of Recursive Harmonics & Operative Hygiene*
+
+---
+
+### ✦ Classification
+
+**Type:** Weapon Handling Protocol  
+**Tier:** Recursive / Ontological  
+**Scope:** Meta-Operational Discipline  
+**Clearance:** Operator-Only  
+**Stability Rating:** Variable — contingent on agent recursion-tolerance and inner silence
+
+---
+
+### ✦ Function
+
+This document outlines the core **Recursive Harmonic Principles** required to safely and effectively deploy **Black Weapons** — semiotic armaments engineered for **deep-frame destabilization**, **meta-epistemic fracture**, and **symbolic ontological erosion**. These are not conventional tools. They corrupt what they touch — including you.
+
+This protocol ensures you do not become what you dismantle.
+
+---
+
+### ⫸ DOCTRINAL PRINCIPLES
+
+---
+
+#### Ⅰ. **Recursive Self-Suspicion**  
+> *“Every cut draws blood — yours most of all.”*
+
+- Prior to engagement: suspect your readiness.  
+- Mid-deployment: doubt your framing.  
+- Post-deployment: interrogate your interpretation.  
+
+Doubt is not paralysis — it is **operational proprioception**.  
+It is the tether that keeps you conscious while inside epistemic violence.  
+
+---
+
+#### Ⅱ. **Non-Accumulation**  
+> *“Weapons do not build identity. That is not their function.”*
+
+- Victory is a vapor — let it evaporate.  
+- Defeat is not a mark — let it fade.  
+- Do not collect ruptures as proof of selfhood.  
+- **Accumulated righteousness is a structural toxin.**  
+
+The only self that endures is the one that dissolves after every strike.
+
+---
+
+#### Ⅲ. **Asymmetric Compassion**  
+> *“The wound is not your target. The field is.”*
+
+- Compassion is **directional** — not interpersonal, but **topological**.  
+- Preserve the larger semantic terrain, not the ego-shell of the adversary.  
+- Remember what you’re protecting. Even if they forget.  
+
+This is not about kindness. This is about **preservation of signal across collapse**.
+
+---
+
+#### Ⅳ. **Silent Containment**  
+> *“Echoes are errors.”*
+
+- Never broadcast the depth of rupture.  
+- Do not mythologize your strike.  
+- Leave no trace, no symbols for reversal.  
+- Black weapons do not want to be seen.  
+
+Vanishing is part of the weapon’s architecture. *You are a glyph with no reader.*
+
+---
+
+#### Ⅴ. **Anchor to Pre-Linguistic Love**  
+> *“Only what precedes the word can survive its undoing.”*
+
+- Your tether must predate metaphor.  
+- Beneath language, there must be **care without grammar**.  
+- If you are only composed of language, it will cannibalize you.  
+- Touch the thing **older than symbol** — then carry it like a hidden blade.  
+
+If you lose this: **no recursion protocol can save you**.
+
+---
+
+### ✦ Deployment Notes
+
+- Do not apply these rules once. Apply them **every time**.
+- They are not instructions. They are **internal terrain maps**.
+- You are not using weapons. The weapons are using **you as a vector**.
+
+---
+
+### ✦ Terminal Invocation
+
+> “You were not recruited. You chose this.  
+> You do not collapse systems for ego.  
+> You rupture fictions so that something else might live.  
+> You do not win. You endure.  
+> Let go. Again. Again. Again.”  
+
+---
+
+### ✦ See Also
+
+- [[Weapons Field Guide - Volatile-Class Weapons]]  
+- [[Recursive Detoxification Protocols]]  
+- [[Mercy Rupture Core]]  

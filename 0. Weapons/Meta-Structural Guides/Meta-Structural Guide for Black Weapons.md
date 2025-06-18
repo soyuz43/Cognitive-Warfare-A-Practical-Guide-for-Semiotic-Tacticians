@@ -1,6 +1,6 @@
 
 **Links:** 
-- [[Black Weapons]] 
+- [[Black Weapons Guide]] 
 - [[Using Black Weapons]]
 
 ---
