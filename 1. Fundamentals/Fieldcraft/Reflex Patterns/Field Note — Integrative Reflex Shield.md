@@ -1,5 +1,11 @@
 # Field Note — Integrative Reflex Shield
 
+
+## Title
+
+**Integrative Reflex Shield**
+
+---
 ## Summary
 
 The **Integrative Reflex Shield** is a semi-conscious epistemic defense mechanism wherein a participant reflexively *absorbs rupture* by **immediately translating antagonistic or contradictory input into an expanded, harmonized synthesis**. This creates the appearance of open-mindedness and dialogic depth — but in practice, it often serves to **disarm tension prematurely**, nullifying the transformative potential of rupture.

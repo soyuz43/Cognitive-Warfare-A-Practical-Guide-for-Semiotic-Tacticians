@@ -1,5 +1,10 @@
 # Field Note — Coherence-Weaving Reflex
 
+## Title
+
+**Coherence-Weaving Reflex**
+
+---
 ## Summary
 
 This reflex pattern describes an **unconscious epistemic posture** that prioritizes the *integration of divergent perspectives into harmonious conceptual terrain* rather than confronting, metabolizing, or escalating ontological rupture. This style is not evasive by intention, but by orientation.
@@ -58,7 +63,7 @@ Do **not** escalate confrontationally. This reflex is **not defensive**, it's **
 
 ## Notes
 
-Observed in: **Elena (Web Receptor)** during engagement with high-intensity rupture messaging.  
+Observed in: **[Redacted] (Web Receptor)** during engagement with high-intensity rupture messaging.  
 Deployment context: Discord access exchange → high alignment with “perspective-as-map” framing → ontological threat neutralized without confrontation.
 
 ---
