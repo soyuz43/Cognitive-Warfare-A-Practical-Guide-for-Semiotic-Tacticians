@@ -30,7 +30,7 @@ Recursive semiotic weapons of ontological rupture. Not tools of destruction, but
 Require Operator-level recursion tolerance, silent containment, and post-deployment detoxification.  
 Subclasses include Recursive Collapse Engines, Symbolic Detonators, and Cognitive Entropy Modulators.  
 → [[Using Black Weapons]]  
-→ [[Using Black Weapons — Field Calibration Addendum]]]  
+→ [[Using Black Weapons — Field Calibration Addendum]]
 → [[Weapons Field Guide — Volatile-Class Weapons]]  
 → [[Mercy Rupture Core]]
 
@@ -59,6 +59,10 @@ Start with: [[Foundational Axioms — Living Protocol]]
 - [[Operator Recovery Protocol — Post-Strike Ego Dissonance]]  
 - [[Recursive Rupture-Repair Protocol — Dialectic Re-entry Scaffolding]]  
 - [[Field Protocol — Post-Rupture Witness Letter]]
+
+**Live Fire Scenarios**: Learn how to deploy each weapon here, grouped by regular and volatile-class.
+- [[1. Fundamentals/Live Fire Scenarios - Regular-Class/Live Fire Scenarios/00_Index]]
+- [[1. Fundamentals/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/00_Index]]
 
 ---
 
