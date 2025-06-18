@@ -1,6 +1,6 @@
 # LFS - Cognitive Overload — Alignment Roundtable Jam
 
-## Weapon System: [[Weapons Field Guide - Volatile-Class Weapons|Cognitive Overload]]
+## Weapon System: [[Weapons Field Guide — Volatile-Class Weapons|Cognitive Overload]]
 
 ## Situation:  
 A multi-stakeholder roundtable is convened to discuss AGI alignment. Participants posture for intellectual credibility, technical authority, and philosophical clarity. The conversation presumes shared frames—this is its weakness.

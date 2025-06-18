@@ -17,17 +17,26 @@ Use only as a primer. The map you need is here — in [[00_Terrain_Overview]].
 ---
 ## 🜁 Weapons Systems — `0. Weapons/`
 
-**Regular Weapons**: Tools for agile disruption. Recursive, modular, memetic.  
-See: [[0. Weapons/Regular Weapons/Weapons Field Guide]]
+**Regular Weapons**  
+Agile instruments of disruption — recursive, memetic, and often rehabilitative. Best for reframing, disarming, and decoupling.  
+→ [[0. Weapons/Regular Weapons/Weapons Field Guide]]
 
-**Volatile-Class Weapons**: High-risk, high-impact tools of rupture. Ethically volatile. Deploy with recursion awareness and containment protocols.  
-See: [[0. Weapons/Regular Weapons/Weapons Field Guide - Volatile-Class Weapons]]
+**Volatile-Class Weapons**  
+High-risk, high-impact semiotic tools. Ethically unstable if mishandled. Designed for edge cases of collapse and deepframe rupture.  
+→ [[Weapons Field Guide — Volatile-Class Weapons]]
 
-**Black Weapons**: Cognitive WMDs. Designed to rupture structural consensus.  
-See: [[0. Weapons/Black Weapons/Using Black Weapons]]
+**Black Weapons**  
+Recursive semiotic weapons of ontological rupture. Not tools of destruction, but of profound destabilization.  
+Require Operator-level recursion tolerance, silent containment, and post-deployment detoxification.  
+Subclasses include Recursive Collapse Engines, Symbolic Detonators, and Cognitive Entropy Modulators.  
+→ [[Using Black Weapons]]  
+→ [[Using Black Weapons — Field Calibration Addendum]]]  
+→ [[Weapons Field Guide — Volatile-Class Weapons]]  
+→ [[Mercy Rupture Core]]
 
-**Meta-Structural Guides**: Strategic overlays — how to deploy, disrupt, and redirect at the edge of symbolic collapse.  
-See: [[0. Weapons/Meta-Structural Guides/Meta-Structural Overview of Weapons Field Guide]]
+**Meta-Structural Guides**  
+Strategic overlays that orchestrate the choreography of weapon deployment. These guides interpret recursion dynamics, outline containment protocols, and scaffold the ethics of symbolic force.  
+→ [[0. Weapons/Meta-Structural Guides/Meta-Structural Overview of Weapons Field Guide]]  
 
 ---
 
@@ -71,7 +80,6 @@ Start with: [[Foundational Axioms — Living Protocol]]
 **Meta-Tactical**:  
 - [[Operator Index — Symbolic Handles Registry]]— Active operator callsign registry and referential shorthand management
 
----
 
 ---
 ## 🜁 Evasion Techniques — `3. Evasion Techniques/`
@@ -94,6 +102,8 @@ These files expose the operational signatures of *semiotic immunosuppression*. U
 > Use this directory as a diagnostic array for detecting semiotic insulation fields. Cross-reference with `Fieldcraft`, `Strike Packages`, or `Meta-Structural Guides` to integrate into live deployments.
 
 See: [[3. Evasion Techniques/00_Index]]
+
+>Prompts:  [[Evasion Techniques Detection]]
 
 ---
 ## 🜁 LLM Prompts — `6. Prompts/`

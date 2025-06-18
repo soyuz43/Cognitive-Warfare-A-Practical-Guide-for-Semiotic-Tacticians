@@ -26,7 +26,7 @@ IWP-guided internalization enables:
 Choose any entry from:
 
 - [[Weapons Field Guide]]
-- [[Weapons Field Guide - Volatile-Class Weapons]]
+- [[Weapons Field Guide — Volatile-Class Weapons]]
 
 ---
 
@@ -83,7 +83,7 @@ Document output as:
 
 ## Example
 
-**Original Weapon:** [[Weapons Field Guide - Volatile-Class Weapons#Semantic Hijacking]]
+**Original Weapon:** [[Weapons Field Guide — Volatile-Class Weapons#Semantic Hijacking]]
 
 **Operator Directive:**  
 Destabilize core terms during contested discourse. Invert definitions selectively.
@@ -113,7 +113,7 @@ The operator becomes both substrate and instrument — a semiotic system recursi
 ## Linkages
 
 - [[Weapons Field Guide]]
-- [[Weapons Field Guide - Volatile-Class Weapons]]
+- [[Weapons Field Guide — Volatile-Class Weapons]]
 - [[Recursive Rupture-Repair Protocol — Dialectic Re-entry Scaffolding]]
 - [[1. Calibration Prompt]]
 - [[Vault Construction & Mutation Protocol]]

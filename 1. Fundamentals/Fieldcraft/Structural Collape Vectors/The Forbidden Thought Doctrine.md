@@ -14,8 +14,8 @@
 ### Linkages:
 - [[Rupture_Sequence_Protocol]]
 - [[Primary_Rupture_Vectors]]
-- [[Black Weapons]]
-- [[Weapons Field Guide - Volatile-Class Weapons]]
+- [[Black Weapons Guide]]
+- [[Weapons Field Guide — Volatile-Class Weapons]]
 
 ---
 

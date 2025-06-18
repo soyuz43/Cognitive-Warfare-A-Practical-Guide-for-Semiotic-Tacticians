@@ -36,7 +36,7 @@ This index catalogs modular rupture scenarios executed under active semiotic wea
 
 Before deploying rupture modules, cross-check the following:
 
-- [[Weapons Field Guide - Volatile-Class Weapons]]
+- [[Weapons Field Guide — Volatile-Class Weapons]]
 - [[Meta-Structural Overview of Weapons Field Guide - Volatile-Class Weapons]]
 - [[Rules of Engagement - Volatile-Class Weapons]]
 - [[Recursive Rupture-Repair Protocol — Dialectic Re-entry Scaffolding]]

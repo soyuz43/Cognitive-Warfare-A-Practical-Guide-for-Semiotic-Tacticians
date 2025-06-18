@@ -1,6 +1,6 @@
 # LFS - Temporal Disruption — Tenure Drift Spiral
 
-## Weapon System: [[Weapons Field Guide - Volatile-Class Weapons|Temporal Disruption]]
+## Weapon System: [[Weapons Field Guide — Volatile-Class Weapons|Temporal Disruption]]
 
 ## Situation:  
 A mid-career academic is losing confidence in their career trajectory. Department promises are being delayed, tenure metrics keep shifting, and strategic certainty is eroding. They still believe the institution’s time horizon is real.

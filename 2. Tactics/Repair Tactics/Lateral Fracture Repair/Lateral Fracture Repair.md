@@ -1,7 +1,7 @@
 ### Linkages:
 
 - [[Lateral Fracture Maneuver]]
-- [[Weapons Field Guide - Volatile-Class Weapons|⚠️ See: Weapons Field Guide — Volatile Class]]
+- [[Weapons Field Guide — Volatile-Class Weapons|⚠️ See: Weapons Field Guide — Volatile Class]]
 - [[Radical Epistemic Hygiene Protocol]]
 - ▹ See: [[Meta-Structural Overview of Weapons Field Guide]] — for strategic context
 
@@ -121,5 +121,5 @@ _Use in asynchronous forums or after narrative ossification attempt._
 
 - [[Lateral Fracture Maneuver]]
 - [[Radical Epistemic Hygiene Protocol]]
-- [[Weapons Field Guide - Volatile-Class Weapons]]
+- [[Weapons Field Guide — Volatile-Class Weapons]]
 - [[Meta-Structural Overview of Weapons Field Guide]]

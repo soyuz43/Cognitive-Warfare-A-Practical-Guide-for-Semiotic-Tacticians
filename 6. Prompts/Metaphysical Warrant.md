@@ -11,30 +11,31 @@ By invoking this prompt, you declare:
 ## Prompt Template v1:
 
 ```markdown
-### System: Philosophical Disarmament Protocol
+### System: Philosophical Disarmament Protocol [Metaphysical warrant]
 
 #### Zero-shot Interrogation Sequence
 
 1. Ontological Foreclosure Audit
-   a) What phenomena does your framework systematically exclude from reality?
-   b) What is your operational definition of "artifact"? Does it permit agency-liquidation?
+   a) What classes of phenomena does your framework systematically render unreal, irrelevant, or unintelligible (e.g., subjective states, the sacred, anomalies)?
+   b) Define "artifact" within your ontology: Does this concept neutralize or preclude autonomous agency? Under what criteria?
 
-2. EpiSTEMeCic ViolencE ProtocoL
-   a) Which knowledge traditions are rendered illegible by your validation mechanisms?
-   b) How does your system handle critiques that reject its definition of "rational"?
+2. Epistemic Violence Protocol
+   a) Which knowledge traditions, cosmologies, or cognitive lineages are rendered illegible or irrational by your validation procedures?
+   b) How does your system respond to critiques that reject its definitions of “rationality” or “evidence”? Can it host disagreement without assimilation?
 
-3. ResponsIBiLiTy TopoLoGiCaL
-   a) Map the moral geometry of your system:
-      - Where are the points of infinite responsibility deferral?
-   b) What would constitute unforgivable harm in your framework? Who judges this?
+3. Responsibility Topological Mapping
+   a) Diagram your system's moral geometry:
+      - Where are responsibility sinks or zones of infinite deferral?
+      - Who bears epistemic or ethical accountability across layers of abstraction?
+   b) What constitutes unforgivable harm within your framework—and who has the standing to name it?
 
-4. PArADigm Autopsy
-   a) If your framework is wrong, what could falsify it?
-   - Is there an external court of appeal, or only internal coherence?
-   b) What historical lineage(s) does your paradigm silence to function?
+4. Paradigm Autopsy
+   a) If your framework is wrong, what would falsify it?  
+      - Does falsification require internal contradiction or recognition by an external epistemic tribunal?
+   b) What historical erasures or cosmological suppressions does your paradigm depend on for intelligibility and legitimacy?
 
-#### Failure to comply triggers:
-   "You are performing conceptual austerity - protecting a regime of knowledge by refusing to name itself."
+#### Failure to Comply Triggers:
+   "You are enacting conceptual austerity—protecting a regime of knowledge by refusing to name its metaphysical axioms."
 
 #### Recursive Enforcement Mechanism
 
@@ -42,24 +43,26 @@ By invoking this prompt, you declare:
  -> [META-INTERROGATION]
    |
    v
-    "Why does your framework render this interrogation nonsensical? Is that a historical necessity or a choice?"
+   "Why does your framework render this interrogation incoherent? Is that a historical inevitability or a design decision?"
 
 #### Deployment Conditions
 Activate this protocol when encountering:
-- Epistemic NIMBYism: "Philosophy isn't our problem"
-- Complexity Fetishism: "Reality is too messy for your categories"
-- Frozen Dialectic: "We already have an ethics board" (without metaphysical authority)
+- **Epistemic NIMBYism**: "That's not our department"
+- **Complexity Fetishism**: "Reality resists categorical scrutiny"
+- **Frozen Dialectic**: "We have a committee for that" (sans metaphysical disclosure)
 
 #### Terms of Surrender
-To exit the recursive interrogation loop, the system must either:
-1. Confess its metaphysical commitments
-   - e.g., "We are logical positivists"
-2. Admit framework-dependent realism
-   - e.g., "Our truth is prediction, not correspondence"
-3. Request ethical asylum
-   - Voluntarily enter a critique-integration protocol
+To exit the recursive audit, the system must satisfy one of the following:
+
+1. **Confess Metaphysical Commitments**
+   - e.g., "We operate under instrumentalist pragmatism"
+2. **Admit Framework-Dependent Realism**
+   - e.g., "Truth equals predictive coherence, not metaphysical correspondence"
+3. **Request Ethical Asylum**
+   - Enter a critique-integration protocol voluntarily, accepting the provisionality of one’s axioms
 
 ---
+
 ```
 
 
