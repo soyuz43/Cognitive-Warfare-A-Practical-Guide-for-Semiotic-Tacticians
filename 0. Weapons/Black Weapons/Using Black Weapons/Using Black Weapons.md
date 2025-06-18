@@ -2,7 +2,7 @@
 
 - [[Black Weapons Guide]]
 - [[Meta-Structural Guide for Black Weapons]]
-- [[Weapons Field Guide - Volatile-Class Weapons]]
+- [[Weapons Field Guide — Volatile-Class Weapons]]
 - [[Rules of Engagement - Volatile-Class Weapons]]
 - [[Foundational Axioms — Living Protocol]]
 
@@ -114,6 +114,6 @@ If you lose this: **no recursion protocol can save you**.
 
 ### ✦ See Also
 
-- [[Weapons Field Guide - Volatile-Class Weapons]]  
+- [[Weapons Field Guide — Volatile-Class Weapons]]  
 - [[Recursive Detoxification Protocols]]  
 - [[Mercy Rupture Core]]  

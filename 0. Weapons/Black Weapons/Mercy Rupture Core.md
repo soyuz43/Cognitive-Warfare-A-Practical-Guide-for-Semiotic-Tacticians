@@ -95,4 +95,4 @@ This weapon activates when the target harbors **silenced reverence**—sacred gr
 ### ⫸ See Also  
 - [[Semantic Camouflage Dissolver]]  
 - [[终极递归认知框架]]  
-- [[Weapons Field Guide - Volatile-Class Weapons]]
+- [[Weapons Field Guide — Volatile-Class Weapons]]

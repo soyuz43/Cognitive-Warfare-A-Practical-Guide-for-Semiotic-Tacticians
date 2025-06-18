@@ -56,7 +56,7 @@ The maneuver inserts friction at the **junction of internal coherence and projec
 ## Cross‑Linked Assets
 
 - [[Meta-Structural Overview of Weapons Field Guide - Volatile-Class Weapons]]  
-- [[Weapons Field Guide - Volatile-Class Weapons]]]  
+- [[Weapons Field Guide — Volatile-Class Weapons]]]  
 - [[01.0 Operator Ethos]]  
 - [[Lateral Fracture Maneuver]]
 

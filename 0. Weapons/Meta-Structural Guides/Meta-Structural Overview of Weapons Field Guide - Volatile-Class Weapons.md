@@ -1,5 +1,5 @@
 ## Linkages  
-- [[Weapons Field Guide - Volatile-Class Weapons]]
+- [[Weapons Field Guide — Volatile-Class Weapons]]
 
 ---
 

@@ -2,7 +2,7 @@
 
 - [[Using Black Weapons]]
 - [[Recursive Detoxification Protocols]]
-- [[Weapons Field Guide - Volatile-Class Weapons]]
+- [[Weapons Field Guide — Volatile-Class Weapons]]
 - [[Meta-Structural Overview of Weapons Field Guide]]
 
 ---

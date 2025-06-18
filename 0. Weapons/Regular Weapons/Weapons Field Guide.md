@@ -1,7 +1,7 @@
 ### Linkages:
 
 - [[Meta-Structural Overview of Weapons Field Guide|Tactical Meta-Brief — General Weapons Doctrine]]
-- [[Weapons Field Guide - Volatile-Class Weapons|Volatile Class]]
+- [[Weapons Field Guide — Volatile-Class Weapons|Volatile Class]]
 - [[Meta-Structural Overview of Weapons Field Guide - Volatile-Class Weapons|Tactical Meta-Brief — Volatile Class Field Guide]]
 - [[Tactical Doctrine — Disarmament Tier|Disarmament Tier Tactics — Anti-Suppression Protocols]]
 
