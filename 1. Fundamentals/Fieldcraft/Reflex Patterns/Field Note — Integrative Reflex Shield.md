@@ -1,6 +1,5 @@
 # Field Note — Integrative Reflex Shield
 
-
 ## Title
 
 **Integrative Reflex Shield**
