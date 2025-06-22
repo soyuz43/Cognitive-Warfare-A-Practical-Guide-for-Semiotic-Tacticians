@@ -1,6 +1,6 @@
 ### Weapon Name
 **Codename:** Echo Chamber Collapse Device  
-**Class:** Tactical / Recursive  
+**Class**: PsyOps / Tactical
 **Primary Function:** Extraction  
 **Status:** Prototype
 

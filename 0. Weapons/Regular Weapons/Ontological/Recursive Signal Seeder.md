@@ -1,6 +1,6 @@
 ### Weapon Name
 **Codename:** Recursive Signal Seeder
-**Class:** Ontological / Subthreshold  
+**Class:** Ontological / Recursive
 **Primary Function:** Latent Undermining of Coherence  
 **Status:** Stable Deployment
 
