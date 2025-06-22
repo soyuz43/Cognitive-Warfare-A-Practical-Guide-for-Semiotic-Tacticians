@@ -11,17 +11,17 @@ This index catalogs semiotic rupture deployments using standard cognitive weapon
 ### Ontological Vertigo  
 > _Disorientation through epistemic freefall._
 
-- *(No scenarios deployed yet)*
+- [[LFS - Ontological Vertigo - Brand Identity Feedback Loop]]
 
 ### Ontological Whiplash  
 > _Destabilization through alternating interpretive frames._
 
-- *(No scenarios deployed yet)*
+- [[LFS - Ontological Whiplash - Ethical Brand Schism]]
 
 ### Existential Motion Sickness  
 > _Identity destabilization via recursive role contradiction._
 
-- *(No scenarios deployed yet)*
+- [[LFS - Existential Motion Sickness - Alignment Messiah Loop]]
 
 ### Memetic Desire Trap  
 > _Desire vectoring via prestige and symbolic scarcity._
@@ -36,7 +36,7 @@ This index catalogs semiotic rupture deployments using standard cognitive weapon
 ### Ego Death Induction  
 > _Collapse of identity scaffolding into narrative rupture._
 
-- *(No scenarios deployed yet)*
+- [[LFS - Ego Death Induction - Think Tank Null Horizon]]
 
 ---
 

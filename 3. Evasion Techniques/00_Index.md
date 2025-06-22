@@ -12,34 +12,34 @@ This index serves as both a map and a warning: the tools described herein are al
 
 ## Tactic Directory
 
-### `001 - Semantic Load Shedding`
+### [[001 - Semantic Load Shedding]]
 > Offloads meaning into overloaded or undefined signifiers to simulate depth while masking conceptual voids.
 
-### `002 - Adversarial Humility`
+### [[002 - Adversarial Humility]]
 > Projects epistemic modesty to avoid critique—weaponizing uncertainty as a shield against responsibility.
 
-### `003 - Frame Evasion via Metric Saturation`
+### [[003 - Frame Evasion via Metric Saturation]]
 > Floods discourse with quant metrics to reframe questions about *being* into questions about *performance*.
 
-### `004 - The Falsifiability Trap`
+### [[004 - The Falsifiability Trap]]
 > Dismisses ontological or philosophical critique by demanding scientific falsifiability where it structurally doesn't apply.
 
-### `005 - Recursive Deferral`
+### [[005 - Recursive Deferral]]
 > Acknowledges critique only to postpone it indefinitely, creating a horizon of accountability that never arrives.
 
-### `006 - The Collapsing Paradox Defense`
+### [[006 - The Collapsing Paradox Defense]]
 > Invokes contradiction or paradox to resist scrutiny, cloaking evasiveness in the language of nuance.
 
-### `007 - Plausible Deniability Cloak`
+### [[007 - Plausible Deniability Cloak]]
 > Atomizes systemic critique into personal exceptions, shielding structural patterns behind anecdotal irregularity.
 
-### `008 - Epistemic Repackaging`
+### [[008 - Epistemic Repackaging]]
 > Reframes structural or ontological critiques as technical or operational issues to preserve systemic integrity.
 
-### `009 - Rhetorical Inoculation`
+### [[009 - Rhetorical Inoculation]]
 > Performs engagement by acknowledging critique in weakened form, thereby immunizing the system against deeper challenge.
 
-### `010 - The Discourse Assimilation Loop`
+### [[010 - The Discourse Assimilation Loop]]
 > Absorbs critiques into the dominant frame as “just another perspective,” neutralizing rupture through pluralistic framing.
 
 ---
