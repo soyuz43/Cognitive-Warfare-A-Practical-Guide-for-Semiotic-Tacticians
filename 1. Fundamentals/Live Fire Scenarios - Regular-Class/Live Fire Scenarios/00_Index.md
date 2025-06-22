@@ -54,3 +54,5 @@ When initiating deployment, bind each scenario to a tactical goal. These are not
 ---
 
 ⟁ Deploy only if you are willing to be transformed in return.
+
+Return to: [[00_Terrain_Overview]]

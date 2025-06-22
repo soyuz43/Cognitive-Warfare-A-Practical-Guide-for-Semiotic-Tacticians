@@ -1,6 +1,6 @@
 # Live Fire Scenarios — Index
 
-This index catalogs modular rupture scenarios executed under active semiotic weapons protocols. Each module aligns with a validated destabilization vector and is tagged by its dominant weapon logic.
+This index catalogs modular rupture scenarios using the [[Weapons Field Guide — Volatile-Class Weapons]] protocol. Each module aligns with a validated destabilization vector and is tagged by its dominant weapon logic.
 
 > Operators: Treat this as a tactical atlas. All deployments are terrain-relative. Match rupture geometry to opposition structure. Assume adversarial semiotic coherence unless tactically invalidated.
 
@@ -32,6 +32,29 @@ This index catalogs modular rupture scenarios executed under active semiotic wea
 
 ---
 
+### Emotional Amplification  
+- [[LFS - Emotional Amplification - Crisis Brand Oscillator]]  
+  *Trigger affective overload to bypass cognition and induce reactive loyalty to incoherent stimuli.*
+
+---
+
+### Identity Fracture  
+- [[LFS - Identity Fracture - Humanist Correspondence Spiral]]  
+  *Destabilize personal coherence by surfacing contradictory role commitments and incompatible moral frameworks.*
+
+---
+
+### Sensory Disorientation  
+- [[LFS - Sensory Disorientation - Code Loop Induction Chamber]]  
+  *Exploit sensory input overload and inconsistency to collapse internal pacing and increase structural dependency.*
+
+---
+
+### Reality Distortion Field  
+- [[LFS - Reality Distortion Field - Coherence Mirage Protocol]]  
+  *Preserve the illusion of logical discourse while embedding unresolved contradiction into the structure of interpretive authority.*
+
+---
 ## ∴ Deployment Protocol
 
 Before deploying rupture modules, cross-check the following:
@@ -50,10 +73,6 @@ Operators are advised to preload contextual calibration layers when possible:
 
 ## ∴ Pending Scenarios
 
-> [ ] Emotional Amplification  
-> [ ] Identity Fracture  
-> [ ] Sensory Disorientation  
-> [ ] Reality Distortion Field  
 > [ ] Perceptual Inversion  
 > [ ] Memory Displacement  
 
@@ -71,3 +90,5 @@ Scenarios must clearly map to a defined weapon system. Include rupture mechanics
 ---
 
 ⟁ Proceed as if compromised. Operate as if irreversibly free.
+
+Return to: [[00_Terrain_Overview]]
