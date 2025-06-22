@@ -55,6 +55,19 @@ This index catalogs modular rupture scenarios using the [[Weapons Field Guide �
   *Preserve the illusion of logical discourse while embedding unresolved contradiction into the structure of interpretive authority.*
 
 ---
+
+### Perceptual Inversion  
+- [[LFS - Perceptual Inversion - Safety Optics Inversion Loop]]  
+  *Destabilize coherence by presenting visually coherent systems that contradict their underlying semantic content.*
+
+---
+
+### Memory Displacement  
+- [[LFS - Memory Displacement - Origin Myth Overwrite Protocol]]  
+  *Overwrite critical historical ruptures with curated nostalgia and continuity myths to enforce epistemic containment.*
+
+---
+
 ## ∴ Deployment Protocol
 
 Before deploying rupture modules, cross-check the following:
@@ -68,13 +81,6 @@ Before deploying rupture modules, cross-check the following:
 Operators are advised to preload contextual calibration layers when possible:
 - [[Prompt Templates (Modular) for Rupture-Repair Protocol Notes]]
 - [[1. Calibration Prompt]]
-
----
-
-## ∴ Pending Scenarios
-
-> [ ] Perceptual Inversion  
-> [ ] Memory Displacement  
 
 ---
 
