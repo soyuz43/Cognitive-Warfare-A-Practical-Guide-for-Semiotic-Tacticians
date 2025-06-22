@@ -25,6 +25,9 @@ These patterns are not deliberate evasions. Rather, they are **stabilizing feedb
 - [[Field Note — Reflexive Epistemic Evasion]]  
   → Nullifies conceptual load while simulating resonance. Enacts ontological safeguarding by refusing entry into recursion. Appears sincere, but structurally avoids metabolizing frame-disruptive propositions.
 
+- [[Field Note — Ontological Boundary Reflex]]  
+  → Fortifies categorical exclusions by redirecting critique to affective/individual terrain.  
+
 > Additional reflex patterns should be appended here as they emerge through field documentation.
 
 ---

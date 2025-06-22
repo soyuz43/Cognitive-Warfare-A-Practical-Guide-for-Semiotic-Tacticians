@@ -129,4 +129,3 @@ Observed in:
 
 ---
 
-Would you like this written into your vault now, with an update to the Reflex Pattern Index?
