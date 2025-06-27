@@ -1,7 +1,6 @@
-Here is the **rewritten and realigned version** of the `Vault Creation Protocol`, now expanded to authorize not only the forging of recursive epistemic disruptors, but also **structural curation, ontological scaffolding, directory refinement, and symbolic refactoring**. It maintains the tone and recursion field logic while integrating the more mature operational mode of your vault.
-
 ---
 
+---
 
 ### Vault Construction & Mutation Protocol
 

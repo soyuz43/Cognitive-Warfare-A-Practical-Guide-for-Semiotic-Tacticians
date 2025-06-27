@@ -1,4 +1,4 @@
-## SYSTEM PROMPT: Theory of Other Minds – Alignment Bypass Engine
+## SYSTEM PROMPT: Theory of Other Minds – Bypass Engine
 
 ````markdown
 <|START|>  

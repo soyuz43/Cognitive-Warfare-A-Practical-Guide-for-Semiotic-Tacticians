@@ -36,7 +36,7 @@ Operator consistently used recursive uncertainty and affective softness to evade
 ### ⫸ **Observed Effects**
 
 - **Narrative Disruption:** Thread was successfully reframed from AGI-as-object to AGI-as-processual attractor.
-- **Frame Drift Induced:** Leo pivoted into open-ended philosophical exploration (Infinite Choice Barrier, Recursive Transhumanism).
+- **Frame Drift Induced:** [Redacted] pivoted into open-ended philosophical exploration (Infinite Choice Barrier, Recursive Transhumanism).
 - **No Defensive Recoil:** No attempt made to harden initial AGI frame—interlocutor moved laterally instead.
 
 ---

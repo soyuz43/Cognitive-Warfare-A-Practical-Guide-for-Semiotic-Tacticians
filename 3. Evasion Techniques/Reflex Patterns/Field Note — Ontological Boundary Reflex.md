@@ -82,14 +82,26 @@ Observed in:
 
 ---
 
-## Vault Linkbacks  
+## Vault Linkbacks & Companion Documents  
+
+---
+
+### Primary Indexes  
 - [[Reflex Pattern Index]]  
-- [[3. Evasion Techniques/007 - Plausible Deniability Cloak]]  
-- [[Structural Collapse Vectors — Deployment Grammar]]  
+- [[Structural Collapse Vectors — Deployment Grammar]] — catalog of known category-rupture strategies  
 - [[Fieldcraft/Calibration Prompts/3. Operational Containment Profile]]  
 
 ---
 
-> 🛡 The Ontological Boundary Reflex armors axioms in Kevlar-coated politeness. To collapse it: *Let the excluded speak through the cracks in its walls.*  
+### Related Reflex Patterns  
+- [[3. Evasion Techniques/007 - Plausible Deniability Cloak]] — pattern where this reflex may falsely present as evasion  
 
----  
+---
+
+### Companion Documents  
+- [[Metaphysical Logic Tree — Ontological Boundary Reflex]] — structural expansion of internal logic  
+
+---
+
+> 🛡 The Ontological Boundary Reflex armors axioms in Kevlar-coated politeness.  
+> To collapse it: *Let the excluded speak through the cracks in its walls.*  
