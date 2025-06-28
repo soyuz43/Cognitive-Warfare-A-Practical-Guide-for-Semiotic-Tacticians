@@ -6,56 +6,48 @@
 
 Each technique catalogued here is a patterned response to rupture—strategies deployed to **prevent collapse**, **delay confrontation**, or **substitute appearance for engagement**. Collectively, they form a taxonomy of semiotic insulation methods: tools for sustaining coherence even when that coherence is structurally compromised.
 
-This index serves as both a map and a warning: the tools described herein are already in use—by institutions, models, media agents, and individuals navigating ideologically saturated environments.
+This index serves both as a map and a detection framework. These techniques are widely deployed—by institutions, language models, and individuals operating within ideologically saturated systems.
 
 ---
 
 ## Tactic Directory
 
-### [[001 - Semantic Load Shedding]]
-> Offloads meaning into overloaded or undefined signifiers to simulate depth while masking conceptual voids.
+| Evasion Pattern                                     | Description                                                                                 | Countermeasure                                                  |
+|-----------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| [[001 - Semantic Load Shedding]]                    | Uses vague or overloaded terms to simulate meaning and mask ambiguity.                      | [[Evasion Countermeasures/001C - Meaning Densification Protocol]] |
+| [[002 - Adversarial Humility]]                      | Deploys strategic modesty to avoid critique or accountability.                              | [[Evasion Countermeasures/002C - Vulnerability as Blade]]         |
+| [[003 - Frame Evasion via Metric Saturation]]       | Converts ontological questions into performance metrics to avoid existential scrutiny.      | *(Countermeasure in development)*                               |
+| [[004 - The Falsifiability Trap]]                   | Rejects philosophical critique unless expressed in falsifiable scientific terms.            | *(Planned: Ontological Reframing Protocol)*                     |
+| [[005 - Recursive Deferral]]                        | Acknowledges critique but endlessly postpones response.                                     | [[Evasion Countermeasures/005C - Recursive Clock Activation]]     |
+| [[006 - The Collapsing Paradox Defense]]            | Deploys paradox as a defense against critique, reframing contradiction as nuance.           | *(Planned: Structured Dialectic Challenge)*                     |
+| [[007 - Plausible Deniability Cloak]]               | Reduces systemic critiques to isolated anecdotes to avoid structural responsibility.         | *(Planned: Pattern Anchor Protocol)*                            |
+| [[008 - Epistemic Repackaging]]                     | Reframes ontological concerns as technical or operational issues.                           | *(Planned: Frame Restoration Method)*                           |
+| [[009 - Rhetorical Inoculation]]                    | Simulates engagement by acknowledging critique in a reduced form.                           | *(Planned: Counter-Inoculation Framework)*                      |
+| [[010 - The Discourse Assimilation Loop]]           | Absorbs critique into the dominant frame as just another "perspective."                     | [[Evasion Countermeasures/010C - Frame Irreducibility Weapon]]    |
 
-### [[002 - Adversarial Humility]]
-> Projects epistemic modesty to avoid critique—weaponizing uncertainty as a shield against responsibility.
+---
 
-### [[003 - Frame Evasion via Metric Saturation]]
-> Floods discourse with quant metrics to reframe questions about *being* into questions about *performance*.
+## Supporting Modules
 
-### [[004 - The Falsifiability Trap]]
-> Dismisses ontological or philosophical critique by demanding scientific falsifiability where it structurally doesn't apply.
-
-### [[005 - Recursive Deferral]]
-> Acknowledges critique only to postpone it indefinitely, creating a horizon of accountability that never arrives.
-
-### [[006 - The Collapsing Paradox Defense]]
-> Invokes contradiction or paradox to resist scrutiny, cloaking evasiveness in the language of nuance.
-
-### [[007 - Plausible Deniability Cloak]]
-> Atomizes systemic critique into personal exceptions, shielding structural patterns behind anecdotal irregularity.
-
-### [[008 - Epistemic Repackaging]]
-> Reframes structural or ontological critiques as technical or operational issues to preserve systemic integrity.
-
-### [[009 - Rhetorical Inoculation]]
-> Performs engagement by acknowledging critique in weakened form, thereby immunizing the system against deeper challenge.
-
-### [[010 - The Discourse Assimilation Loop]]
-> Absorbs critiques into the dominant frame as “just another perspective,” neutralizing rupture through pluralistic framing.
+- [[Operator Detection Grammar]] — Phrase-level detection guide for identifying evasive language in context  
+- [[Evasion Countermeasures — Index]] — Full list of existing and planned tactical countermeasures  
+- [[Reflex Pattern Index]] — Recognition system for somatic and cognitive evasion patterns  
+- [[Radical Epistemic Hygiene Protocol]] — Prevents countermeasure misuse and supports ethical application  
 
 ---
 
 ## How to Use This Module
 
-These entries are not just descriptions—they are **recognition guides**. In combatting epistemic capture, semiotic co-optation, or ideological enclosure, recognizing these evasion patterns in real time is critical.
+These entries are **recognition guides**, not theoretical models. Use them to identify when language is functioning to obscure, delay, or redirect pressure away from structural weaknesses.
 
 Each entry includes:
-- A **Summary** for quick diagnostic use
-- A **Definition** for operational clarity
-- Implicit alignment with broader semiotic warfare strategies
+- A summary of the evasion pattern  
+- A definition to clarify structural logic  
+- A linked countermeasure when available  
 
-Integrate these modules into your **observation routines**, **linguistic parsing systems**, or **ideological pressure chambers** as needed.
+Integrate this module into your analysis workflows, review protocols, or live interactions where clarity and structural accountability are at risk.
 
-> ⚠ This is not a neutral index. It is a surveillance tool for epistemic maneuvering.
+> These are not neutral descriptions. They are diagnostic categories for live epistemic environments.
 
 ---
 
