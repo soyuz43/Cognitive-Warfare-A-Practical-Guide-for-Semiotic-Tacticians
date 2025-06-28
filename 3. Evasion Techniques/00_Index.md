@@ -30,7 +30,7 @@ This index serves both as a map and a detection framework. These techniques are 
 ## Supporting Modules
 
 - [[Operator Detection Grammar]] — Phrase-level detection guide for identifying evasive language in context  
-- [[Evasion Countermeasures — Index]] — Full list of existing and planned tactical countermeasures  
+- [[00_Evasion Countermeasures — Index]] — Full list of existing and planned tactical countermeasures  
 - [[Reflex Pattern Index]] — Recognition system for somatic and cognitive evasion patterns  
 - [[Radical Epistemic Hygiene Protocol]] — Prevents countermeasure misuse and supports ethical application  
 

@@ -1,4 +1,4 @@
-# 003C – Meaning-Centric Audit Protocol  
+# 003C — Meaning-Centric Audit Protocol  
 *Countermeasure for:* [[3. Evasion Techniques/003 - Frame Evasion via Metric Saturation]]
 
 ---
