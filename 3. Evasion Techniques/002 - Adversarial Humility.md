@@ -42,7 +42,6 @@ While seemingly honest, this move often displaces the burden of explanation, und
 ### Upward
 
 - [[Radical Epistemic Hygiene Protocol]]
-- [[Ontological Risk Compression Tactics]]
 
 ### Lateral
 
