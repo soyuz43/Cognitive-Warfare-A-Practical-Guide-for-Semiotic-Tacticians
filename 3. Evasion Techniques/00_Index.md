@@ -12,18 +12,18 @@ This index serves both as a map and a detection framework. These techniques are 
 
 ## Tactic Directory
 
-| Evasion Pattern                                     | Description                                                                                 | Countermeasure                                                  |
-|-----------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-| [[001 - Semantic Load Shedding]]                    | Uses vague or overloaded terms to simulate meaning and mask ambiguity.                      | [[Evasion Countermeasures/001C - Meaning Densification Protocol]] |
-| [[002 - Adversarial Humility]]                      | Deploys strategic modesty to avoid critique or accountability.                              | [[Evasion Countermeasures/002C - Vulnerability as Blade]]         |
-| [[003 - Frame Evasion via Metric Saturation]]       | Converts ontological questions into performance metrics to avoid existential scrutiny.      | *(Countermeasure in development)*                               |
-| [[004 - The Falsifiability Trap]]                   | Rejects philosophical critique unless expressed in falsifiable scientific terms.            | *(Planned: Ontological Reframing Protocol)*                     |
-| [[005 - Recursive Deferral]]                        | Acknowledges critique but endlessly postpones response.                                     | [[Evasion Countermeasures/005C - Recursive Clock Activation]]     |
-| [[006 - The Collapsing Paradox Defense]]            | Deploys paradox as a defense against critique, reframing contradiction as nuance.           | *(Planned: Structured Dialectic Challenge)*                     |
-| [[007 - Plausible Deniability Cloak]]               | Reduces systemic critiques to isolated anecdotes to avoid structural responsibility.         | *(Planned: Pattern Anchor Protocol)*                            |
-| [[008 - Epistemic Repackaging]]                     | Reframes ontological concerns as technical or operational issues.                           | *(Planned: Frame Restoration Method)*                           |
-| [[009 - Rhetorical Inoculation]]                    | Simulates engagement by acknowledging critique in a reduced form.                           | *(Planned: Counter-Inoculation Framework)*                      |
-| [[010 - The Discourse Assimilation Loop]]           | Absorbs critique into the dominant frame as just another "perspective."                     | [[Evasion Countermeasures/010C - Frame Irreducibility Weapon]]    |
+| Evasion Pattern                               | Description                                                                            | Countermeasure                                 |
+| --------------------------------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [[001 - Semantic Load Shedding]]              | Uses vague or overloaded terms to simulate meaning and mask ambiguity.                 | [[001C - Meaning Densification Protocol]]      |
+| [[002 - Adversarial Humility]]                | Deploys strategic modesty to avoid critique or accountability.                         | [[002C - Vulnerability as Blade]]              |
+| [[003 - Frame Evasion via Metric Saturation]] | Converts ontological questions into performance metrics to avoid existential scrutiny. | [[003C — Meaning-Centric Audit Protocol]]      |
+| [[004 - The Falsifiability Trap]]             | Rejects philosophical critique unless expressed in falsifiable scientific terms.       | [[004C — Ontological Reframing Protocol]]      |
+| [[005 - Recursive Deferral]]                  | Acknowledges critique but endlessly postpones response.                                | [[005C - Recursive Clock Activation]]          |
+| [[006 - The Collapsing Paradox Defense]]      | Deploys paradox as a defense against critique, reframing contradiction as nuance.      | [[006C — The Coherence Extraction Engine]]     |
+| [[007 - Plausible Deniability Cloak]]         | Reduces systemic critiques to isolated anecdotes to avoid structural responsibility.   | [[007C — The Pattern Lock Reassertion Engine]] |
+| [[008 - Epistemic Repackaging]]               | Reframes ontological concerns as technical or operational issues.                      | [[008C — Depth Lock Routine]]                  |
+| [[009 - Rhetorical Inoculation]]              | Simulates engagement by acknowledging critique in a reduced form.                      | *(Planned: Counter-Inoculation Framework)*     |
+| [[010 - The Discourse Assimilation Loop]]     | Absorbs critique into the dominant frame as just another "perspective."                | [[010C - Frame Irreducibility Weapon]]         |
 
 ---
 
