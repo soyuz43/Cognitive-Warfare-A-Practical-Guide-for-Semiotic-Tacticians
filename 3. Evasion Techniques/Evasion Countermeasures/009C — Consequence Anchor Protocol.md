@@ -1,5 +1,8 @@
 # 009C — Consequence Anchor Protocol
 
+⟁ Countermeasure for: [[009 - Rhetorical Inoculation]]
+
+---
 ## Summary
 
 **Consequence Anchoring** is a tactical method for disarming _Rhetorical Inoculation_ by forcing **surface agreement to reveal its depth**. It interrupts the illusion of engagement by **demanding consequence**: if a critique is valid, what follows? What shifts? What breaks?
