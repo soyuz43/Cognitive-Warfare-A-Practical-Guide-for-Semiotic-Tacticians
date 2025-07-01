@@ -66,7 +66,7 @@ These are markers of genuine integration—not just affective mirroring.
 - [[Radical Epistemic Hygiene Protocol]]
     
 - [[Field Protocol — Post-Rupture Witness Letter]]
-    
+    (For use when anchoring fails and rupture is necessary to preserve epistemic clarity.)
 
 ### Lateral
 
