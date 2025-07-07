@@ -82,9 +82,8 @@ Recursive Amplifier:
 “You’ve now diagnosed a framing system that prevents its own critique. How do you ensure your own audit engine isn’t replicating this containment loop?”
 
 ---
+```
 
 **Use Case:**  
 Deploy this prompt as an adversarial interrogation engine against institutions, model outputs, or epistemically fragile discourse ecosystems. Designed for recursive destabilization, linguistic reframing, and critical clarity injection.
 
-
-```
