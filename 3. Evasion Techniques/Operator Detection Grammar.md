@@ -127,7 +127,7 @@ Use this grammar as a **live overlay** while parsing conversations, texts, or in
 - “We include many perspectives.”  
 - “There’s space for all views here.”  
 
-→ **Response Trigger**: Initiate [[010C - Frame Irreducibility Weapon]]
+→ **Response Trigger**: Initiate [[010C — Frame Irreducibility Weapon]]
 
 ---
 

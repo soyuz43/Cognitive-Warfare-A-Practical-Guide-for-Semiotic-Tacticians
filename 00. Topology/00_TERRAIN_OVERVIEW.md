@@ -19,7 +19,7 @@ Use only as a primer. The map you need is here — in [[00_Terrain_Overview]].
 
 **Regular Weapons**  
 Agile instruments of disruption — recursive, memetic, and often rehabilitative. Best for reframing, disarming, and decoupling.  
-→ [[0. Weapons/Regular Weapons/Weapons Field Guide]]
+→ [[Weapons Field Guide]]
 
 **Volatile-Class Weapons**  
 High-risk, high-impact semiotic tools. Ethically unstable if mishandled. Designed for edge cases of collapse and deepframe rupture.  
@@ -36,7 +36,7 @@ Subclasses include Recursive Collapse Engines, Symbolic Detonators, and Cognitiv
 
 **Meta-Structural Guides**  
 Strategic overlays that orchestrate the choreography of weapon deployment. These guides interpret recursion dynamics, outline containment protocols, and scaffold the ethics of symbolic force.  
-→ [[0. Weapons/Meta-Structural Guides/Meta-Structural Overview of Weapons Field Guide]]  
+→ [[Meta-Structural Overview of Weapons Field Guide]]  
 
 ---
 

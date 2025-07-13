@@ -20,7 +20,7 @@ Countermeasures are structured tools — not rhetorical flourishes. Use them to 
 | [[001 - Semantic Load Shedding]]                 | [[001C - Meaning Densification Protocol]]      | Forces ambiguous terms to carry specific, layered meaning |
 | [[002 - Adversarial Humility]]                   | [[002C - Vulnerability as Blade]]              | Exposes avoidance cloaked as modesty                     |
 | [[005 - Recursive Deferral]]                     | [[005C - Recursive Clock Activation]]          | Time-bounds indefinite postponement                      |
-| [[010 - The Discourse Assimilation Loop]]        | [[010C - Frame Irreducibility Weapon]]         | Prevents absorption of critique into pluralistic framing |
+| [[010 - The Discourse Assimilation Loop]]        | [[010C — Frame Irreducibility Weapon]]         | Prevents absorption of critique into pluralistic framing |
 
 ---
 

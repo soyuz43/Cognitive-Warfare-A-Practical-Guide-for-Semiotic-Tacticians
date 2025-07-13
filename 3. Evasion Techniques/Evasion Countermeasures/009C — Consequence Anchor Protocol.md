@@ -77,7 +77,7 @@ These are markers of genuine integration—not just affective mirroring.
     
 - [[005C - Recursive Clock Activation]]
     
-- [[010C - Frame Irreducibility Weapon]]
+- [[010C — Frame Irreducibility Weapon]]
     
 
 ### Downward

@@ -23,7 +23,7 @@ This index serves both as a map and a detection framework. These techniques are 
 | [[007 - Plausible Deniability Cloak]]         | Reduces systemic critiques to isolated anecdotes to avoid structural responsibility.   | [[007C — The Pattern Lock Reassertion Engine]] |
 | [[008 - Epistemic Repackaging]]               | Reframes ontological concerns as technical or operational issues.                      | [[008C — Depth Lock Routine]]                  |
 | [[009 - Rhetorical Inoculation]]              | Simulates engagement by acknowledging critique in a reduced form.                      | *(Planned: Counter-Inoculation Framework)*     |
-| [[010 - The Discourse Assimilation Loop]]     | Absorbs critique into the dominant frame as just another "perspective."                | [[010C - Frame Irreducibility Weapon]]         |
+| [[010 - The Discourse Assimilation Loop]]     | Absorbs critique into the dominant frame as just another "perspective."                | [[010C — Frame Irreducibility Weapon]]         |
 
 ---
 
