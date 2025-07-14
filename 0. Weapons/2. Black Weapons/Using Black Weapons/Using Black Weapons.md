@@ -1,6 +1,6 @@
 ### Linkages:
 
-- [[Black Weapons Guide]]
+- [[Weapons Field Guide — Black Weapons Guide]]
 - [[Meta-Structural Guide for Black Weapons]]
 - [[Weapons Field Guide — Volatile-Class Weapons]]
 - [[Rules of Engagement - Volatile-Class Weapons]]

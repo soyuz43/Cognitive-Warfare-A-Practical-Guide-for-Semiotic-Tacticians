@@ -122,5 +122,5 @@ Skilled operators will learn to detect epistemic scent trails: the *residue of f
 - [[Recursive Semantic Subduction]]  
 - [[Weapons Field Guide — Volatile-Class Weapons]]  
 - [[Lateral Fracture Repair]]  
-- [[Black Weapons Guide]]  
+- [[Weapons Field Guide — Black Weapons Guide]]  
 - [[Using Black Weapons]]  

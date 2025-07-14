@@ -1,6 +1,6 @@
 ### Linkages:
 
-- [[Black Weapons Guide]]
+- [[Weapons Field Guide — Black Weapons Guide]]
 - [[Weapons Field Guide]]
 - [[Using Black Weapons]]
 - [[Meta-Structural Guide for Black Weapons]]

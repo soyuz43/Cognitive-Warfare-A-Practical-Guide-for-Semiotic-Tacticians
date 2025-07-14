@@ -41,8 +41,6 @@
 
 ---
 
----
-
 ## ✦ Tactic: Recursive Echo Bomb
 
 **Codename:** _Vertigo Pulse_  
