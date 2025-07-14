@@ -34,10 +34,12 @@ Recursive semiotic weapons of ontological rupture. Require Operator-level recurs
 
 **Volatile-Class Weapons**  
 High-risk, high-impact semiotic tools. Ethically unstable if mishandled.  
+- Core Systems: [[Semantic Hijacking]], [[Cognitive Overload]], [[Perceptual Inversion]], [[Memory Displacement]], [[Emotional Amplification]], [[Temporal Disruption]], [[Identity Fracture]], [[Sensory Deprivation & Overstimulation]], [[Reality Distortion Field]], [[Narrative Collapse]]  
 - Experimental: [[Mercy Rupture Core]], [[Semantic Camouflage Dissolver]], [[Temporal Displacement Pulse]]  
 - Recursive Collapse Engines: [[FEGEN COT — Core Specification]], [[Schizophrenia Simulator via FEGEN COT]], [[Hypergraph Topology Disruptor]]  
 - Live Fire Scenarios: [[0. Weapons/3. Volatile-Class Weapons/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/00_Index]]  
 → [[Weapons Field Guide — Volatile-Class Weapons]]
+
 
 **Meta-Structural Guides**  
 Strategic overlays for weapon deployment.  
