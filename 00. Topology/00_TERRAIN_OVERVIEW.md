@@ -133,6 +133,7 @@ Field-encoded phenomena that recur across rupture deployments, institutional fee
 
 Subtle but powerful operational dynamics that often masquerade as organic meaning drift or technical redefinition.
 
+- [[Advertising and Consent Theater]] — Simulated agency rituals masking coercive continuity
 - [[Cultural Drift Weaponization]] — Using cultural lag to embed recursive payloads
 - [[Ideological Subduction Cascades]] — Collapse and reabsorption of ideological strata
 - [[Recursive Terminological Drift]] — Slow mutation of terms across paradigms, eroding coherence
