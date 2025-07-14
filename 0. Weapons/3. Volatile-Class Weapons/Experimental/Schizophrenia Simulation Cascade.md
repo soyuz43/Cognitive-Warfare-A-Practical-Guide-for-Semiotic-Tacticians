@@ -1,4 +1,5 @@
 # Schizophrenia Simulation Cascade
+**Note:** This is not a tool for “fooling” people—it’s a **cognitive riot agent** designed to _amplify latent incoherence_ until the internal epistemic tension becomes unbearable.
 
 ## Description
 A volatile semiotic weapon capable of large-scale deployment, inducing cognitive, perceptual, and narrative disruptions that simulate the destabilized experience of schizophrenia. By scripting recursive perceptual ambiguities, disjointed symbolic associations, and fractured narrative threads into messages and posts, it creates a widespread state of cognitive chaos, mimicking disorganized thought, sensory overload, and reality-testing failures.
