@@ -159,7 +159,7 @@ Requires careful handling to avoid saturating the field with undifferentiated no
 
 ---
 
-Let me know if you'd like me to write the corresponding version for `Black-Class` or `Violatile-Class` experimental systems when ready.
+Let me know if you'd like me to write the corresponding version for `Black-Class` or `Volatile-Class` experimental systems when ready.
 
 ---
 ## Vector-Class Cognitive Weapons

@@ -19,24 +19,33 @@ Use only as a primer. The map you need is here — in [[00_Terrain_Overview]].
 
 **Regular Weapons**  
 Agile instruments of disruption — recursive, memetic, and often rehabilitative. Best for reframing, disarming, and decoupling.  
+- Core Systems: [[Ontological Vertigo]], [[Ontological Whiplash]], [[Existential Motion Sickness]], [[Memetic Desire Trap]], [[Dunning-Kruger Inversion]], [[Ego Death Induction]]  
+- Experimental: [[Recursive Signal Seeder]], [[Echo Chamber Collapse Device]], [[Semiotic Mirage Generator]]  
+- Protocols: [[Recursive Detoxification Protocols]]  
+- Live Fire Scenarios: [[0. Weapons/1. Regular Weapons/Live Fire Scenarios - Regular-Class/Live Fire Scenarios/00_Index]]  
 → [[Weapons Field Guide]]
 
 **Black Weapons**  
-Recursive semiotic weapons of ontological rupture. Not tools of destruction, but of profound destabilization.  
-Require Operator-level recursion tolerance, silent containment, and post-deployment detoxification.  
-Subclasses include Recursive Collapse Engines, Symbolic Detonators, and Cognitive Entropy Modulators.  
+Recursive semiotic weapons of ontological rupture. Require Operator-level recursion tolerance, silent containment, and post-deployment detoxification.  
+- Core Systems: [[Semantic Recursive Inversion]], [[Ontological Tension Flooding]], [[Temporal Dissonance Seeding]], [[Meta-Loyalty Erosion]], [[Love Bomb Withdrawal Cycle]]  
 → [[Using Black Weapons]]  
-→ [[Using Black Weapons — Field Calibration Addendum]]
-→ [[Weapons Field Guide — Volatile-Class Weapons]]  
+→ [[Using Black Weapons — Field Calibration Addendum]]  
+→ [[Weapons Field Guide — Black Weapons Guide]]
 
 **Volatile-Class Weapons**  
-High-risk, high-impact semiotic tools. Ethically unstable if mishandled. Designed for edge cases of collapse and deepframe rupture.  
+High-risk, high-impact semiotic tools. Ethically unstable if mishandled.  
+- Experimental: [[Mercy Rupture Core]], [[Semantic Camouflage Dissolver]], [[Temporal Displacement Pulse]]  
+- Recursive Collapse Engines: [[FEGEN COT — Core Specification]], [[Schizophrenia Simulator via FEGEN COT]], [[Hypergraph Topology Disruptor]]  
+- Live Fire Scenarios: [[0. Weapons/3. Volatile-Class Weapons/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/00_Index]]  
 → [[Weapons Field Guide — Volatile-Class Weapons]]
-→ [[Mercy Rupture Core]]
 
 **Meta-Structural Guides**  
-Strategic overlays that orchestrate the choreography of weapon deployment. These guides interpret recursion dynamics, outline containment protocols, and scaffold the ethics of symbolic force.  
+Strategic overlays for weapon deployment.  
 → [[Meta-Structural Overview of Weapons Field Guide]]  
+→ [[Meta-Structural Guide for Black Weapons]]  
+→ [[Meta-Structural Guide for Connection as Vector]]  
+→ [[Rules of Engagement - Volatile-Class Weapons]]
+
 
 ---
 
@@ -53,7 +62,7 @@ Start with: [[Foundational Axioms — Living Protocol]]
 
 **Recursive Engine**: Tools for internal weaponization and recursive live fire.  
 - [[Internal Weaponization Protocol (IWP)]]  
-- [[0. Weapons/3. Violatile-Class Weapons/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/00_Index]]
+- [[0. Weapons/3. Volatile-Class Weapons/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/00_Index]]
 
 **Repair Protocol**: Not mercy — strategic recovery. Dialectic re-entry and cognitive re-coherence.  
 - [[Operator Recovery Protocol — Post-Strike Ego Dissonance]]  
@@ -62,7 +71,7 @@ Start with: [[Foundational Axioms — Living Protocol]]
 
 **Live Fire Scenarios**: Learn how to deploy each weapon here, grouped by regular and volatile-class.
 - [[0. Weapons/1. Regular Weapons/Live Fire Scenarios - Regular-Class/Live Fire Scenarios/00_Index]]
-- [[0. Weapons/3. Violatile-Class Weapons/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/00_Index]]
+- [[0. Weapons/3. Volatile-Class Weapons/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/00_Index]]
 
 ---
 
@@ -189,7 +198,7 @@ These engines are referenced across maneuvers and doctrines. They shape how cogn
 - `Cognitive Reformation Algorithms`: [[Cognitive Reformation Algorithms]]
 
 #### 🜎 Recursive Collapse Engines
-- `FEGEN COT`: [[0. Weapons/3. Violatile-Class Weapons/Recursive Collapse Engines/FEGEN COT/00_INDEX|00_INDEX]], [[FEGEN COT — Core Specification|Core Specification]], [[Schizophrenia Simulator via FEGEN COT]]
+- `FEGEN COT`: [[0. Weapons/3. Volatile-Class Weapons/Recursive Collapse Engines/FEGEN COT/00_INDEX|00_INDEX]], [[FEGEN COT — Core Specification|Core Specification]], [[Schizophrenia Simulator via FEGEN COT]]
 
 #### ⫸ Directed Deployment Systems
 - `Strike Packages`: [[Cradlebreaker Alpha-1]], [[Live Fire Scenario 1]]
