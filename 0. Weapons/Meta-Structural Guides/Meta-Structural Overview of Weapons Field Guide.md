@@ -101,4 +101,3 @@ This is a _semiotic field operations manual_, where the weapons are not just met
 
 ---
 
-Would you like assistance in constructing a **Red Team simulation model** for testing how these weapons affect synthetic agents (LLMs or cognitive agent models)? That could allow us to quantify or visualize their epistemic impact without human harm.
