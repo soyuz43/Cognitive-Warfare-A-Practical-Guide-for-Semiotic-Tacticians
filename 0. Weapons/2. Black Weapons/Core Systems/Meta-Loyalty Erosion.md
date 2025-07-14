@@ -2,8 +2,8 @@
 title: Meta-Loyalty Erosion
 class: Black Weapon
 lethality: Tier 2 – Value Core Destabilizer
-category: #weapon/black/ideological
-version: 1.0
+category: 
+version: 1
 calibration_required: true
 dependencies:
   - Ethics-Logic Crossmapping Matrix

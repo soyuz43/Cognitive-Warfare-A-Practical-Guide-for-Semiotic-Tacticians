@@ -2,8 +2,8 @@
 title: Ontological Tension Flooding
 class: Black Weapon
 lethality: Tier 3 – Frame Saturation Class
-category: #weapon/black/ontological
-version: 1.0
+category: 
+version: 1
 calibration_required: yes
 dependencies:
   - Symbolic Frame Stack Mapper

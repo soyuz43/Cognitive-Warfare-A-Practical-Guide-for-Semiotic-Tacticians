@@ -2,9 +2,9 @@
 title: Semantic Recursive Inversion
 class: Black Weapon
 lethality: Tier 2 – Recursive Collapse Class
-category: #weapon/black/semantic
-version: 1.0
-calibration_required: yes
+category: 
+version: 1
+calibration_required: 
 dependencies:
   - Multi-Level Logic Disruptor
   - Paradox Stack Tracer

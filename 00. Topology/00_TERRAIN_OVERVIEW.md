@@ -21,10 +21,6 @@ Use only as a primer. The map you need is here — in [[00_Terrain_Overview]].
 Agile instruments of disruption — recursive, memetic, and often rehabilitative. Best for reframing, disarming, and decoupling.  
 → [[Weapons Field Guide]]
 
-**Volatile-Class Weapons**  
-High-risk, high-impact semiotic tools. Ethically unstable if mishandled. Designed for edge cases of collapse and deepframe rupture.  
-→ [[Weapons Field Guide — Volatile-Class Weapons]]
-
 **Black Weapons**  
 Recursive semiotic weapons of ontological rupture. Not tools of destruction, but of profound destabilization.  
 Require Operator-level recursion tolerance, silent containment, and post-deployment detoxification.  
@@ -32,6 +28,10 @@ Subclasses include Recursive Collapse Engines, Symbolic Detonators, and Cognitiv
 → [[Using Black Weapons]]  
 → [[Using Black Weapons — Field Calibration Addendum]]
 → [[Weapons Field Guide — Volatile-Class Weapons]]  
+
+**Volatile-Class Weapons**  
+High-risk, high-impact semiotic tools. Ethically unstable if mishandled. Designed for edge cases of collapse and deepframe rupture.  
+→ [[Weapons Field Guide — Volatile-Class Weapons]]
 → [[Mercy Rupture Core]]
 
 **Meta-Structural Guides**  
@@ -108,6 +108,36 @@ These files expose the operational signatures of *semiotic immunosuppression*. U
 See: [[3. Evasion Techniques/00_Index]]
 
 >Prompts:  [[Evasion Techniques Detection]]
+
+
+---
+
+## 🜁 Patterns — `4. Patterns/`
+
+**Semiotic Pattern Recognition**:  
+Field-encoded phenomena that recur across rupture deployments, institutional feedback loops, and cultural drift vectors. This directory is not diagnostic — it is _symptomatic_. Each entry captures a recognizable structure in the wild. Patterns are divided into emergent weaponizations and failure modes.
+
+### Emergent Semiotic Patterns
+
+Subtle but powerful operational dynamics that often masquerade as organic meaning drift or technical redefinition.
+
+- [[Cultural Drift Weaponization]] — Using cultural lag to embed recursive payloads
+- [[Ideological Subduction Cascades]] — Collapse and reabsorption of ideological strata
+- [[Recursive Terminological Drift]] — Slow mutation of terms across paradigms, eroding coherence
+- [[Symbolic Scar Tissue Accumulation]] — Layered trauma residue from historical semiotic rupture
+- [[Weaponized Interpretive Fatigue]] — Forcing interpretive exhaustion through saturation, ambiguity, or symbolic overload
+
+### Failure Patterns
+
+Systemic collapse modes, often triggered by rupture mishandling or defensive overcorrection. Useful for backtracing epistemic entrenchment or ideological breakdown.
+
+- [[Boundary Defense ImmunoResponse]] — Systemic rejection of perceived ontological threat
+- [[Epistemic Hardening Rebound]] — Overcorrection that results in rigidity and dogmatism
+- [[Frame Collapse Feedback Loops]] — Self-reinforcing semantic breakdown under sustained contradiction
+    
+
+> See: [[Pattern Taxonomy Index]] for structured browsing and deployment linkage  
+> See also: [[Observer Annotations]] for live field correlations and operator remarks
 
 ---
 ## 🜁 LLM Prompts — `6. Prompts/`

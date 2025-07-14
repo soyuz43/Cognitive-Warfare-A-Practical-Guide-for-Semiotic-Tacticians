@@ -1,5 +1,3 @@
-
-
 # ⧆ Cultural Drift Weaponization  
 *A semiotic pattern of ambient erosion and covert re-binding of cultural symbols over time.*
 
