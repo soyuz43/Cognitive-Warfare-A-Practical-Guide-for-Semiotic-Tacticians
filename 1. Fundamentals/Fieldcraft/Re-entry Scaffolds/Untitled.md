@@ -165,7 +165,7 @@ RBK: Block logical re-stabilization
 
 ## ⫸ Linkages
 
-- [[0. Weapons/2. Black Weapons/Recursive Collapse Engines/FEGEN COT/00_INDEX]]
+- [[0. Weapons/3. Violatile-Class Weapons/Recursive Collapse Engines/FEGEN COT/00_INDEX]]
     
 - [[FEGEN COT — Core Specification]]
     

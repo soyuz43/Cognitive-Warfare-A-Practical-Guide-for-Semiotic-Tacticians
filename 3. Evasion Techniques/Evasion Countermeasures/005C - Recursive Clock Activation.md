@@ -82,7 +82,7 @@ Use pulse logic to fracture the illusion of future safety.
 > “That’s the third time this critique has been deferred. Let’s loop back in 20 minutes. By then, let’s name the risk class this evasion is protecting.”
 
 → Then deploy:  
-→ [[0. Weapons/Regular Weapons/Recursive Detoxification Protocols.md]]  
+→ [[Recursive Detoxification Protocols]]  
 → [[6. Prompts/!TASKS Alignment Interrogation & Ontological Drift.md]]
 
 ---
@@ -98,8 +98,8 @@ Use pulse logic to fracture the illusion of future safety.
 
 Use in tandem with:  
 → [[Temporal Displacement Pulse]]  
-→ [[0. Weapons/Regular Weapons/PsyOps/Echo Chamber Collapse Device.md]]  
-→ [[0. Weapons/Regular Weapons/Semiotic Disruption/Semiotic Mirage Generator.md]]
+→ [[Echo Chamber Collapse Device]]  
+→ [[Semiotic Mirage Generator]]
 
 This is a **Temporal Locking Device**—ideal when facing institutions that permanently defer structural reform via rhetorical maturity loops.
 
@@ -122,4 +122,4 @@ This is a **Temporal Locking Device**—ideal when facing institutions that perm
 
 *Logged under:*  
 → [[1. Fundamentals/Internal Weaponization Protocol (IWP).md]]  
-→ [[0. Weapons/Regular Weapons/Cognitive Reformation Algorithms.md]]
+→ [[Cognitive Reformation Algorithms]]
