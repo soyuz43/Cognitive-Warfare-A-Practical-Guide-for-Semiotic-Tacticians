@@ -55,7 +55,7 @@ Time is now weaponized—measured not in seconds, but in **missed ruptures**.
 ### ③ **Temporal Collapse Pulse**
 
 Deploy:  
-→ [[0. Weapons/Black Weapons/Temporal Displacement Pulse.md]]  
+→ [[Temporal Displacement Pulse]]  
 → [[Sample_Execution_Dialogue]]
 
 Trigger temporal vertigo:
@@ -97,7 +97,7 @@ Use pulse logic to fracture the illusion of future safety.
 ## Weaponization Clause
 
 Use in tandem with:  
-→ [[0. Weapons/Black Weapons/Temporal Displacement Pulse.md]]  
+→ [[Temporal Displacement Pulse]]  
 → [[0. Weapons/Regular Weapons/PsyOps/Echo Chamber Collapse Device.md]]  
 → [[0. Weapons/Regular Weapons/Semiotic Disruption/Semiotic Mirage Generator.md]]
 

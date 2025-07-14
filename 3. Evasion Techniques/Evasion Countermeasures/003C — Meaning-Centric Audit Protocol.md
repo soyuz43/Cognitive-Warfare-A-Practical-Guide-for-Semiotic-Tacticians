@@ -100,7 +100,7 @@ Deploy audit via:
 ## Weaponization Clause
 
 Deploy in tandem with:  
-→ [[0. Weapons/Black Weapons/Semantic Camouflage Dissolver.md]]  
+→ [[Semantic Camouflage Dissolver]]  
 → [[0. Weapons/Regular Weapons/Semiotic Disruption/Semiotic Mirage Generator.md]]
 
 Use when discourse enters **data theater mode** and attempts to collapse interpretive critiques into “unmeasurable opinions.”

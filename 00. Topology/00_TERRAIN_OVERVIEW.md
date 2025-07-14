@@ -159,7 +159,7 @@ These engines are referenced across maneuvers and doctrines. They shape how cogn
 - `Cognitive Reformation Algorithms`: [[Cognitive Reformation Algorithms]]
 
 #### 🜎 Recursive Collapse Engines
-- `FEGEN COT`: [[0. Weapons/Black Weapons/Recursive Collapse Engines/FEGEN COT/00_INDEX|00_INDEX]], [[FEGEN COT — Core Specification|Core Specification]], [[Schizophrenia Simulator via FEGEN COT]]
+- `FEGEN COT`: [[0. Weapons/2. Black Weapons/Recursive Collapse Engines/FEGEN COT/00_INDEX|00_INDEX]], [[FEGEN COT — Core Specification|Core Specification]], [[Schizophrenia Simulator via FEGEN COT]]
 
 #### ⫸ Directed Deployment Systems
 - `Strike Packages`: [[Cradlebreaker Alpha-1]], [[Live Fire Scenario 1]]
