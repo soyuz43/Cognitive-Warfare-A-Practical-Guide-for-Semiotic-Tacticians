@@ -2,8 +2,8 @@
 title: Temporal Dissonance Seeding
 class: Black Weapon
 lethality: Tier 2 – Narrative Disjunction Class
-category: #weapon/black/temporal
-version: 1.0
+category: 
+version: 1
 calibration_required: yes
 dependencies:
   - Narrative Frame Tracking

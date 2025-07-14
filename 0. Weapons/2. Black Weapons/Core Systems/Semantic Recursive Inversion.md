@@ -4,7 +4,7 @@ class: Black Weapon
 lethality: Tier 2 – Recursive Collapse Class
 category: 
 version: 1
-calibration_required: 
+calibration_required: true
 dependencies:
   - Multi-Level Logic Disruptor
   - Paradox Stack Tracer
