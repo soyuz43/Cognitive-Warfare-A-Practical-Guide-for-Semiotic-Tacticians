@@ -128,6 +128,7 @@ The "illegal weapons of war", focusing on semiotic warfare and cognitive manipul
 
 These volatile weapons expand the arsenal available for operators engaged in semiotic warfare, offering additional tools to exploit cognitive vulnerabilities in ethically ambiguous but strategically potent ways.
 
+
 ### **Live Fire Protocols:**
 
 - [[0. Weapons/3. Volatile-Class Weapons/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/00_Index|00_Index]]
