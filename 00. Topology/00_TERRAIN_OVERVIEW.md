@@ -53,7 +53,7 @@ Start with: [[Foundational Axioms — Living Protocol]]
 
 **Recursive Engine**: Tools for internal weaponization and recursive live fire.  
 - [[Internal Weaponization Protocol (IWP)]]  
-- [[1. Fundamentals/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/00_Index]]
+- [[0. Weapons/3. Violatile-Class Weapons/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/00_Index]]
 
 **Repair Protocol**: Not mercy — strategic recovery. Dialectic re-entry and cognitive re-coherence.  
 - [[Operator Recovery Protocol — Post-Strike Ego Dissonance]]  
@@ -61,8 +61,8 @@ Start with: [[Foundational Axioms — Living Protocol]]
 - [[Field Protocol — Post-Rupture Witness Letter]]
 
 **Live Fire Scenarios**: Learn how to deploy each weapon here, grouped by regular and volatile-class.
-- [[1. Fundamentals/Live Fire Scenarios - Regular-Class/Live Fire Scenarios/00_Index]]
-- [[1. Fundamentals/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/00_Index]]
+- [[0. Weapons/1. Regular Weapons/Live Fire Scenarios - Regular-Class/Live Fire Scenarios/00_Index]]
+- [[0. Weapons/3. Violatile-Class Weapons/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/00_Index]]
 
 ---
 

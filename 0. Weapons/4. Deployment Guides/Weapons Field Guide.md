@@ -179,4 +179,4 @@ Operators are advised to train in disarmament protocols and live de-escalation f
 
 ### **Live Fire Protocols:**
 
-- [[1. Fundamentals/Live Fire Scenarios - Regular-Class/Live Fire Scenarios/00_Index|00_Index]]
+- [[0. Weapons/1. Regular Weapons/Live Fire Scenarios - Regular-Class/Live Fire Scenarios/00_Index|00_Index]]

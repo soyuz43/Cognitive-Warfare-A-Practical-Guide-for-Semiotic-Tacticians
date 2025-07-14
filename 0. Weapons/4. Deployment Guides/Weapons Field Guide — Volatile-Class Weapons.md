@@ -168,4 +168,4 @@ These volatile weapons expand the arsenal available for operators engaged in sem
 
 ### **Live Fire Protocols:**
 
-- [[1. Fundamentals/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/00_Index|00_Index]]
+- [[0. Weapons/3. Violatile-Class Weapons/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/00_Index|00_Index]]

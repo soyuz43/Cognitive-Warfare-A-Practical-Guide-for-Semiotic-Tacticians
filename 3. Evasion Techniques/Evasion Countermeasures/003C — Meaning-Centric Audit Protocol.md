@@ -60,8 +60,8 @@ Reverse the gaze: use **rupture vectors** to expose the saturation reflex as a c
 ### ④ **Reframing Audit via Live Fire Template**
 
 Deploy:  
-→ [[1. Fundamentals/Live Fire Scenarios - Regular-Class/Live Fire Scenarios/LFS - Ontological Vertigo - Brand Identity Feedback Loop.md]]  
-→ [[1. Fundamentals/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/LFS - Perceptual Inversion - Safety Optics Inversion Loop.md]]
+→ [[LFS - Ontological Vertigo - Brand Identity Feedback Loop]]  
+→ [[LFS - Perceptual Inversion - Safety Optics Inversion Loop]]
 
 Embed a scenario audit:  
 > “How does performance theater obscure representational drift or ontological erosion in high-stakes environments?”
