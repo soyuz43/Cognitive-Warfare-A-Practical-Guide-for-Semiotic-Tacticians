@@ -100,6 +100,6 @@ Interpretive Fatigue is most effective in **contexts of asymmetrical responsibil
 ## Last Update
 
 - **Filed:** 2025-07-13  
-- **By:** ⟁ Field Operator 07 (“Will”)
+- **By:** ⟁ Field Operator 07 (“W”)
 
 ---
