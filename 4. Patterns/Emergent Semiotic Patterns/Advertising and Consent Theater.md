@@ -48,7 +48,7 @@ To subvert or expose Consent Theater:
 
 - [[Weaponized Interpretive Fatigue]]
 - [[Recursive Terminological Drift]]
-- [[LLM Sycophancy Loop]]
+- [[4. Patterns/Emergent Semiotic Patterns/LLM Sycophancy Loop]]
 - [[Frame Collapse Feedback Loops]]
 
 ---

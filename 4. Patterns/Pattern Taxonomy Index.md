@@ -25,7 +25,7 @@ This document serves as a living index of semiotic pattern archetypes encountere
 
 - [[Cultural Drift Weaponization]]  
 - [[Ideological Subduction Cascades]]  
-- [[LLM Sycophancy Loop]]  
+- [[4. Patterns/Emergent Semiotic Patterns/LLM Sycophancy Loop]]  
 - [[Recursive Terminological Drift]]  
 - [[Symbolic Scar Tissue Accumulation]]  
 - [[Weaponized Interpretive Fatigue]]  

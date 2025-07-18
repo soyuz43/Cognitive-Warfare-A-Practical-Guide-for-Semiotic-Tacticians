@@ -26,6 +26,7 @@ IWP-guided internalization enables:
 Choose any entry from:
 
 - [[Weapons Field Guide]]
+- [[Weapons Field Guide — Black Weapons Guide]]
 - [[Weapons Field Guide — Volatile-Class Weapons]]
 
 ---
