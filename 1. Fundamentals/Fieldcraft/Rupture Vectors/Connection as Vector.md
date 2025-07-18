@@ -1,6 +1,7 @@
 
-Links
-[[Meta-Structural Guide for Connection as Vector| ⚠️ Meta-Structural Guide for Connection as Vector]]
+### Linkages
+
+[[Meta-Structural Guide for Connection as Vector| - ⚠️ Meta-Structural Guide for Connection as Vector]]
 
 
 ---

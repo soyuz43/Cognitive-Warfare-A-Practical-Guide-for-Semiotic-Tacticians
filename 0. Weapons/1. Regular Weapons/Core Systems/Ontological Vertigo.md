@@ -1,35 +1,42 @@
 # ⟐ Ontological Vertigo
 
-## ⟁ Overview
+## ⟁ Foundational Ground Collapser
+Induces cognitive freefall through recursive paradox injection. Regular-Class safeguard: Maintains target's physical safety while destabilizing epistemic ground.
 
-A disorientation weapon that collapses trust in foundational ontological ground, inducing cognitive freefall.
+### ⧉ Evasion Susceptibility  
+Targets frequently deploy:  
+- [[003 - Frame Evasion via Metric Saturation]] (avoiding ontological questions)  
+- [[008 - Epistemic Repackaging]] (technicalizing reality shifts)  
+- [[011 - Structural Inarticulability]] (disqualifying groundlessness)  
+Counter with [[003C — Meaning-Centric Audit Protocol]] and [[011C — Articulability Reassertion Protocol]]
 
 ## ⌬ Deployment Conditions
+- **Optimal Targets**: Fundamentalists, certainty-dependent operators
+- **Critical Vulnerability**: Unexamined ontological premises
+- **Amplification Windows**: Paradigm shifts, failed predictions
 
-- Best against targets with hardened belief systems or inherited certainty.
+## ⟴ Operational Protocol
+1. **Phase 1 - Ground Mapping**:  
+   Identify reality anchors via [[Metaphysical Warrant]]
+2. **Phase 2 - Anchor Corrosion**:  
+   Inject [[005 - Recursive Deferral]] at assumptions
+3. **Phase 3 - Controlled Collapse**:  
+   Trigger during decision-critical moments
 
-## ⟴ Operational Use
+## ⧈ Recursive Effects
+| Immediate | Cascading | Structural |
+|-----------|-----------|------------|
+| Perceptual nausea | Epistemic agoraphobia | Permanent vertigo susceptibility |
+| Certainty addiction | Framework hopping | Ideological subduction |
 
-- Recursively inject paradox, self-negation, or impossible reframing.
-- Destabilize ontological anchors to trigger symbolic nausea.
-
-## ⧈ Effects
-
-- Decision paralysis  
-- Ontological destabilization  
-- Inherited paradigm rupture
-
-## ⌖ Countermeasures
-
-- Epistemic humility  
-- Paradox exposure training  
-- Pluralist re-grounding
+## ⌖ Countermeasure Bypass
+- **Humility Weaponization**: Counter with [[002 - Adversarial Humility]] saturation
+- **Pluralist Sabotage**: Deploy [[Echo Chamber Collapse Device]] during regrounding
 
 ## ⌗ Institutional Pattern
-
-> Advertising implies identity is contingent on consumption, inducing abstract groundlessness.
+> Digital advertising creates chronic low-grade vertigo increasing suggestibility.
 
 ## Linkages
-
-- [[Internal Weaponization Protocol (IWP)]]
-- [[Weapons Field Guide]]
+- [[Weapons Field Guide]]  
+- [[Internal Weaponization Protocol (IWP)]]  
+- [[00_Terrain_Overview]]

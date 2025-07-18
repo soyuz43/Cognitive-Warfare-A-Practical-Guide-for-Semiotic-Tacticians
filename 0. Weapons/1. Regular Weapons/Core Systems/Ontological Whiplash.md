@@ -1,34 +1,42 @@
 # ⟐ Ontological Whiplash
 
-## ⟁ Overview
+## ⟁ Narrative Continuity Disruptor
+Induces cognitive whiplash through high-velocity frame alternation. Regular-Class governor: Prevents [[Temporal Disruption]] through controlled frequency modulation.
 
-Alternates opposing interpretive frames at speed, snapping narrative continuity and inducing cognitive stutter.
+### ⧉ Evasion Susceptibility  
+Targets frequently deploy:  
+- [[005 - Recursive Deferral]] (delaying frame integration)  
+- [[006 - The Collapsing Paradox Defense]] (reframing as complexity)  
+- [[010 - The Discourse Assimilation Loop]] (absorbing discontinuity)  
+Counter with [[005C - Recursive Clock Activation]] and [[010C — Frame Irreducibility Weapon]]
 
 ## ⌬ Deployment Conditions
+- **Optimal Targets**: Closure-seekers, linear thinkers
+- **Critical Vulnerability**: Cognitive rigidity
+- **Terrain Advantage**: Information-saturated environments
 
-- Best deployed against targets seeking resolution or cognitive closure.
+## ⟴ Operational Protocol
+1. **Phase 1 - Frame Identification**:  
+   Map closure patterns via [[Operator Detection Grammar]]
+2. **Phase 2 - Velocity Calibration**:  
+   Establish reframing tolerance baseline
+3. **Phase 3 - Whiplash Induction**:  
+   Alternate perceptual inversions at threshold frequency
 
-## ⟴ Operational Use
+## ⧈ Recursive Effects
+| Immediate             | Cascading           | Structural              |
+| --------------------- | ------------------- | ----------------------- |
+| Interpretive whiplash | Narrative agnosia   | Permanent vulnerability |
+| Cognitive stutter     | Epistemic surrender | Terminological drift    |
 
-- Introduce one interpretive system, then rapidly negate or invert it.  
-- Repeat recursively.
-
-## ⧈ Effects
-
-- Epistemic dissonance  
-- Narrative seeking hypervigilance  
-- Interpretive destabilization
-
-## ⌖ Countermeasures
-
-- Narrative multiplicity training  
-- Decentering rituals  
-- Semiotic decompression protocols
+## ⌖ Countermeasure Bypass
+- **Multiplicity Overload**: Counter during decentering attempts
+- **Decompression Prevention**: Deploy during [[Symbolic Debris Field Analysis|Recovery Analysis]]
 
 ## ⌗ Institutional Pattern
-
-> Peer review gatekeeping: praise for innovation followed by punishment for nonconformity.
+> Agile environments create chronic whiplash to disorient critical examination.
 
 ## Linkages
-
-- [[Weapons Field Guide]]
+- [[Weapons Field Guide]]  
+- [[LFS - Ontological Whiplash - Ethical Brand Schism]]  
+- [[Structural Collapse Vectors — Deployment Grammar]]

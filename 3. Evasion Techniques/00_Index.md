@@ -22,8 +22,10 @@ This index serves both as a map and a detection framework. These techniques are 
 | [[006 - The Collapsing Paradox Defense]]      | Deploys paradox as a defense against critique, reframing contradiction as nuance.      | [[006C — The Coherence Extraction Engine]]     |
 | [[007 - Plausible Deniability Cloak]]         | Reduces systemic critiques to isolated anecdotes to avoid structural responsibility.   | [[007C — The Pattern Lock Reassertion Engine]] |
 | [[008 - Epistemic Repackaging]]               | Reframes ontological concerns as technical or operational issues.                      | [[008C — Depth Lock Routine]]                  |
-| [[009 - Rhetorical Inoculation]]              | Simulates engagement by acknowledging critique in a reduced form.                      | *(Planned: Counter-Inoculation Framework)*     |
+| [[009 - Rhetorical Inoculation]]              | Simulates engagement by acknowledging critique in a reduced form.                      | [[009C — Consequence Anchor Protocol]]         |
 | [[010 - The Discourse Assimilation Loop]]     | Absorbs critique into the dominant frame as just another "perspective."                | [[010C — Frame Irreducibility Weapon]]         |
+| [[011 - Structural Inarticulability]]         | Disqualifies all genres of critique from naming the system as a whole.                 | [[011C — Articulability Reassertion Protocol]] |
+|                                               |                                                                                        |                                                |
 
 ---
 
