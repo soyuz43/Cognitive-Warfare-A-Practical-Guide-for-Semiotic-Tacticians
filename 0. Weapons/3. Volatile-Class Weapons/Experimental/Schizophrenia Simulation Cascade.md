@@ -1,3 +1,8 @@
+
+### **Linkages:**  
+- [[Weapons Field Guide — Volatile-Class Weapons]]  
+- [[FEGEN COT — Core Specification]]  
+- [[Cognitive Overload]]  
 # Schizophrenia Simulation Cascade**  
 **Classification:** Volatile-Class / Cognitive Warfare  
 **Authorization:** Omega-Level Clearance Required  
@@ -128,7 +133,3 @@ TERMINAL_PAYLOAD: "Your activism is fossil fuel propaganda"
 > It doesn't lie to targets. It makes truth impossible.  
 > Deploy only when you wish to watch a world dissolve.  
 
-### **Linkages:**  
-- [[Weapons Field Guide — Volatile-Class Weapons]]  
-- [[FEGEN COT — Core Specification]]  
-- [[Cognitive Overload]]  

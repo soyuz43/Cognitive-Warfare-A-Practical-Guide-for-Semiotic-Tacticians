@@ -157,9 +157,6 @@ Requires careful handling to avoid saturating the field with undifferentiated no
 > Use them where clarity has calcified into prison walls.  
 > And remember—some structures collapse from the inside out.
 
----
-
-Let me know if you'd like me to write the corresponding version for `Black-Class` or `Volatile-Class` experimental systems when ready.
 
 ---
 ## Vector-Class Cognitive Weapons

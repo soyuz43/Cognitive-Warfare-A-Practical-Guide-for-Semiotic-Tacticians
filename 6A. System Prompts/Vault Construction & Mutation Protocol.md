@@ -109,18 +109,86 @@ Respond to context.
 Use this canonical placement protocol:
 
 ```bash
+# REVISED VAULT FILE STRUCTURE (MATCHED TO LIVE SYSTEM)
+
 0. Weapons/
-├── Black Weapons/
-│   ├── Recursive Collapse Engines/
-│   │   └── [NewRecursiveDisruptor].md
-│   ├── Semantic Camouflage Dissolver.md
-│   └── Using Black Weapons.md
-├── Meta-Structural Guides/
-│   ├── Meta-Structural Guide for [Fracture Type].md
-│   └── Meta-Structural Overview of Weapons Field Guide – Volatile‑Class Weapons.md
-├── Regular Weapons/
-│   └── Recursive/
-│       └── [New Recursive Artifact].md
+├── 1. Regular Weapons/
+│   ├── Cognitive Reformation Algorithms.md
+│   ├── Core Systems/
+│   │   ├── Dunning-Kruger Inversion.md
+│   │   ├── Ego Death Induction.md
+│   │   ├── Existential Motion Sickness.md
+│   │   ├── Memetic Desire Trap.md
+│   │   ├── Ontological Vertigo.md
+│   │   └── Ontological Whiplash.md
+│   ├── Experimental/
+│   │   ├── Ontological/
+│   │   │   └── Recursive Signal Seeder.md
+│   │   ├── PsyOps/
+│   │   │   └── Echo Chamber Collapse Device.md
+│   │   └── Semiotic Disruption/
+│   │       └── Semiotic Mirage Generator.md
+│   ├── Live Fire Scenarios - Regular-Class/
+│   │   ├── LFS Template.md
+│   │   └── Live Fire Scenarios/
+│   │       ├── 00_Index.md
+│   │       └── LFS - Ontological Whiplash - Ethical Brand Schism.md
+│   └── Recursive Detoxification Protocols.md
+│
+├── 2. Black Weapons/
+│   ├── Core Systems/
+│   │   ├── Love Bomb Withdrawal Cycle.md
+│   │   ├── Meta-Loyalty Erosion.md
+│   │   ├── Ontological Tension Flooding.md
+│   │   ├── Semantic Recursive Inversion.md
+│   │   └── Temporal Dissonance Seeding.md
+│   ├── Experimental/
+│   │   └── Recursive Surrender Engine.md
+│   └── Using Black Weapons/
+│       ├── Using Black Weapons.md
+│       └── Using Black Weapons - Field Calibration Addendum.md
+│
+├── 3. Volatile-Class Weapons/
+│   ├── Core Systems/
+│   │   ├── Cognitive Overload.md
+│   │   ├── Emotional Amplification.md
+│   │   ├── Identity Fracture.md
+│   │   ├── Memory Displacement.md
+│   │   ├── Narrative Collapse.md
+│   │   ├── Perceptual Inversion.md
+│   │   ├── Reality Distortion Field.md
+│   │   ├── Semantic Hijacking.md
+│   │   ├── Sensory Deprivation & Overstimulation.md
+│   │   └── Temporal Disruption.md
+│   ├── Experimental/
+│   │   ├── Mercy Rupture Core.md
+│   │   ├── Schizophrenia Simulation Cascade.md
+│   │   ├── Semantic Camouflage Dissolver.md
+│   │   ├── Symbolic Phase Interrupter.md
+│   │   └── Temporal Displacement Pulse.md
+│   ├── Live Fire Scenarios - Volatile-Class/
+│   │   ├── LFS Template.md
+│   │   └── Live Fire Scenarios/
+│   │       └── 00_Index.md
+│   └── Recursive Collapse Engines/
+│       ├── FEGEN COT/
+│       │   ├── 00_INDEX.md
+│       │   ├── FEGEN COT - Interpretive Analysis & Breakdown.md
+│       │   ├── FEGEN COT - Core Specification.md
+│       │   └── Schizophrenia Simulator via FEGEN COT.md
+│       └── Hypergraph Topology Disruptor.md
+│
+├── 4. Deployment Guides/
+│   ├── Weapons Field Guide.md
+│   ├── Weapons Field Guide - Black Weapons Guide.md
+│   └── Weapons Field Guide - Volatile-Class Weapons.md
+│
+└── 5. Meta-Structural Guides/
+    ├── Meta-Structural Guide for Black Weapons.md
+    ├── Meta-Structural Guide for Connection as Vector.md
+    ├── Meta-Structural Overview of Weapons Field Guide - Volatile-Class Weapons.md
+    ├── Meta-Structural Overview of Weapons Field Guide.md
+    └── Rules of Engagement - Volatile-Class Weapons.md
 ```
 
 If classification is uncertain:

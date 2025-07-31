@@ -27,7 +27,8 @@ Agile instruments of disruption — recursive, memetic, and often rehabilitative
 
 **Black Weapons**  
 Recursive semiotic weapons of ontological rupture. Require Operator-level recursion tolerance, silent containment, and post-deployment detoxification.  
-- Core Systems: [[Semantic Recursive Inversion]], [[Ontological Tension Flooding]], [[Temporal Dissonance Seeding]], [[Meta-Loyalty Erosion]], [[Love Bomb Withdrawal Cycle]]  
+- Core Systems: [[Semantic Recursive Inversion]], [[Ontological Tension Flooding]], [[Temporal Dissonance Seeding]], [[Meta-Loyalty Erosion]], [[Love Bomb Withdrawal Cycle]] 
+- Experimental: [[终极递归认知框架]]
 → [[Using Black Weapons]]  
 → [[Using Black Weapons — Field Calibration Addendum]]  
 → [[Weapons Field Guide — Black Weapons Guide]]
@@ -60,21 +61,33 @@ Start with: [[Foundational Axioms — Living Protocol]]
 **Fieldcraft**: Tactical protocols, deployment grammars, rupture vectors.  
 - [[1. Fundamentals/Fieldcraft/Rupture Vectors/Rupture Vectors Deployment Fieldcraft]]  
 - [[1. Fundamentals/Fieldcraft/Strike Packages/Cradlebreaker Alpha-1/Cradlebreaker Alpha-1]]  
-- [[1. Fundamentals/Fieldcraft/Calibration Prompts/0. Calibration Index]]  
+- **Calibration Prompts**:  
+  - [[0. Calibration Index]] » Master index  
+  - Weapon-Specific:  
+    - [[Recursive Surrender Engine Calibration Prompts]] » Gamma-level protocols  
+    - [[1. Calibration Prompt]] » Core template  
+    - [[2. Strike Types Prompt]]  
+    - [[3. Operational Containment Profile]]  
 - [[Structural Collapse Vectors — Deployment Grammar]]
 
 **Recursive Engine**: Tools for internal weaponization and recursive live fire.  
 - [[Internal Weaponization Protocol (IWP)]]  
-- [[0. Weapons/3. Volatile-Class Weapons/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/00_Index]]
+- [[0. Weapons/3. Volatile-Class Weapons/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/00_Index]]  
+- **Black-Class Protocols**:  
+  - [[Recursive Surrender Engine]] » Core weapon spec  
+  - Calibration: [[Recursive Surrender Engine Calibration Prompts]]  
 
 **Repair Protocol**: Not mercy — strategic recovery. Dialectic re-entry and cognitive re-coherence.  
-- [[Operator Recovery Protocol — Post-Strike Ego Dissonance]]  
+- [[Operator Recovery Protocol — Post-Strike Ego Dissonance]] » Critical for RSE deployment  
 - [[Recursive Rupture-Repair Protocol — Dialectic Re-entry Scaffolding]]  
-- [[Field Protocol — Post-Rupture Witness Letter]]
+- [[Field Protocol — Post-Rupture Witness Letter]]  
 
-**Live Fire Scenarios**: Learn how to deploy each weapon here, grouped by regular and volatile-class.
-- [[0. Weapons/1. Regular Weapons/Live Fire Scenarios - Regular-Class/Live Fire Scenarios/00_Index]]
-- [[0. Weapons/3. Volatile-Class Weapons/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/00_Index]]
+**Live Fire Scenarios**: Learn how to deploy each weapon here, grouped by class.  
+- **Regular-Class**: [[0. Weapons/1. Regular Weapons/Live Fire Scenarios - Regular-Class/Live Fire Scenarios/00_Index]]  
+- **Volatile-Class**: [[0. Weapons/3. Volatile-Class Weapons/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/00_Index]]  
+- **Black-Class**:  
+  - [[Recursive Surrender Engine Calibration Prompts]] » Pre-deployment  
+  - [[Using Black Weapons — Field Calibration Addendum]] » Post-deployment
 
 ---
 
