@@ -94,7 +94,7 @@ Prompts that test for the reflex gently without collapsing rapport.
 
 ## Vault Linkbacks
 
-- [[Reflex Pattern Index]]]  
+- [[Reflex Pattern Index]]  
 - [[3. Evasion Techniques/010 - The Discourse Assimilation Loop]]  
 - [[Fieldcraft/Calibration Prompts/0. Calibration Index]]  
 - [[Structural Collapse Vectors — Deployment Grammar]]  

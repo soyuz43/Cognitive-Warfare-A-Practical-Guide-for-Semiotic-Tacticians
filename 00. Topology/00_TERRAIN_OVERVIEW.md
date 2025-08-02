@@ -98,7 +98,7 @@ Start with: [[Foundational Axioms — Living Protocol]]
 - [[Field Tactics/Lateral Fracture Maneuver/Lateral Fracture Maneuver]] — Lateral destabilization via oblique epistemic entry
 - [[Field Tactics/Metaphysical Disarmament Maneuver/Metaphysical Disarmament Maneuver]] — Induces metaphysical disclosure in frozen systems
 - [[Field Tactics/Recursive Semantic Subduction/Recursive Semantic Subduction]] — Semantic overload to destabilize coherence scaffolds
-- [[Field Tactics/Tactical Doctrine — Disarmament Tier]] — Tiered escalation logic for disarmament sequences
+- [[Tactical Doctrine — Disarmament Tier]] — Tiered escalation logic for disarmament sequences
 
 **Repair Tactics**: Re-alignment strategies post-rupture. Designed to stabilize operator posture and restore the collaborative frame under duress.
 
