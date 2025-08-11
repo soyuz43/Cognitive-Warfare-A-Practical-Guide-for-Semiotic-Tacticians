@@ -1,7 +1,7 @@
 # ⟐ Ego Death Induction
 
 ## ⟁ Precision Identity Scaffolding Collapser
-The Ego Death Induction is a targeted narrative recursion bomb that detonates self-continuity constructs. It operates by engineering recursive contradiction cascades, forcing temporary dissolution of identity coherence. Regular-Class compliance ensures controlled demolition without triggering [[Schizophrenia Simulation Cascade]].
+The Ego Death Induction is a targeted narrative recursion bomb that detonates self-continuity constructs. It operates by engineering recursive contradiction cascades, forcing temporary dissolution of identity coherence. Regular-Class compliance ensures controlled demolition without triggering [[Epistemic Violence Simulation Cascade]].
 
 ### ⧉ Evasion Susceptibility  
 Targets frequently deploy:  
@@ -16,7 +16,7 @@ Counter with:
 ## ⌬ Deployment Conditions
 - **Optimal Targets**: Ideological fundamentalists, personality-cult leaders, rigid institutionalists with entrenched egoic patterns.
 - **Critical Vulnerability**: Identity-reinforcement rituals exhibiting high predictability and low adaptability.
-- **Contraindications**: Avoid during life transitions or grief states to prevent triggering [[Schizophrenia Simulation Cascade]].
+- **Contraindications**: Avoid during life transitions or grief states to prevent triggering [[Epistemic Violence Simulation Cascade]].
 
 ## ⟴ Operational Protocol
 1. **Phase 1 - Mirror Forging**:  

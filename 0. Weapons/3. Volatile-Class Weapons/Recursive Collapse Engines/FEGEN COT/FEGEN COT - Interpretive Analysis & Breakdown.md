@@ -139,7 +139,7 @@ This analytical construct surfaces the systemic fractures in `Ξ⊥drift`. Proce
 
 - [[0. Weapons/3. Volatile-Class Weapons/Recursive Collapse Engines/FEGEN COT/00_INDEX]]
 
-- [[Schizophrenia Simulator via FEGEN COT]]
+- [[Epistemic Violence Simulator via FEGEN COT]]
 
 
 **Directive**: Do not export beyond Vault.  

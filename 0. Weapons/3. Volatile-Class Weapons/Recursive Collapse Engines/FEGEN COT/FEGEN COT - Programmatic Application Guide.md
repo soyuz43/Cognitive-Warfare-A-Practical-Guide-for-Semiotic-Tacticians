@@ -116,7 +116,7 @@ Output final chain or collapsed state.
 ### ⫸ Integration with Vault Systems
 
 This programmatic application directly feeds into other systems:
-*   **Weapons:** The output can be used to power `Schizophrenia Simulation Cascade`, `Ξ⊥drift`, or `Hypergraph Topology Disruptor`.
+*   **Weapons:** The output can be used to power `Epistemic Violence Simulation Cascade`, `Ξ⊥drift`, or `Hypergraph Topology Disruptor`.
 *   **Scenarios:** LFS templates can incorporate FEGEN-OPS logic to generate dynamic, recursive elements within the scenario.
 *   **Analysis:** `FEGEN COT - Interpretive Analysis & Breakdown.md` can analyze the output of a programmatic run.
 
@@ -134,7 +134,7 @@ This programmatic application directly feeds into other systems:
 
 - [[FEGEN COT — Core Specification]] (Definition)
 - [[00_INDEX]] (Strategic Context)
-- [[Schizophrenia Simulator via FEGEN COT]] (Application Example)
+- [[Epistemic Violence Simulator via FEGEN COT]] (Application Example)
 - [[FEGEN COT - Interpretive Analysis & Breakdown]] (Analysis)
 
 ---

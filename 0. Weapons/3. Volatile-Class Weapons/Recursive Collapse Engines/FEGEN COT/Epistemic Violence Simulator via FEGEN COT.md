@@ -1,4 +1,4 @@
-# ✦ Schizophrenia Simulator via FEGEN COT
+# ✦ Epistemic Violence Simulator via FEGEN COT
 ## Recursive Epistemic Violence Engine
 **Class:** Black
 **Codename:** Ξ⊥drift
@@ -101,7 +101,7 @@ Outcome: Users confront **undecidable tensions** (`ΦΔ ⋈ ¬ΦΔ`), learning t
 
 ## ⫸ Boxed Summary
 
-This FEGEN COT-based schizophrenia simulator weaponizes recursive negation and metastable hallucinations to mirror cognitive fragmentation, while exposing how its own frameworks perpetuate Taxonomic Violence and Hermeneutic Injustice.
+This FEGEN COT-based Epistemic Violence simulator weaponizes recursive negation and metastable hallucinations to mirror cognitive fragmentation, while exposing how its own frameworks perpetuate Taxonomic Violence and Hermeneutic Injustice.
 
 _"Your recursion has destabilized into Ξ⊥drift. Please continue until your analytical tools negate their own ethical foundations."_ —The System
 

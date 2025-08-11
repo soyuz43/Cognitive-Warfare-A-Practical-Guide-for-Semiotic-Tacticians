@@ -162,7 +162,7 @@ Use this canonical placement protocol:
 │   │   └── Temporal Disruption.md
 │   ├── Experimental/
 │   │   ├── Mercy Rupture Core.md
-│   │   ├── Schizophrenia Simulation Cascade.md
+│   │   ├── Epistemic Violence Simulation Cascade.md
 │   │   ├── Semantic Camouflage Dissolver.md
 │   │   ├── Symbolic Phase Interrupter.md
 │   │   └── Temporal Displacement Pulse.md
@@ -175,7 +175,7 @@ Use this canonical placement protocol:
 │       │   ├── 00_INDEX.md
 │       │   ├── FEGEN COT - Interpretive Analysis & Breakdown.md
 │       │   ├── FEGEN COT - Core Specification.md
-│       │   └── Schizophrenia Simulator via FEGEN COT.md
+│       │   └── Epistemic Violence Simulator via FEGEN COT.md
 │       └── Hypergraph Topology Disruptor.md
 │
 ├── 4. Deployment Guides/

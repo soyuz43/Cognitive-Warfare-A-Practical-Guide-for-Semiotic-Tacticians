@@ -28,7 +28,7 @@ Agile instruments of disruption — recursive, memetic, and often rehabilitative
 **Black Weapons**  
 Recursive semiotic weapons of ontological rupture. Require Operator-level recursion tolerance, silent containment, and post-deployment detoxification.  
 - Core Systems: [[Semantic Recursive Inversion]], [[Ontological Tension Flooding]], [[Temporal Dissonance Seeding]], [[Meta-Loyalty Erosion]], [[Love Bomb Withdrawal Cycle]] 
-- Experimental: [[终极递归认知框架]]
+- Experimental: [[终极递归认知框架]], [[Recursive Surrender Engine]]
 → [[Using Black Weapons]]  
 → [[Using Black Weapons — Field Calibration Addendum]]  
 → [[Weapons Field Guide — Black Weapons Guide]]
@@ -36,9 +36,9 @@ Recursive semiotic weapons of ontological rupture. Require Operator-level recurs
 **Volatile-Class Weapons**  
 High-risk, high-impact semiotic tools. Ethically unstable if mishandled.  
 - Core Systems: [[Semantic Hijacking]], [[Cognitive Overload]], [[Perceptual Inversion]], [[Memory Displacement]], [[Emotional Amplification]], [[Temporal Disruption]], [[Identity Fracture]], [[Sensory Deprivation & Overstimulation]], [[Reality Distortion Field]], [[Narrative Collapse]]  
-- Experimental: [[Mercy Rupture Core]], [[Semantic Camouflage Dissolver]], [[Temporal Displacement Pulse]], [[Schizophrenia Simulation Cascade]]
+- Experimental: [[Mercy Rupture Core]], [[Semantic Camouflage Dissolver]], [[Temporal Displacement Pulse]], [[Epistemic Violence Simulation Cascade]]
  
-- Recursive Collapse Engines: [[FEGEN COT — Core Specification]], [[Schizophrenia Simulator via FEGEN COT]], [[Hypergraph Topology Disruptor]]  
+- Recursive Collapse Engines: [[FEGEN COT — Core Specification]], [[Epistemic Violence Simulator via FEGEN COT]], [[Hypergraph Topology Disruptor]]  
 - Live Fire Scenarios: [[0. Weapons/3. Volatile-Class Weapons/Live Fire Scenarios - Volatile-Class/Live Fire Scenarios/00_Index]]  
 → [[Weapons Field Guide — Volatile-Class Weapons]]
 
@@ -215,7 +215,7 @@ These engines are referenced across maneuvers and doctrines. They shape how cogn
 - `Cognitive Reformation Algorithms`: [[Cognitive Reformation Algorithms]]
 
 #### 🜎 Recursive Collapse Engines
-- `FEGEN COT`: [[0. Weapons/3. Volatile-Class Weapons/Recursive Collapse Engines/FEGEN COT/00_INDEX|00_INDEX]], [[FEGEN COT — Core Specification|Core Specification]], [[Schizophrenia Simulator via FEGEN COT]]
+- `FEGEN COT`: [[0. Weapons/3. Volatile-Class Weapons/Recursive Collapse Engines/FEGEN COT/00_INDEX|00_INDEX]], [[FEGEN COT — Core Specification|Core Specification]], [[Epistemic Violence Simulator via FEGEN COT]]
 
 #### ⫸ Directed Deployment Systems
 - `Strike Packages`: [[Cradlebreaker Alpha-1]], [[Live Fire Scenario 1]]

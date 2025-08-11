@@ -45,7 +45,7 @@ Used when a contradiction is sublimated instead of resolved.
 > _“Can both of those be true without distortion?”_  
 > _“Which part of that sentence are you hiding in?”_
 
-🔧 Deploy: `Recursive Collapse Engine`, `Schizophrenia Simulator`
+🔧 Deploy: `Recursive Collapse Engine`, `Epistemic Violence Simulator`
 
 ---
 

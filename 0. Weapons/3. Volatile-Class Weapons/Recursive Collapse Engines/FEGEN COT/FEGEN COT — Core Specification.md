@@ -83,7 +83,7 @@ While the original syntax was opaque, the underlying process can be described mo
 - Treat the output chain as a sequence of conflicting viewpoints or a path towards conceptual destabilization, not as a logical argument to be accepted.
 - Combine with other techniques:
     - Use alongside prompts that modulate tone or emotional framing ("Mood Modulation") to add affective dimensions to the contradictions.
-    - Feed the final collapsed state or key links from the chain into other weapons or analysis tools (e.g., as input for a `Schizophrenia Simulation Cascade` or `Ξ⊥drift`).
+    - Feed the final collapsed state or key links from the chain into other weapons or analysis tools (e.g., as input for a `Epistemic Violence Simulation Cascade` or `Ξ⊥drift`).
 - Use for:
     - Stress-testing the coherence of an idea or argument.
     - Generating material for `Recursive Semantic Subduction`.
@@ -93,7 +93,7 @@ While the original syntax was opaque, the underlying process can be described mo
 
 ### ⫸ See Also
 
-- [[Schizophrenia Simulator via FEGEN COT]] (Application Example)
+- [[Epistemic Violence Simulator via FEGEN COT]] (Application Example)
 - [[FEGEN COT - Programmatic Application Guide]] (Implementation Details)
 - [[FEGEN COT - Interpretive Analysis & Breakdown]] (Analysis)
 - [[00_INDEX]] (Recursive Collapse Engines Overview)

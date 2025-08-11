@@ -19,7 +19,7 @@ Its utility lies in what breaks under recursion — and how that break can be in
 | Filename                                         | Description                                                                                               |
 | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
 | [[FEGEN COT — Core Specification]]               | Formal schema of FEGEN COT logic patterns, recursion protocol, and entropy mechanics.                     |
-| [[Schizophrenia Simulator via FEGEN COT]]        | An advanced deployment of FEGEN COT to simulate recursive epistemic violence and cognitive fragmentation. |
+| [[Epistemic Violence Simulator via FEGEN COT]]        | An advanced deployment of FEGEN COT to simulate recursive epistemic violence and cognitive fragmentation. |
 | [[FEGEN COT - Programmatic Application Guide]]   | A guide to implementing and operationalizing the FEGEN COT framework programmatically.                    |
 | [[FEGEN COT - Interpretive Analysis & Breakdown]]| A diagnostic tool for analyzing the output and internal mechanics of FEGEN COT deployments.                |
 

@@ -3,7 +3,7 @@
 - [[Weapons Field Guide — Volatile-Class Weapons]]  
 - [[FEGEN COT — Core Specification]]  
 - [[Cognitive Overload]]  
-# Schizophrenia Simulation Cascade**  
+# **Epistemic Violence Simulation Cascade**  
 **Classification:** Volatile-Class / Cognitive Warfare  
 **Authorization:** Omega-Level Clearance Required  
 **Threat Profile:** Epistemic Fragmentation, Mass Cognitive Disruption  
@@ -11,7 +11,7 @@
 ---
 
 ### **⫸ Fracture Vector**  
-The **Schizophrenia Simulation Cascade** is a recursive semiotic weapon that weaponizes *latent epistemic fractures* through hyper-chaotic narrative injection. Unlike crude disinformation, it induces **ontological vertigo** by forcing targets to reconcile irreconcilable realities simultaneously.  
+The **Epistemic Violence Simulation Cascade** is a recursive semiotic weapon that weaponizes *latent epistemic fractures* through hyper-chaotic narrative injection. Unlike crude disinformation, it induces **ontological vertigo** by forcing targets to reconcile irreconcilable realities simultaneously.  
 
 Key Mechanics:  
 - **Perceptual Splintering**: Deploys 7+ contradictory reality tunnels in parallel  
