@@ -42,7 +42,7 @@ Counter with:
 ## Linkages
 - [[Internal Weaponization Protocol (IWP)]]
 - [[Weapons Field Guide]]
-- [[00_Terrain_Overview]]
+- [[LFS - Ontological Vertigo - Brand Identity Feedback Loop]]
 
 ---
 
